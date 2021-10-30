@@ -1,0 +1,11 @@
+hit,VERB
+hit,VERB
+hit,VERB
+hit,NOUN
+hit,NOUN
+hit,VERB
+hit,VERB
+hit,NOUN
+hit,VERB
+hit,VERB
+hit,VERB

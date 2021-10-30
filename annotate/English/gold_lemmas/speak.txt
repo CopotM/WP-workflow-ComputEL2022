@@ -1,0 +1,16 @@
+peak,NOUN
+speak,VERB
+speak,VERB
+speak,VERB
+speak,VERB
+speak,VERB
+speak,VERB
+speaker,NOUN
+speaker,NOUN
+speaker,NOUN
+speaker,NOUN
+speak,VERB
+speak,VERB
+speak,VERB
+speak,VERB
+speak,VERB
