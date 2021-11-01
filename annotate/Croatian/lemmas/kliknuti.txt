@@ -1,0 +1,2 @@
+Dovoljno je,kliknuti,True,"na temu i promijenit će se kompletno sučelje : raspored boja , pozadinska fotografija , zvukovi ..."
+"Ako pak želite podesiti boju sučelja , tada ćete",kliknuti,True,"na jedno mjesto udesno ( Window Color and Appearance ) , odabrati osnovnu nijansu boje od ponuđenih , odlučiti se za prozirnost i nijansu iste i to je to ."

@@ -1,0 +1,6 @@
+VERB,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+VERB,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+VERB,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+VERB,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+VERB,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+VERB,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin,Mood=Imp|Number=Plur|Person=2|VerbForm=Fin

@@ -1,0 +1,6 @@
+U izjavama,danim,True,"za BBC , grčki stručnjak za terorizam Athanasios Drougas ukazao je na Revolucionarnu borbu , najnasilniju militantnu skupinu u zemlji , koja se nalazi na popisima terorističkih organizacija EU i SAD-a , kao moguće počinitelje bombaškog napada ."
+"Velčev , koji je preuzeo dužnost prije manje od mjesec dana , informirao je Rehna o",planiranim,True,"strukturnim promjenama u tužiteljstvu , obećavajući također kako će idućih dana biti podignute optužnice protiv ključnih šefova podzemlja ."
+"Razgovorima ,",održanim,True,"19. veljače u Sofiji , također je nazočio Sergej Kirijenko , ravnatelj Rosatoma , regulatornog tijela ruske nuklearne industrije ."
+""" Unatoč zakonskom okviru i",povećanim,True,"mjerama prikrivanja identiteta svjedoka u sudskim procesima , broj svjedoka koji su voljni svjedočiti na sudu i dalje je vrlo limitiran "" , kazao je ."
+"Među njima jačanje su vladavine zakona , reforma pravosuđa i izbornog sustava te sučeljavanje s",organiziranim,True,kriminalom i korupcijom .
+S obzirom na činjenicu da neki izvori financiranja unatoč,potpisanim,True,"ugovorima nisu realizirali svoje obaveze , Hrvatski filmski savez ostvario je manjak prihoda od 65554,58 kuna koji će biti pokriven prihodima od djelatnosti u 2013. godini ."

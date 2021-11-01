@@ -1,0 +1,10 @@
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing,None
+ADJ,Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing,None

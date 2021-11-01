@@ -1,0 +1,31 @@
+Željko Komšić,nastavit,True,će obnašati funkciju člana tročlanog Predsjedništva BiH .
+Misija aktivista koji su planirali prevesti,pomoć,True,"u Pojas Gaze suočila se u subotu ( 2. srpnja ) s velikom zaprekom , nakon što su grčke vlasti zaustavile njihov konvoj i uhitile kapetana jednog od brodova koji je plovio pod američkom zastavom , što je izazvalo nove prijepore ."
+"U međuvremenu , Kvartet bliskoistočnih mirovnih posrednika , koji čine UN , Sjedinjene Američke Države , EU i Rusija , objavio je u subotu priopćenje u kojem pozivaju "" sve koji žele isporučiti",pomoć,True,"građanima Gaze da to učine preko uspostavljenih kanala , kako bi se njihov teret mogao pregledati i prebaciti već uspostavljenim kopnenim putevima "" ."
+Okvirni zakon,provodit,True,"će se se u fazama , kaže Diamantopoulou ."
+"Paneuropski savez za naslijeđe -- neprofitna organizacija koja okuplja više od 200 nevladinih udruga -- priključila se Europskom vijeću i UNESCO-u i uputila pismo turskom ministru vanjskih poslova Abdullahu Gulu , tražeći",pomoć,True,u spašavanju Allianoia i njegovih rimskih kupatila .
+"Od 2004 , oni pružaju besplatnu pravnu",pomoć,True,žrtvama .
+Zajednički projekt eksploatacije dravskog bazena,pokrenut,True,je 2006 .
+"Općinski izbori u Mađarskoj trebaju se održati za manje od dva tjedna , rekao je , i predstojeće glasovanje",predstavljat,True,će referendum o teškim gospodarskim reformama koje provodi Vlada .
+Galerija Partenon,otvorit,True,"će se prva , početkom 2008 , nakon čega će se postupno otvarati ostale galerije i izložbe ."
+""" Način izlaganja",predstavljat,True,"će trajni protest u pravcu njihovog povrata "" , kaže profesor Dimitris Pandermalis , predsjednik Organizacije za izgradnju novog Muzeja Akropole ."
+"Predstojeće proširenje EU i NATO-a , dodao je Passy , """,predstavljat,True,"će značajan korak ka unaprjeđenju sigurnosti i suradnje i jačanju stabilnosti šireg područja OESS-a "" , od Vancouvera do Vladivostoka ."
+To nije dobar scenarij i,značit,True,"će neizvjesnu budućnost "" , izjavio je finski premijer Matti Vanhanen ."
+To nije dobar scenarij i,značit,True,"će neizvjesnu budućnost "" ."
+""" Posljednji sastanak Komisije",održat,True,"će se 6. prosinca ; samim tim , to bi mogao biti logičan trenutak za davanje preporuka je li Turska ispunila svoje obveze "" ."
+"Naftovod , koji će , kako se očekuje , postati operativan 2008. godine ,",omogućit,True,"će Rusiji zaobilaženje preopterećenog Bosporskog tjesnaca u Turskoj , gdje se tankeri često zadržavaju po nekoliko dana ."
+Jelena Tomašević,predstavljat,True,"će Srbiju , koja je u svibnju domaćin ovogodišnjeg natjecanja za Pjesmu Eurovizije , sa svojom pjesmom "" Oro "" ."
+"Sljedeće promatračko izvješće , koje treba biti objavljeno 17. svibnja ,",uključivat,True,će zaključke nedavnih stručnih procjena problematičnih područja .
+Čelnici EU,donijet,True,će u lipnju odluku na temelju tog izvješća .
+Obnova i modernizacija naplatnih objekata,započet,True,"će sredinom 2012. godine , dok će cijela autocesta biti završena do 2016. godine ."
+"Dvojba Bugarske je treba li zaboraviti milijardu eura koju je uložila u izgradnju nuklearne elektrane Belene i odbaciti projekt , ili pronaći način za njegovu realizaciju uz",pomoć,True,Rusije .
+Španjolska obećava,pomoć,True,"Bugarskoj u pripremi za članstvo u EU , kao i povećanje španjolskih ulaganja u tu balkansku zemlju ."
+Najviši državni dužnosnici,razgovarat,True,će o suradnji s ICTY-em sljedećeg tjedna .
+"Droutsas je također kazao kako bi , unatoč sadašnjim financijskim poteškoćama , EU trebala pronaći potrebna sredstva za",pomoć,True,zemljama kandidatima u njihovim reformskim koracima .
+Medicinske sestre u Rodilištu u Tirani kažu kako bi ekonomska,pomoć,True,mladim parovima kojima je potrebna povećala sadašnju stopu nataliteta .
+Samo grad Tirana nudi takvu,pomoć,True,", malen iznos od 42 eura po djetetu ."
+"Među njima su "" privremeno zaustavljanje privatizacije srednjih i velikih poduzeća koja posluju "" , uspostava "" privremenog fonda za potporu nezaposlenima "" i "" pregovori s velikim međunarodnim kreditnim institucijama o sredstvima za neodgodivu",pomoć,True,""" ."
+"Dodao je kako se Srbija sada suočava s drugom , težom etapom tranzicije - strukturalnim reformama - te ponudio",pomoć,True,EBRD-a u procesu .
+"Dodao je kako se Srbija sada suočava s drugom , težom etapom tranzicije , odnosno strukturalnim reformama , te je ponudio",pomoć,True,EBRD-a u procesu .
+"Povjerenje u demokraciju , kaže Jovović ,",ovisit,True,će o sazrijevanju političkog sustava .
+""" Kada se takve stvari promijene -- odnosno kada se vlast promijeni miroljubivo prvi put u povijesti Crne Gore , a nisam siguran da će se to brzo dogoditi -- ti Crnogorci",počet,True,"će misliti kako vrijedi biti poduzetnički nastrojen "" , pojašnjava Jovović ."
+"Svrstavajući se na stranu Srbije , predstavnik Rusije Kirill Gevorgian zanijekao je da je narod Kosova ikada bio """,priznat,True,"kao subjekt samoopredjeljenja "" ."

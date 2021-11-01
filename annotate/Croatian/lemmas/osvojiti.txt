@@ -1,0 +1,29 @@
+Pet komentatora čiji komentari,osvoje,True,najveći broj bodova su pobjednici .
+"Najznačajniji datum Francuske Republike jest 14. 07. 1789. godine , kada je jurišem revolucionarnih snaga",osvojena,True,"zloglasna tvrđava Bastille , tamnica u pariškom predgrađu Saint Antoine ."
+"Također ovog tjedna : u Turskoj završene Crnomorske igre , a Srpkinja Jelena Janković",osvojila,True,naslov pobjednice u igri mješovitih parova na Wimbledonu .
+Bugarska je,osvojila,True,"prvo mjesto u ženskom atletskom finalu na 62. Balkanijadi , regionalnom atletskom natjecanju koje je održano prošlog tjedna u Sofiji ."
+Prošle godine Vlašić je,osvojila,True,"zlatno odličje na svjetskom prvenstvu u skoku u vis na otvorenom , koje je održano u Osaki ."
+"Drama "" Yumurta "" ( Jaje ) turskog redatelja Semiha Kaplanoglua",osvojila,True,je u nedjelju ( 9. ožujka ) nagradu za najbolji film na 13. Festivalu tursko-njemačkog filma u Nurembergu .
+"Dragan Antonovski dobio je nagradu za dokumentarni film "" Ključ je u tvojim rukama "" , dok je Belinda Koka",osvojila,True,nagradu za najbolju radio emisiju .
+"Druga rumunjska gimnastičarka , Sandra Raluca Izbasa ,",osvojila,True,je srebrno odličje u vježbi na gredi i brončano u višeboju .
+Mlada turska sopranistica Burcu Uyar,osvojila,True,je nagradu DEBUT 2006 na europskom opernom natjecanju održanom prošlog tjedna u Mannheimu u Njemačkoj .
+"ORA , stranka Vetona Surroia , bila je 2004. najuspješnija politička stranka oformljena pred izbore , te je",osvojila,True,sedam mjesta u državnoj skupštini .
+Stranka ne oklijeva reći glasačima kako sudjeluje na ovim izborima da bi u parlamentu,osvojila,True,potrebna mjesta za provedbu izmjena ustava .
+Hrvatska muška šahovska reprezentacija,osvojila,True,"je šahovski turnir Mitropacup 2009 , koji je od 9. svibnja do nedjelje ( 17. svibnja ) održan u Sloveniji ."
+"Tekst smo skinuli sa stranica BK "" VG "" , jasno i uz njihovu dozvolu , a tekst su napisali roditelji male Nike Kager koja ima 4 i pol godine , i koja je na zadnjem Plišanom Medi Štedi u konkurenciji do 9 godina",osvojila,True,treće mjesto .
+"Od ukupno 11 zlatnih odličja za Bugarsku , Tezdzhan Naimova i Teodora Kolarova",osvojile,True,su po tri .
+Jamie Murray iz Velike Britanije i Srpkinja Jelena Janković,osvojili,True,"su u nedjelju ( 8. srpanj ) naslov pobjednika Wimbledona u mješovitim parovima pobijedivši u finalu Jonasa Bjorkmana iz Švedske i Australku Aliciu Molik 6-4 , 3-6 , 6-1 ."
+Prvu nagradu,osvojili,True,su i za ambalažu cementnih vreća Optimo i Strukto proizvođača Cemex-Dalmacijacement na uglednom europskom natječaju ED Awards u Ateni .
+Srbijanski tenisač Novak Đoković,osvojio,True,"je drugi ATP naslov ove godine , pobijedivši Austrijanca Juergena Melzera 4-6 , 6-3 , 6-2 u finalu turnira Open de Moselle , koji je igran u Metzu u Francuskoj ."
+"Drugi srbijanski tenisač , Janko Tipsarević ,",osvojio,True,je turnir u belgijskom gradu Monsu .
+"Nejat Isler iz filma "" Yumurta """,osvojio,True,"je nagradu za najboljeg glumca na festivalu , koji je trajao od 28. veljače do nedjelje ."
+"Mančevski se proslavio filmom "" Prije kiše "" , koji je 1998. godine",osvojio,True,Zlatnog lava na Filmskom festivalu u Veneciji .
+Rumunj Marian Dragulescu,osvojio,True,"je dva zlatna odličja na 39. Svjetskom prvenstvu u umjetničkoj gimnastici , koje je od 13 do 21. listopada održano u Aarhusu u Danskoj ."
+Dragulescu je,osvojio,True,"naslov svjetskog prvaka u vježbi na parteru i preskoku , a završio na osmom mjestu u vježbama na vratilu ."
+"Od ostalih sudionika iz država jugoistočne Europe , Bugarin Jordan Jovčev",osvojio,True,je drugo mjesto u vježbi na ručama .
+"Film njemačkog redatelja Floriana Henckel von Donnersmarcka "" Život drugih """,osvojio,True,"je i nagradu ocjenjivačkog suda i publike za najbolji dugometražni film na 4. Zagreb film festivalu , koji je završen 21. listopada ."
+Fehmiu je surađivao sa svim vodećim redateljima u bivšoj Jugoslaviji i,osvojio,True,brojne glumačke nagrade .
+"Zašto još uvijek živi s roditeljima , koje sve osobine mora imati muškarac da bi",osvojio,True,"njeno srce te kakav je danas njen odnos s Franom Barberijem , pročitajte u tiskanom izdanju Extre ."
+Kanadski tinejdžerski pjevački idol Justin Bieber ( 16 ) u nedjelju je na dodjeli American Music Awards,osvojio,True,"četiri nagrade , među kojima i onu za najboljeg izvođača godine , pretekavši i popularnog rappera Eminema , nominiranog u pet kategorija ."
+"Da bi bila zastupljena u Saboru , politička stranka mora",osvojiti,True,preko 5 posto glasova .
+Vi ne samo da možete,osvojiti,True,neku od sjajnih nagrada već možete čak i odabrati koju nagradu želite .

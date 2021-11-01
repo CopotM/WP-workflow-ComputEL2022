@@ -1,0 +1,13 @@
+ADJ,Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass,None
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+NOUN,Case=Loc|Gender=Masc|Number=Sing,None
+ADJ,Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass,None
+ADJ,Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass,None
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+NOUN,Case=Dat|Gender=Masc|Number=Sing,None
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin

@@ -1,0 +1,17 @@
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+NOUN,Case=Gen|Gender=Masc|Number=Sing,None
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+NOUN,Case=Gen|Gender=Masc|Number=Sing,None
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+NOUN,Case=Nom|Gender=Masc|Number=Plur,None
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+NOUN,Case=Nom|Gender=Masc|Number=Plur,None
+NOUN,Case=Gen|Gender=Masc|Number=Sing,None
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,Mood=Imp|Number=Sing|Person=2|VerbForm=Fin

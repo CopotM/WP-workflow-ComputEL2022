@@ -1,0 +1,31 @@
+Mi trebamo ...,dati,True,potporu Jeremiću .
+Mnogi,istaknuti,True,članovi napustili su stranku .
+"Novi predsjednik Moldavije , 64-godišnji bivši sudac Nicolae Timofti , obećao je da će",voditi,True,zemlju putem pridruživanja Europi .
+U mnogim raspravama zaključeno je da se ustav mora,promijeniti,True,", i omogućiti da sljedećeg predsjednika izaberu građani , a ne politički podijeljen parlament ."
+""" Moramo",priznati,True,"da ustavna reforma , koja je započela 2000. godine , nije dovršena ."
+""" Mislim da je njegova obveza",surađivati,True,s parlamentom na ustavnim reformama .
+"Naravno , to je dug i složen proces , ali novi predsjednik treba",osigurati,True,"da ustav djeluje u korist svih građana "" , rekao je Popa za SETimes ."
+"Parlament je sedam puta pokušavao izabrati predsjednika , ali nije uspijevao",pronaći,True,kandidata koji bi dobio većinu glasova .
+Premda se građani razlikuju u svojim mišljenjima oko toga hoće li novi čelnik,riješiti,True,"probleme te države , mnogi se slažu da je još gore ne imati predsjednika ."
+Hoće li predsjednik,riješiti,True,taj problem ?
+"Ipak , jasno je kako će konačna odluka i vrijeme u kojem će biti donesena uglavnom",ovisiti,True,o procjenama vezanim uz zaštitu naših nacionalnih i državnih interesa .
+Hoćemo li u tome,uspjeti,True,"ne ovisi samo o nama , već i o našim susjedima ."
+"Crvenkovski : Razmirica oko imena između Makedonije i Grčke bilateralne je prirode i ni po kojoj osnovi ne spada u kriterije za članstvo , te u načelu ne bi trebala",predstavljati,True,zapreku našoj integraciji u NATO .
+Setimes : Što će se,dogoditi,True,ako ipak bude korišten veto ?
+"Crvenkovski : Iskreno , nadam se kako do toga neće",doći,True,.
+"Dakako , kohabitaciju je moguće i potrebno podići na višu razinu , no o tome u ovom trenutku ne bih htio",govoriti,True,.
+"Rečenica "" smrtna kazna se ne može",provoditi,True,"osim ukoliko zemlja nije suočena s ratom ili stanjem izravne ratne opasnosti ili za teroristička djela "" , izbrisana je iz Članka 38 , a dodana je rečenica "" nikome ne može biti izrečena smrtna kazna "" ."
+"Hrvatska u sljedeća tri mjeseca mora ubrzati provedbu reformi koje zahtijeva EU , ako želi",ostati,True,"na putu priključenja Uniji 2010 , izjavio je povjerenik EU za proširenje Olli Rehn u utorak ."
+""" Ključno je to",učiniti,True,"do lipnja jer će u suprotnom tehnički raspored biti gotovo nemoguće ispuniti . """
+EC je priopćila kako želi,završiti,True,"pregovore s Hrvatskom do jeseni 2009 , čime bi se otvorila mogućnost ulaska te zemlje u Uniju 2010."
+""" Spremni smo za to i to ćemo i",učiniti,True,""" , rekao je ."
+"Usprkos razočarenju Makedonije zbog nedobivanja pozivnice za članstvo u NATO-u prošlog tjedna , dužnosnici su obećali kako će",nastaviti,True,raditi u cilju članstva .
+"U ponedjeljak ( 7. travnja ) , vlada je priopćila kako će ovog tjedna",početi,True,"razgovore u cilju rješavanja postojećeg spora oko naziva s Grčkom , koji je Makedoniju koštao pozivnice u NATO ."
+On je pohvalio doprinos makedonskih vojnika koji se nalaze u misijama u inozemstvu i izrazio nadu kako će Makedonija,postati,True,članicom NATO-a odmah nakon rješavanja spora .
+""" Ono što je sigurno jest da želimo",vidjeti,True,"nastavak tog procesa pod pokroviteljstvom UN-a , kako bi se pronašlo rješenje prihvatljivo objema stranama "" , rekao je glasnogovornik grčke vlade ."
+Policija BiH priopćila je kako je skupina osoba koje se sumnjiči za povezanost s Wahhabi pokretom planirala,izazvati,True,etničke sukobe napadima na katoličke crkve .
+SETimes : Možemo li,očekivati,True,potpuno ukidanje carinskih davanja između Kosova i Albanije ?
+"SETimes : Bi li načelo reciprociteta između dviju zemalja bilo dobro rješenje , i hoće li Kosovo to",tražiti,True,?
+Grčka zaustavila konvoj brodova,pomoći,True,za Gazu
+John Klusmire priveden je na temelju optužbi da je kanio napustiti luku Pirej bez dozvole i,dovesti,True,"u opasnost živote 36 putnika , četiri člana posade i deset novinara ."
+"U duhu kompromisa , vlasti su predložile otpremanje",pomoći,True,korištenjem postojećih kanala koji su prihvatljivi Izraelu .

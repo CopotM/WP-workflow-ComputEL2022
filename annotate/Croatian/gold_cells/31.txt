@@ -1,0 +1,11 @@
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
+ADV,Tense=Past|VerbForm=Conv,None
