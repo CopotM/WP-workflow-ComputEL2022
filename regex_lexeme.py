@@ -50,7 +50,7 @@ with open("".join([args.repository,"/data/",args.language.capitalize(),".txt"]))
                     s.insert(1, m.group(1))
                     data.append(s)
 
-with open(uniquify("".join([args.repository,"/annotate/regex_output/",args.lexeme,".csv"])), "w", newline = "") as f:
+with open(uniquify("".join([args.repository,"/annotate/regex_output/",args.lexeme,"_",args.regex,".csv"])), "w", newline = "") as f:
     if data:
         writer = csv.writer(f)
         writer.writerows(data[0:args.n_lemma])

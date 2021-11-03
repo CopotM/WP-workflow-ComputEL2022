@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ "$#" -ne 2 ]
 then
   echo "Usage: bash run_newlemma_merge_uzh_baseline_prepare_seq2seq.sh test/dev <LANG>"
