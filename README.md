@@ -1,8 +1,8 @@
 # ACL 2021 project (let's find this bad boy a title!)
 
-Project GoogleDoc: https://docs.google.com/document/d/1knRWK6CBbDS5rMTyEZtRPXYs5g4EPp4KMtwjcNplp-E/edit
-Overleaf writeup: https://www.overleaf.com/3759535975swrtvqbyptmw
-Annotation guidelines: shorturl.at/gAC27
+Project GoogleDoc: https://docs.google.com/document/d/1knRWK6CBbDS5rMTyEZtRPXYs5g4EPp4KMtwjcNplp-E/edit \n
+Overleaf writeup: https://www.overleaf.com/3759535975swrtvqbyptmw \n
+Annotation guidelines: shorturl.at/gAC27 \n
 
 First, clone the repository locally. 
 
