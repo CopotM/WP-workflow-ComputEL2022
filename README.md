@@ -1,8 +1,10 @@
 # ACL 2021 project (let's find this bad boy a title!)
 
-First, clone the repository locally. 
+Project GoogleDoc: https://docs.google.com/document/d/1knRWK6CBbDS5rMTyEZtRPXYs5g4EPp4KMtwjcNplp-E/edit
+Overleaf writeup: https://www.overleaf.com/3759535975swrtvqbyptmw
+Annotation guidelines: shorturl.at/gAC27
 
-**insert Sara's annotation guidelines here**
+First, clone the repository locally. 
 
 Once you've annotated the file for a lexeme, you should run the file *regex_lexeme.py* in order to find any other occurrences of the lexeme that have not been picked up by the baseline. 
 
