@@ -1,0 +1,17 @@
+it,PRON
+it,PRON
+it,PRON
+it,PRON
+it,PRON
+it,PRON
+it,PRON
+it,PRON
+sit,VERB
+sit,VERB
+sit,VERB
+sit,VERB
+sit,VERB
+sit,VERB
+sit,VERB
+sit,VERB
+sit,VERB
