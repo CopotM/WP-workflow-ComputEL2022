@@ -1,6 +1,7 @@
-"BlackBerry OS 6.0 je moderniji , intuitivniji , ali i dalje dosta nalik starom OS-u , što znači da se neće",dopasti,True,"onima koji nisu tehnički malo "" pismeniji "" ."
-"Kod odjeće zamrljane tintom , ne biste vjerovali , ali pomoći će vam zubna",pasta,True,.
-"Ekonomisti upozoravaju kako će sve dok država ne poduzme akciju , inflacija ostati 20 posto , koliko se očekuje na koncu ove godine , i malo je vjerojatno kako će",pasti,True,ispod 10 posto -- što je u prosjeku stopa inflacije u ostalim zemljama regije .
-"Aktualni pomoćnici postaju obični službenici , najvjerojatnije voditelji službi i plaća će im",pasti,True,za oko tri tisuće kuna .
-I tako će nakon svega i klub šaptom,pasti,True,", otići u stečaj ili možda ipak ne ?"
-"Naime , u Udruzi smatraju da je njima to zemljište mnogo potrebnije i da postoji mnogo zaslužnijih ljudi od Bienenfelda kojima je moglo",pripasti,True,.
+,"BlackBerry OS 6.0 je moderniji , intuitivniji , ali i dalje dosta nalik starom OS-u , što znači da se neće",dopasti,True,"onima koji nisu tehnički malo "" pismeniji "" ."
+,"Kod odjeće zamrljane tintom , ne biste vjerovali , ali pomoći će vam zubna",pasta,True,.
+,Proračun Zagreba će sljedeće godine,pasti,True,"na tek 6,5 milijardi kuna pa će , samim tim , Holding i dalje biti u problemima ."
+,"Ekonomisti upozoravaju kako će sve dok država ne poduzme akciju , inflacija ostati 20 posto , koliko se očekuje na koncu ove godine , i malo je vjerojatno kako će",pasti,True,ispod 10 posto -- što je u prosjeku stopa inflacije u ostalim zemljama regije .
+,"Aktualni pomoćnici postaju obični službenici , najvjerojatnije voditelji službi i plaća će im",pasti,True,za oko tri tisuće kuna .
+,I tako će nakon svega i klub šaptom,pasti,True,", otići u stečaj ili možda ipak ne ?"
+,"Naime , u Udruzi smatraju da je njima to zemljište mnogo potrebnije i da postoji mnogo zaslužnijih ljudi od Bienenfelda kojima je moglo",pripasti,True,.

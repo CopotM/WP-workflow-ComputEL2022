@@ -25,10 +25,3 @@ ask,VERB
 ask,VERB
 ask,VERB
 ask,VERB
-ask,VERB
-ask,VERB
-ask,VERB
-ask,VERB
-ask,VERB
-ask,VERB
-ask,VERB

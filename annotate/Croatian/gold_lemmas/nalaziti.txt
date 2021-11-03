@@ -30,8 +30,3 @@ nalaziti,VERB
 nalaziti,VERB
 nalaziti,VERB
 nalaziti,VERB
-nalaziti,VERB
-nalaziti,VERB
-nalaziti,VERB
-nalaziti,VERB
-nalaziti,VERB

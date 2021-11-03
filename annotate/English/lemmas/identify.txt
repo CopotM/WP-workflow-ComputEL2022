@@ -1,6 +1,7 @@
-"However , a larger-scale study to",identify,True,"enjambment across hundreds of authors spanning several centuries , enabling distant reading ( Moretti , 2013 ) , was not previously available ."
-"First , the literature shows a debate about which specific syntactic units can be considered to trigger enjambment , if split across two lines , and whether lexical and syntactic criteria are sufficient to",identify,True,enjambment .
-It collects the data based on the observation of the proposed interventions as well as interviews conducted with participating teachers and students to,identify,True,their perceptions of digital games’ games ’ contributions to the learning process .
-These examples show that it is possible to,identify,True,the same conversational structure in unrelated languages .
-Paralympic sport brings attention to athletes who are typically overlooked in American society because the majority of the population does not want to,identify,True,with people who are disabled .
-He made the common error of,identifying,True,"maturity with worth , and assumed that the love he had for her as a young child must have been lacking in strength and depth ."
+,"The content of these sessions should enable them to provide services to researchers and students ,",identify,True,remaining gaps in knowledge or skills that they could address by self-directed learning and ( perhaps ) to automate their daily library work .
+,"However , a larger-scale study to",identify,True,"enjambment across hundreds of authors spanning several centuries , enabling distant reading ( Moretti , 2013 ) , was not previously available ."
+,"First , the literature shows a debate about which specific syntactic units can be considered to trigger enjambment , if split across two lines , and whether lexical and syntactic criteria are sufficient to",identify,True,enjambment .
+,It collects the data based on the observation of the proposed interventions as well as interviews conducted with participating teachers and students to,identify,True,their perceptions of digital games’ games ’ contributions to the learning process .
+,These examples show that it is possible to,identify,True,the same conversational structure in unrelated languages .
+,Paralympic sport brings attention to athletes who are typically overlooked in American society because the majority of the population does not want to,identify,True,with people who are disabled .
+,He made the common error of,identifying,True,"maturity with worth , and assumed that the love he had for her as a young child must have been lacking in strength and depth ."

@@ -13,8 +13,13 @@ razgovarati,VERB
 razgovarati,VERB
 razgovarati,VERB
 razgovarati,VERB
+razgovarati,VERB
+razgovarati,VERB
+razgovarati,VERB
+razgovarati,VERB
 razgovarati,ADJ
 razgovarati,ADJ
+razgovarati,VERB
 razgovarati,VERB
 razgovarati,VERB
 razgovarati,VERB

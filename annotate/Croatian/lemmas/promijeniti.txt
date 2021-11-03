@@ -1,28 +1,26 @@
-""" Odgovarajući pravni okvir od ključne je važnosti , ali do stvarnog napretka doći će samo onda kada se počnemo pridržavati zakona i kada se",promijene,True,"ponašanje i običaji ljudi "" , rekao je Erwan Fouere , predstavnik EU-a u Makedoniji ."
-"Odgovarajući pravni okvir od ključne je važnosti , ali do stvarnog napretka doći će samo onda kada se počnemo pridržavati zakona i kada se",promijene,True,"ponašanje i običaji ljudi "" , rekao je Fouere ."
-""" Kada se takve stvari",promijene,True,"-- odnosno kada se vlast promijeni miroljubivo prvi put u povijesti Crne Gore , a nisam siguran da će se to brzo dogoditi -- ti Crnogorci počet će misliti kako vrijedi biti poduzetnički nastrojen "" , pojašnjava Jovović ."
-""" Nažalost , jedini način da se poboljša i",promijeni,True,"više školstvo u ovoj zemlji jest da se zatvore sveučilišta na pet godina i da se potom opet otvore ; a da se inozemnim sveučilištima tada dozvoli da vode ogranke . """
-"Prosvjednici su također izrazili zabrinutost da , unatoč desetogodišnje zabrane preprodaje holdinga , ništa ne sprječava BT Invest da",promijeni,True,njegova vlasnika .
-""" Kada se takve stvari promijene -- odnosno kada se vlast",promijeni,True,"miroljubivo prvi put u povijesti Crne Gore , a nisam siguran da će se to brzo dogoditi -- ti Crnogorci počet će misliti kako vrijedi biti poduzetnički nastrojen "" , pojašnjava Jovović ."
-Turska,promijenila,True,ustav
-""" Nikada nismo",promijenili,True,"to stajalište , mislimo kako je to vrlo loša ideja i nastavit ćemo protiviti joj se "" ."
-"Naš čitatelj Boris Tomas želio je doznati kako maknuti supersport ( teletekst overlay ) sa ( konkretno ) HRT2 u Windows media Centru , a stručnjaci iz Microsofta odgovaraju : Za prebacivanje načina gledanja teleteksta , pritisnite MIX na alatnoj traci kako bi",promijenili,True,način na koji se TV i Teletekst prikazuju .
-SETH GODIN je marketinški stručnjak i autor deset međunarodnih bestsellera koji su,promijenili,True,"način na koji ljudi razmišljaju o marketingu , promjenama i poslu ."
-"Nakon sastanka izvršnog odbora GERB-a u utorak navečer , Borisov je",promijenio,True,svoju prvotnu odluku o odbacivanju ostavke Želeve na mjesto ministrice vanjskih poslova .
-Rumunjski premijer Tariceanu,promijenio,True,odluku o ostavci
-Odnos prema dizajnu,promijenio,True,"se na bolje , a na 2. nacionalnoj dizajnerskoj konvenciji , koja će se održati u Rovinju idućeg tjedna , pokušat će se utvrditi cjenik , etički kodeks i jasnija pravila ."
-Grad Vinica je u svojoj povijesti,promijenio,True,mnogo vlasnika .
-Dovoljno je kliknuti na temu i,promijenit,True,"će se kompletno sučelje : raspored boja , pozadinska fotografija , zvukovi ..."
-"Ako se program napisan za neku stariju verziju sustava Windows ne izvršava pravilno , pomoću alata za otklanjanje poteškoća s kompatibilnošću programa",promijenite,True,postavke kompatibilnosti za taj program .
-"Ako poslom niste zadovoljni , još je dobro vrijeme da ga",promijenite,True,", može biti više novih ponuda ."
-U mnogim raspravama zaključeno je da se ustav mora,promijeniti,True,", i omogućiti da sljedećeg predsjednika izaberu građani , a ne politički podijeljen parlament ."
-""" U ovoj su zemlji u tijeku mnoge reforme u području pravosuđa , sloboda i zaštite , ali kako bi došlo do stvarnih promjena , mora se",promijeniti,True,"svijest u glavama policajaca , administrativnog i zatvorskog osoblja ."
-Vlada to nastoji,promijeniti,True,promotivnim kampanjama i posvećivanjem veće pažnje turističkoj infrastrukturi .
-Ne očekujem da će se to,promijeniti,True,.
-Te odredbe jamče da novi vlasnik neće,promijeniti,True,"glavne djelatnosti tvrtke u idućih deset godina , te da neće dozvoliti njezinu likvidaciju ili nelikvidnost ."
-"Američki veleposlanik u Beogradu Michael Polt kazao je ovog tjedna kako je neovisnost "" jedan od potencijalnih ishoda "" , te kako Srbija neće",promijeniti,True,gledište međunarodne zajednice ponavljajući kako je to neprihvatljivo .
-"Iako se mnogi građani Unije protive eventualnom ulasku ove većinski muslimanske zemlje u EU , takvo stajalište moglo bi se",promijeniti,True,ukoliko Turska provede promjene .
-""" [ Berlinski ] zid još uvijek je u glavama mnogih , jer oni i dalje misle -- kao u komunističkim vremenima -- kako se stvari ne mogu",promijeniti,True,", kako je ovo nekako kako bi trebalo biti "" ."
-S takvim stajalištima nećemo ništa moći,promijeniti,True,""" , zaključio je ."
-Možete joj isključiti ( ili,promijeniti,True,") zvukove , možete dodati nove pozadinske slike ili ukloniti postojeće , a možete joj čak i promijeniti shemu boja ."
-"Da biste to učinili , potrebno je odabrati temu koju želite modificirati te u donjem redu ikonica ( gdje se nalaze pozadinska slika , boje prozora , zvukovi i čuvar ekrana )",promijeniti,True,doslovce bilo što .
+,""" Odgovarajući pravni okvir od ključne je važnosti , ali do stvarnog napretka doći će samo onda kada se počnemo pridržavati zakona i kada se",promijene,True,"ponašanje i običaji ljudi "" , rekao je Erwan Fouere , predstavnik EU-a u Makedoniji ."
+,"Odgovarajući pravni okvir od ključne je važnosti , ali do stvarnog napretka doći će samo onda kada se počnemo pridržavati zakona i kada se",promijene,True,"ponašanje i običaji ljudi "" , rekao je Fouere ."
+,""" Kada se takve stvari",promijene,True,"-- odnosno kada se vlast promijeni miroljubivo prvi put u povijesti Crne Gore , a nisam siguran da će se to brzo dogoditi -- ti Crnogorci počet će misliti kako vrijedi biti poduzetnički nastrojen "" , pojašnjava Jovović ."
+,""" Nažalost , jedini način da se poboljša i",promijeni,True,"više školstvo u ovoj zemlji jest da se zatvore sveučilišta na pet godina i da se potom opet otvore ; a da se inozemnim sveučilištima tada dozvoli da vode ogranke . """
+,"Prosvjednici su također izrazili zabrinutost da , unatoč desetogodišnje zabrane preprodaje holdinga , ništa ne sprječava BT Invest da",promijeni,True,njegova vlasnika .
+,""" Kada se takve stvari promijene -- odnosno kada se vlast",promijeni,True,"miroljubivo prvi put u povijesti Crne Gore , a nisam siguran da će se to brzo dogoditi -- ti Crnogorci počet će misliti kako vrijedi biti poduzetnički nastrojen "" , pojašnjava Jovović ."
+,Turska,promijenila,True,ustav
+,""" Nikada nismo",promijenili,True,"to stajalište , mislimo kako je to vrlo loša ideja i nastavit ćemo protiviti joj se "" ."
+,"Naš čitatelj Boris Tomas želio je doznati kako maknuti supersport ( teletekst overlay ) sa ( konkretno ) HRT2 u Windows media Centru , a stručnjaci iz Microsofta odgovaraju : Za prebacivanje načina gledanja teleteksta , pritisnite MIX na alatnoj traci kako bi",promijenili,True,način na koji se TV i Teletekst prikazuju .
+,SETH GODIN je marketinški stručnjak i autor deset međunarodnih bestsellera koji su,promijenili,True,"način na koji ljudi razmišljaju o marketingu , promjenama i poslu ."
+,"Nakon što je Hidroteknika privatizirana 2006. godine , "" nisam dobio nikakvu naknadu , a najgore je to što tvrtka više ne postoji , s obzirom da je novi vlasnik",promijenio,True,"njezinu namjenu "" , rekao je Berisha za SETimes ."
+,"Nakon sastanka izvršnog odbora GERB-a u utorak navečer , Borisov je",promijenio,True,svoju prvotnu odluku o odbacivanju ostavke Želeve na mjesto ministrice vanjskih poslova .
+,Rumunjski premijer Tariceanu,promijenio,True,odluku o ostavci
+,Odnos prema dizajnu,promijenio,True,"se na bolje , a na 2. nacionalnoj dizajnerskoj konvenciji , koja će se održati u Rovinju idućeg tjedna , pokušat će se utvrditi cjenik , etički kodeks i jasnija pravila ."
+,Grad Vinica je u svojoj povijesti,promijenio,True,mnogo vlasnika .
+,Dovoljno je kliknuti na temu i,promijenit,True,"će se kompletno sučelje : raspored boja , pozadinska fotografija , zvukovi ..."
+,"Ako se program napisan za neku stariju verziju sustava Windows ne izvršava pravilno , pomoću alata za otklanjanje poteškoća s kompatibilnošću programa",promijenite,True,postavke kompatibilnosti za taj program .
+,"Ako poslom niste zadovoljni , još je dobro vrijeme da ga",promijenite,True,", može biti više novih ponuda ."
+,"Romska zajednica čini najveću manjinu na Balkanu i -- prema nedavnoj analizi Centra za međunarodni krizni menadžment i rješavanje sukoba -- njihova situacija "" u regiji ostaje posebice problematična i čini se da države nemaju mnogo želje ili poticaja to",promijeniti,True,""" ."
+,"Ali , može li ta kampanja podizanja svijesti doista",promijeniti,True,"nešto kada su velika povećanja poreza , smanjenja mirovina i plaća te stopa nezaposlenosti od 21 posto koja nastavlja rasti već dio teške realnosti ?"
+,"Peder zna uključiti perilicu za rublje , onu za suđe , zna upotrijebiti peglu i",promijeniti,True,pelene .
+,U mnogim raspravama zaključeno je da se ustav mora,promijeniti,True,", i omogućiti da sljedećeg predsjednika izaberu građani , a ne politički podijeljen parlament ."
+,""" U ovoj su zemlji u tijeku mnoge reforme u području pravosuđa , sloboda i zaštite , ali kako bi došlo do stvarnih promjena , mora se",promijeniti,True,"svijest u glavama policajaca , administrativnog i zatvorskog osoblja ."
+,Vlada to nastoji,promijeniti,True,promotivnim kampanjama i posvećivanjem veće pažnje turističkoj infrastrukturi .
+,Ne očekujem da će se to,promijeniti,True,.
+,Te odredbe jamče da novi vlasnik neće,promijeniti,True,"glavne djelatnosti tvrtke u idućih deset godina , te da neće dozvoliti njezinu likvidaciju ili nelikvidnost ."

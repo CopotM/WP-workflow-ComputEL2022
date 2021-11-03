@@ -12,6 +12,10 @@ tražiti,ADV
 tražiti,ADV
 tražiti,ADV
 tražiti,ADV
+tražiti,ADV
+tražiti,ADV
+tražiti,ADV
+traženje,NOUN
 traženje,NOUN
 tražiti,VERB
 tražiti,VERB
@@ -44,7 +48,6 @@ tražiti,VERB
 tražiti,VERB
 tražiti,VERB
 tražiti,VERB
-tražiti,VERB
 tražitelj,NOUN
 tražitelj,NOUN
 tražitelj,NOUN
@@ -58,7 +61,7 @@ tražiti,VERB
 tražiti,VERB
 tražiti,VERB
 tražiti,VERB
-zatražiti,VERB
+tražiti,VERB
 zatražiti,VERB
 zatražiti,VERB
 zatražiti,VERB

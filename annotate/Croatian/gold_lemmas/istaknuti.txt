@@ -12,7 +12,6 @@ istaknuti,VERB
 istaknuti,VERB
 istaknuti,VERB
 istaknuti,VERB
-istaknuti,VERB
 istaknut,ADJ
 istaknut,ADJ
 istaknut,ADJ

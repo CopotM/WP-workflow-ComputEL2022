@@ -12,6 +12,10 @@ iznos,NOUN
 iznos,NOUN
 iznos,NOUN
 iznos,NOUN
+iznos,NOUN
+iznos,NOUN
+iznos,NOUN
+iznositi,VERB
 iznositi,VERB
 iznositi,VERB
 iznositi,VERB
@@ -36,6 +40,7 @@ iznositi,VERB
 iznos,NOUN
 iznos,NOUN
 iznos,NOUN
+iznos,NOUN
 iznositi,VERB
 iznositi,VERB
 iznositi,VERB
@@ -47,6 +52,12 @@ iznositi,VERB
 iznositi,VERB
 iznositi,VERB
 iznositi,VERB
+iznositi,VERB
+iznositi,VERB
+iznositi,VERB
+iznositi,VERB
+iznos,NOUN
+iznos,NOUN
 iznos,NOUN
 iznos,NOUN
 iznos,NOUN

@@ -6,12 +6,6 @@ base,NOUN
 base,NOUN
 base,NOUN
 base,NOUN
-base,NOUN
-base,NOUN
-base,NOUN
-base,VERB
-base,VERB
-base,VERB
 base,VERB
 base,VERB
 base,VERB

@@ -16,11 +16,10 @@ preuzeti,VERB
 preuzeti,VERB
 preuzeti,VERB
 preuzeti,VERB
+preuzeti,VERB
+preuzeti,VERB
 preuzeti,ADJ
 preuzeti,ADJ
-preuzeti,VERB
-preuzeti,VERB
-preuzeti,VERB
 preuzeti,VERB
 preuzeti,VERB
 preuzeti,VERB

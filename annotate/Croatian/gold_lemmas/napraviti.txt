@@ -32,6 +32,6 @@ napraviti,VERB
 napraviti,VERB
 napraviti,VERB
 napraviti,VERB
-napraviti,VERB
+naprava,NOUN
 naprava,NOUN
 naprava,NOUN

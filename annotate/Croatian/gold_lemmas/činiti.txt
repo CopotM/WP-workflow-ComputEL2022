@@ -5,8 +5,7 @@
 čin,NOUN
 čin,NOUN
 čin,NOUN
-činiti,VERB
-činiti,VERB
+čin,NOUN
 činiti,VERB
 činiti,VERB
 činiti,VERB
@@ -47,7 +46,6 @@
 činiti,VERB
 počiniti,VERB
 počiniti,VERB
-učiniti,VERB
 učiniti,VERB
 učiniti,VERB
 učiniti,VERB

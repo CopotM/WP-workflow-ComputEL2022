@@ -1,18 +1,15 @@
-"Reflection allows us to obtain the list of classes and methods of the SUT , so the user can",decide,True,the methods to wish the operators will be applied .
-Whether it is appropriate or not is another thing we leave to the pros to,decide,True,.
-Why did you,decide,True,to create wikiHow ?
-Why did you,decide,True,to use a Creative Commons license ?
-Why did you,decide,True,"to take the acoustic fate of public domain works into your own hands , and how did you go about it ?"
-How do you,decide,True,on the stories ?
-"With single servings like this , you can",decide,True,"which flavor(s) you like best and proceed to making bottles , if you desire ."
-"Whether due to this behavior or not , Jeffrey Beall",decided,True,to add the publisher to his influential ( but now sadly unavailable ) list of questionable journals [ 26 ] .
-"It is unsurprising , in the light of his character and situation at the time , that Galois reacted violently to the rejection letter , and",decided,True,to abandon publishing his papers through the Academy and instead publish them privately through his friend Auguste Chevalier .
-"After an education at the parish schools of Cruden and Ellon , at age of fifteen he entered the Jesuit college at Braunsberg , East Prussia , then part of Poland ; however , his character did not tolerate well the strict and sombre way of life at the school , and he soon",decided,True,to return home .
-"Later in 1689 a revolution broke out in Moscow , and with the troops under his command Gordon virtually",decided,True,"events in favour of Peter the Great , [ 3 ] and against the Regent , Tsarevna Sophia Alekseyevna ."
-"In 1892 , after seeing the success of a classmate , Kaho Tanabe , who wrote a novel , Higuchi",decided,True,to become a novelist to support her family .
-"Although he had originally planned to attend the University of Texas after graduating from high school in 2000 , Jared",decided,True,"to move Los Angeles , California instead to pursue an acting career . [ 1 ]"
-And I,decided,True,to go ahead and go on in it .
-The Chemical Wedding by Christian Rosencreutz is the way I’ve I ’ve,decided,True,to present the title of this book .
-"After a while I needed to start thinking about an internship for my M.Sc. studies , and",decided,True,to write a couple of professors .
-"In the interview , Herrick explains what wikiHow is , why he",decided,True,"to create it , how he grew it in size , and why he chose to use a Creative Commons license ( HyperLink ) for his site ."
-So ultimately I,decided,True,that eHow's eHow 's model would not build the resource I envisioned .
+,"Reflection allows us to obtain the list of classes and methods of the SUT , so the user can",decide,True,the methods to wish the operators will be applied .
+,Whether it is appropriate or not is another thing we leave to the pros to,decide,True,.
+,Why did you,decide,True,to create wikiHow ?
+,Why did you,decide,True,to use a Creative Commons license ?
+,Why did you,decide,True,"to take the acoustic fate of public domain works into your own hands , and how did you go about it ?"
+,How do you,decide,True,on the stories ?
+,"With single servings like this , you can",decide,True,"which flavor(s) you like best and proceed to making bottles , if you desire ."
+,"Thomas Sam , a practising homeopath , instead",decided,True,to treat his daughter himself .
+,Austria,decided,True,", in 1978 , to forgo the use of nuclear energy ."
+,"Whether due to this behavior or not , Jeffrey Beall",decided,True,to add the publisher to his influential ( but now sadly unavailable ) list of questionable journals [ 26 ] .
+,"It is unsurprising , in the light of his character and situation at the time , that Galois reacted violently to the rejection letter , and",decided,True,to abandon publishing his papers through the Academy and instead publish them privately through his friend Auguste Chevalier .
+,"After an education at the parish schools of Cruden and Ellon , at age of fifteen he entered the Jesuit college at Braunsberg , East Prussia , then part of Poland ; however , his character did not tolerate well the strict and sombre way of life at the school , and he soon",decided,True,to return home .
+,"Later in 1689 a revolution broke out in Moscow , and with the troops under his command Gordon virtually",decided,True,"events in favour of Peter the Great , [ 3 ] and against the Regent , Tsarevna Sophia Alekseyevna ."
+,"In 1892 , after seeing the success of a classmate , Kaho Tanabe , who wrote a novel , Higuchi",decided,True,to become a novelist to support her family .
+,"Although he had originally planned to attend the University of Texas after graduating from high school in 2000 , Jared",decided,True,"to move Los Angeles , California instead to pursue an acting career . [ 1 ]"

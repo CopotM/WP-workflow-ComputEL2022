@@ -27,6 +27,9 @@ dogoditi,VERB
 dogoditi,VERB
 dogoditi,VERB
 dogoditi,VERB
+dogoditi,VERB
+dogoditi,VERB
+dogoditi,VERB
 nagoditi,VERB
 odgoditi,VERB
 odgoditi,VERB

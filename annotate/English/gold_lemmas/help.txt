@@ -1,13 +1,12 @@
+help,VERB
+help,VERB
 help,NOUN
-help,NOUN
-help,VERB
-help,VERB
-help,VERB
-help,VERB
 help,VERB
 help,VERB
 help,VERB
 help,NOUN
+help,VERB
+help,VERB
 help,VERB
 help,VERB
 help,VERB

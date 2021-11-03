@@ -22,4 +22,8 @@ prihvatiti,VERB
 prihvatiti,VERB
 prihvatiti,VERB
 prihvatiti,VERB
+prihvatiti,VERB
+prihvatiti,VERB
+prihvatiti,VERB
+prihvatiti,VERB
 prihvat,NOUN

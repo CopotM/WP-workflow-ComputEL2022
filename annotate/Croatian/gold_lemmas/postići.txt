@@ -6,4 +6,3 @@ postići,VERB
 postići,VERB
 postići,VERB
 postići,VERB
-postići,VERB

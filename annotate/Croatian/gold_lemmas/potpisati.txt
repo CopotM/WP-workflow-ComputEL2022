@@ -22,6 +22,7 @@ potpisati,VERB
 potpisati,VERB
 potpisati,VERB
 potpisati,VERB
+potpisati,VERB
 potpisati,ADJ
 potpisati,ADJ
 potpisati,ADJ
@@ -29,6 +30,11 @@ potpisati,ADJ
 potpisati,ADJ
 potpisati,ADJ
 potpisati,ADJ
+potpisati,ADJ
+potpisati,ADJ
+potpisati,ADJ
+potpisati,VERB
+potpisati,VERB
 potpisati,VERB
 potpisati,VERB
 potpisati,VERB

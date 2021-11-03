@@ -1,8 +1,6 @@
 pozivati,VERB
 pozivati,VERB
-pozivati,VERB
-pozivati,VERB
-pozivati,VERB
+poziv,NOUN
 pozivati,VERB
 pozivati,VERB
 pozivati,VERB
@@ -20,6 +18,10 @@ pozivati,ADV
 pozivati,ADV
 pozivati,ADV
 pozivati,ADV
+pozivati,ADV
+pozivati,ADV
+pozivati,VERB
+pozivati,VERB
 pozivati,VERB
 pozivati,VERB
 pozivati,VERB

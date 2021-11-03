@@ -37,4 +37,6 @@ učiniti,VERB
 učiniti,VERB
 učiniti,VERB
 učiniti,VERB
+učiniti,VERB
+učiniti,VERB
 učiniti,ADV

@@ -1,27 +1,26 @@
-Kako ste to doživjeli i koliko Makedonija,dobiva,True,svojim doprinosom tim misijama očuvanja mira ?
-Makedonska vojska daje mnogo više no što,dobiva,True,"u takvim aranžmanima , no mi smo potpuno svjesni kako je na nama dio odgovornosti i spremni smo se suočiti s takvim izazovom ."
-"Dok političari i nevladine udruge teže mobilizirati birače i bore se s apatijom , internet",dobiva,True,na snazi kao jedno od sredstava za vođenje kampanje .
-"U Turskoj je optužen zbog svojih političkih stavova i aktivnosti , te",dobiva,True,"azil u Švedskoj , gdje od tada živi ."
-Crna Gora,dobiva,True,status kandidata za prijam u EU
-Hrvatska,dobiva,True,150 benzinskih crpki od ruskog naftnog diva .
-Server,dobiva,True,svoj brojčani identifikator i na svaki od čvorova prstena moguće je spremati podatke .
-Pomoću bolesti čovjek od boga,dobiva,True,znakove kako nešto u njemu nije usklađeno s prirodom .
-"I u ovom valu istraživanja , stoji u priopćenju GfK-a , lanac Interspar iskače i",dobiva,True,najvišu ocjenu kao mjesto kupnje koje su ispitanici spremni preporučiti svojim prijateljima .
-Društvo ili zadruga,dobiva,True,"poticaje od regije i ministarstava , a bilo je dosta projekata koji su u početnoj fazi dobivali i bespovratna sredstva EU ."
-"Najjednostavniji način za provjeru razine željeza je provjera razine hemoglobina , koja se",dobiva,True,vađenjem krvi iz prsta .
-""" Stranke na vlasti žele [ brze ] izbore jer su svjesne da nove stranke brzo",dobivaju,True,"na prednosti "" , kaže Ahmeti ."
-Svi podaci trojke,dobivaju,True,"se od klijenta , pa čak i timestamp ."
-"Oni koji to prihvate lako se izliječe , ali oni koji to ne žele prihvatiti",dobivaju,True,"sve više bolesti koje privremeno zatomljuju lijekovima dok ne postanu kronične , a na kraju dobivaju rak ."
-Njihovi radovi,dobivaju,True,"nagrade na međunarodnim dizajnerskim festivalima i natjecanjima , a tekstovi o hrvatskom dizajnu objavljuju se u cijenjenim svjetskim časopisima ."
-"Bio je zapažen identitet branda hrvatskih aromaterapeutskih proizvoda Aromateka , te redizajn ambalaže Plivinih lijekova , koji se",dobivaju,True,na recept .
-"U Austriji grupa poduzetnika može osnovati energetsku tvrtku ili , još bolje , u selima zemljoradničku zadrugu jer tada",dobivaju,True,"i poticaje od Ministarstva poljoprivrede , kada se odluče na kogeneracijsku elektranu za grijanje i prodaju struje ."
-U Prvoj stambenoj štedionici kažu da se štediše najčešće odlučuju na štednju s ugovornih 10.000 eura jer time u prvoj godini na uplaćenih 5000 kuna,dobivaju,True,"maksimalnih 750 kuna poticaja , čemu kad se zbroji kamatna stopa na štednju , efektivna kamata iznosi oko sedam posto godišnje ."
-"Zbog svih ovakvih informacija ( muškarac se mora ponašati muški , a žena ženski ) koje transrodne osobe",dobivaju,True,"iz svoje okoline , u njima se počinje internalizirati transfobija ."
-"Rezultati ispitivanja , kao i potrebni savjeti i preporuke",dobivaju,True,"se od liječnika odmah , a trajanje cijelog pregleda je oko sat vremena što uključuje uvodni razgovor , promatranje krvi te analizu i savjetovanje na osnovi dobivenih rezultata ."
-"Društvo ili zadruga dobiva poticaje od regije i ministarstava , a bilo je dosta projekata koji su u početnoj fazi",dobivali,True,i bespovratna sredstva EU .
-Crvenkovski : Republika Makedonija ispunila je sve uvjete nužne za,dobivanje,True,pozivnice za NATO .
-Bugarska neće pružiti bilo kakva državna ili korporativna jamstva za,dobivanje,True,"tih sredstava , kazao je Trajkov nakon razgovora s ruskim ministrom energetike Sergejem Šmatkom ."
-"Međutim , izvješće Obavještajnog odjela magazina Economist od utorka bacilo je sumnju na izglede vladajuće koalicije za",dobivanje,True,"dvotrećinske većine koja joj je potrebna za odbacivanje odluke ustavnog suda , a nedavne ankete pokazuju kako bi većina Rumunja više voljela ostanak sadašnje vlade ."
-Na Kongresu je problematizirana ideja da nekonvencionalne metode liječenja postanu dio svakodnevne prakse i da se odrede kriteriji za,dobivanje,True,licence .
-"Tim je novcem HDZ izravno kupio naklonost HSS-a , pa će hrvatski seljaci i dalje",dobivati,True,subvencije suprotno praksi u EU .
-"Tko su ti ljudi koji mogu govoriti satima , ništa ne reći a za to",dobivati,True,ogromnu lovu ?
+,Ukoliko klijent kune oročava na godinu dana,dobiva,True,"kamatu od 5,7 posto ili 6,2 posto ako se radi o najmanje dvogodišnjem oročenju ."
+,"Njega ostavljamo za kraj , obično za neko sramežljivije dijete koje time",dobiva,True,priliku zasjati u svoj svojoj jedinstvenosti .
+,Kako ste to doživjeli i koliko Makedonija,dobiva,True,svojim doprinosom tim misijama očuvanja mira ?
+,Makedonska vojska daje mnogo više no što,dobiva,True,"u takvim aranžmanima , no mi smo potpuno svjesni kako je na nama dio odgovornosti i spremni smo se suočiti s takvim izazovom ."
+,"Dok političari i nevladine udruge teže mobilizirati birače i bore se s apatijom , internet",dobiva,True,na snazi kao jedno od sredstava za vođenje kampanje .
+,"U Turskoj je optužen zbog svojih političkih stavova i aktivnosti , te",dobiva,True,"azil u Švedskoj , gdje od tada živi ."
+,Crna Gora,dobiva,True,status kandidata za prijam u EU
+,Hrvatska,dobiva,True,150 benzinskih crpki od ruskog naftnog diva .
+,Kažu da neki vlasnici i zaposlenici mogu iskoristiti određene rupe u zakonu dok drugi ne,dobivaju,True,gotovo ništa .
+,"Kad se zbroje stalno zaposleni , honorarni i vanjski suradnici , ima nas desetak , i svi redovito",dobivaju,True,plaću svakog mjeseca .
+,Priliku da budu među prvih 100 kupaca koji,dobivaju,True,50 posto popusta na kupovinu iPod Toucha 8 GB odlučili su iskoristiti brojni Zagrepčani pa je tako jutros osvanuo poduži red pred vratima iStyle trgovine .
+,""" Stranke na vlasti žele [ brze ] izbore jer su svjesne da nove stranke brzo",dobivaju,True,"na prednosti "" , kaže Ahmeti ."
+,Svi podaci trojke,dobivaju,True,"se od klijenta , pa čak i timestamp ."
+,"Oni koji to prihvate lako se izliječe , ali oni koji to ne žele prihvatiti",dobivaju,True,"sve više bolesti koje privremeno zatomljuju lijekovima dok ne postanu kronične , a na kraju dobivaju rak ."
+,Njihovi radovi,dobivaju,True,"nagrade na međunarodnim dizajnerskim festivalima i natjecanjima , a tekstovi o hrvatskom dizajnu objavljuju se u cijenjenim svjetskim časopisima ."
+,"Bio je zapažen identitet branda hrvatskih aromaterapeutskih proizvoda Aromateka , te redizajn ambalaže Plivinih lijekova , koji se",dobivaju,True,na recept .
+,"Društvo ili zadruga dobiva poticaje od regije i ministarstava , a bilo je dosta projekata koji su u početnoj fazi",dobivali,True,i bespovratna sredstva EU .
+,Crvenkovski : Republika Makedonija ispunila je sve uvjete nužne za,dobivanje,True,pozivnice za NATO .
+,Bugarska neće pružiti bilo kakva državna ili korporativna jamstva za,dobivanje,True,"tih sredstava , kazao je Trajkov nakon razgovora s ruskim ministrom energetike Sergejem Šmatkom ."
+,"Međutim , izvješće Obavještajnog odjela magazina Economist od utorka bacilo je sumnju na izglede vladajuće koalicije za",dobivanje,True,"dvotrećinske većine koja joj je potrebna za odbacivanje odluke ustavnog suda , a nedavne ankete pokazuju kako bi većina Rumunja više voljela ostanak sadašnje vlade ."
+,Na Kongresu je problematizirana ideja da nekonvencionalne metode liječenja postanu dio svakodnevne prakse i da se odrede kriteriji za,dobivanje,True,licence .
+,"Veoma dobra , i kvalitetnija od LP je EL koja će sa vremenom",dobivati,True,sve veći značaj pogotovo za osrednje klubove i klubove koji nisu iz Liga petica .
+,""" Volim",dobivati,True,"plaću na stari način , od blagajnika naše kompanije ."
+,Poduzetnici sredstva neće,dobivati,True,"nakon odobrenja projekta , nego će ga morati prvo sami financirati , a novac će im biti isplaćen nakon izvršenja ."
+,"Tim je novcem HDZ izravno kupio naklonost HSS-a , pa će hrvatski seljaci i dalje",dobivati,True,subvencije suprotno praksi u EU .
+,"Tko su ti ljudi koji mogu govoriti satima , ništa ne reći a za to",dobivati,True,ogromnu lovu ?

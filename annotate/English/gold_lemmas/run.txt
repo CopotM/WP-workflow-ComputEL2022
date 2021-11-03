@@ -1,10 +1,5 @@
+run,VERB
 run,NOUN
-run,NOUN
-run,VERB
-run,VERB
-run,VERB
-run,VERB
-run,VERB
 run,VERB
 run,VERB
 run,VERB
@@ -12,7 +7,8 @@ run,VERB
 run,NOUN
 run,NOUN
 run,NOUN
-run,VERB
+run,NOUN
+run,NOUN
 run,VERB
 run,VERB
 run,VERB

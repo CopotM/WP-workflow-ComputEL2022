@@ -31,6 +31,3 @@ izgubiti,VERB
 izgubiti,VERB
 izgubiti,VERB
 izgubiti,VERB
-izgubiti,VERB
-izgubiti,VERB
-izgubiti,VERB

@@ -1,21 +1,20 @@
-We,describe,True,"the process for applying the operators and generating mutants , and present a case study where these mutation operators are applied to two real-world applications ."
-"Next , we",describe,True,the definition of two operators and two cases of application on real-world GIS applications .
-"Jerome used a quote from Virgil — "" On all sides round horror spread wide ; the very silence breathed a terror on my soul "" [ 17 ] — to",describe,True,the horror of hell .
-Jerome initially used classical authors to,describe,True,"Christian concepts such as hell that indicated both his classical education and his deep shame of their associated practices , such as pederasty which was found in Rome . [ citation needed ]"
-In a recently-accepted Evolution paper Bos and colleagues,describe,True,ants appearing to self-medicate .
-If you study physics or chemistry then you should,describe,True,the real world .
-Actually I find many connections between mathematics and literature because almost all the thing I told about mathematics are also seen in literature and in writing because when you write you can,describe,True,"the real world , but you can also create worlds of fiction ."
-The secularist magazine MicroMega,describe,True,the court's court 's judgement as historic .
-"In Spanish poetry , the syntactic configurations under which enjambment takes place have been",described,True,"extensively , and detailed studies on the use of enjambment by individual authors exist ( see Martínez Cantón , 2011 for an overview ) including , among others Quilis ( 1964 ) , Domínguez Caparrós , ( 2000 ) , Paraíso , ( 2000 ) , Spang ( 1983 ) for a description of enjambment , and Alarcos ( 1966 ) , Senabre ( 1982 ) , Luján ( 2006 ) , Martínez Fernández ( 2010 ) for case-studies on a single author ."
-"Then , our corpus and system are",described,True,", followed by an evaluation of the system ."
-"More specifically , they answered “ yes ” that the puppet",described,True,the pictures well .
-Daniel Bernoulli was,described,True,"by W. W. Rouse Ball as "" by far the ablest of the younger Bernoullis "" ."
-"In FrameNet , words are",described,True,in terms of the frames they evoke .
-She was,described,True,"by The Guardian of London as the ' Queen of the curve ' , who "" liberated architectural geometry , giving it a whole new expressive identity . """
-"Her former professor , Koolhaas ,",described,True,"her at graduation as "" a planet in her own orbit . """
-Zenghelis,described,True,her as the most outstanding pupil he ever taught .
-He,described,True,"Montalvo as an individual , "" facing the penitentiary in thanks for the following sins : a) Leaving a lifehood of slavery to get a taste of freedom and the world . b) Refusing - despite every provocation and incentive and threat - to frame three guys who went out of their ways ( and dipped into their pockets ) to help the kid achieve that freedom . """
-This paper,describes,True,a collaborative pilot project focusing on a unique collection of 17th Century Zurbarán paintings .
-"His name is commemorated in the Bernoulli's Bernoulli 's principle , a particular example of the conservation of energy , which",describes,True,the mathematics of the mechanism underlying the operation of two important technologies of the 20th century : the carburetor and the airplane wing .
-"She was eventually sent to Rehabilitation Project Force in Sydney , which the Church",describes,True,"as a religious retreat , but critics charge is a forced work camp ."
-I have felt nauseous and as everyone,describes,True,"it , a bit jet-lagged , a bit cloudy in my head , and the worst thing for me has been headaches ."
+,We,describe,True,"the process for applying the operators and generating mutants , and present a case study where these mutation operators are applied to two real-world applications ."
+,"Next , we",describe,True,the definition of two operators and two cases of application on real-world GIS applications .
+,"Jerome used a quote from Virgil — "" On all sides round horror spread wide ; the very silence breathed a terror on my soul "" [ 17 ] — to",describe,True,the horror of hell .
+,Jerome initially used classical authors to,describe,True,"Christian concepts such as hell that indicated both his classical education and his deep shame of their associated practices , such as pederasty which was found in Rome . [ citation needed ]"
+,In a recently-accepted Evolution paper Bos and colleagues,describe,True,ants appearing to self-medicate .
+,If you study physics or chemistry then you should,describe,True,the real world .
+,Actually I find many connections between mathematics and literature because almost all the thing I told about mathematics are also seen in literature and in writing because when you write you can,describe,True,"the real world , but you can also create worlds of fiction ."
+,The secularist magazine MicroMega,describe,True,the court's court 's judgement as historic .
+,"In later years , he",described,True,"the affair as "" a violent , though pure love and passion "" ."
+,"She died from infection caused by severe eczema after they shunned effective conventional medical treatments for homeopathy , a form of alternative medicine that has been",described,True,as pseudoscience .
+,"All respondents who indicated they were discriminated against — specifically , those who responded with sometimes or often to the perceived discrimination measure",described,True,above — were asked the following question :
+,"Respondents were provided the opportunity to select more than one race , and those who did were asked a follow-up question regarding which category best",described,True,their racial background .
+,Dvořák's Dvořák 's own style has been,described,True,"as "" the fullest recreation of a national idiom with that of the symphonic tradition , absorbing folk influences and finding effective ways of using them "" . [ 1 ]"
+,He has been,described,True,"as "" arguably the most versatile ... composer of his time "" . [ 5 ]"
+,"In Spanish poetry , the syntactic configurations under which enjambment takes place have been",described,True,"extensively , and detailed studies on the use of enjambment by individual authors exist ( see Martínez Cantón , 2011 for an overview ) including , among others Quilis ( 1964 ) , Domínguez Caparrós , ( 2000 ) , Paraíso , ( 2000 ) , Spang ( 1983 ) for a description of enjambment , and Alarcos ( 1966 ) , Senabre ( 1982 ) , Luján ( 2006 ) , Martínez Fernández ( 2010 ) for case-studies on a single author ."
+,"Then , our corpus and system are",described,True,", followed by an evaluation of the system ."
+,This paper,describes,True,a collaborative pilot project focusing on a unique collection of 17th Century Zurbarán paintings .
+,"His name is commemorated in the Bernoulli's Bernoulli 's principle , a particular example of the conservation of energy , which",describes,True,the mathematics of the mechanism underlying the operation of two important technologies of the 20th century : the carburetor and the airplane wing .
+,"She was eventually sent to Rehabilitation Project Force in Sydney , which the Church",describes,True,"as a religious retreat , but critics charge is a forced work camp ."
+,I have felt nauseous and as everyone,describes,True,"it , a bit jet-lagged , a bit cloudy in my head , and the worst thing for me has been headaches ."

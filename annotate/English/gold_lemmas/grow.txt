@@ -17,7 +17,3 @@ grow,VERB
 grow,VERB
 grow,VERB
 grow,VERB
-grow,VERB
-grow,VERB
-grow,VERB
-grow,VERB

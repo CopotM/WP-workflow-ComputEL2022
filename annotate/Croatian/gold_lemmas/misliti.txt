@@ -3,6 +3,8 @@ misliti,VERB
 misliti,VERB
 misliti,VERB
 misliti,VERB
+misliti,VERB
+misliti,ADV
 misliti,ADV
 misliti,VERB
 misliti,VERB
@@ -13,10 +15,6 @@ misliti,VERB
 misliti,VERB
 misliti,VERB
 misliti,VERB
-misao,NOUN
-misliti,VERB
-misliti,VERB
-misliti,VERB
 misliti,VERB
 misliti,VERB
 misliti,VERB
@@ -29,6 +27,7 @@ misliti,VERB
 misliti,VERB
 misliti,VERB
 misao,NOUN
+misliti,VERB
 misliti,VERB
 misliti,VERB
 misliti,VERB

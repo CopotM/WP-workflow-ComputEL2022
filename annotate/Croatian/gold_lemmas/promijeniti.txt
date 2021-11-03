@@ -24,5 +24,3 @@ promijeniti,VERB
 promijeniti,VERB
 promijeniti,VERB
 promijeniti,VERB
-promijeniti,VERB
-promijeniti,VERB

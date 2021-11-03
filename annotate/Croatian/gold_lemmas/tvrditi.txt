@@ -7,6 +7,7 @@ potvrditi,VERB
 potvrditi,VERB
 potvrditi,VERB
 potvrditi,VERB
+potvrditi,VERB
 tvrd,ADJ
 tvrditi,VERB
 tvrditi,VERB
@@ -16,13 +17,12 @@ tvrditi,VERB
 tvrditi,VERB
 tvrditi,VERB
 tvrditi,VERB
-tvrditi,VERB
-tvrditi,VERB
-tvrditi,VERB
 tvrditi,ADV
 tvrditi,ADV
 tvrditi,ADV
 tvrditi,ADV
+tvrditi,ADV
+tvrditi,ADV
 tvrditi,VERB
 tvrditi,VERB
 tvrditi,VERB
@@ -34,8 +34,7 @@ tvrditi,VERB
 tvrditi,VERB
 tvrditi,VERB
 tvrditi,VERB
-tvrditi,VERB
-tvrditi,VERB
+utvrditi,VERB
 utvrditi,VERB
 utvrditi,VERB
 utvrditi,VERB

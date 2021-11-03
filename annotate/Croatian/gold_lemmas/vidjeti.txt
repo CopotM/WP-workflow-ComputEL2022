@@ -6,10 +6,8 @@ vidjeti,VERB
 vidjeti,VERB
 vidjeti,VERB
 vidjeti,VERB
+vidjeti,VERB
 vidjelo,NOUN
-vidjeti,VERB
-vidjeti,VERB
-vidjeti,VERB
 vidjeti,VERB
 vidjeti,VERB
 vidjeti,VERB

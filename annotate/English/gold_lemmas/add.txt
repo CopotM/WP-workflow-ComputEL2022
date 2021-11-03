@@ -14,7 +14,8 @@ add,VERB
 add,VERB
 add,VERB
 add,VERB
-added,ADJ
+add,VERB
+add,VERB
 add,VERB
 add,VERB
 add,VERB

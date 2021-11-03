@@ -1,10 +1,8 @@
 open,ADJ
-open,ADJ
 open,VERB
 open,ADJ
 open,ADJ
-open,ADJ
-open,ADJ
+open,VERB
 open,ADJ
 open,ADJ
 open,ADJ
@@ -20,12 +18,9 @@ open,VERB
 open,VERB
 opening,NOUN
 open,VERB
-opening,NOUN
-open,VERB
-opening,NOUN
-opening,NOUN
 open,VERB
 open,VERB
+opening,NOUN
 open,VERB
 open,VERB
 open,VERB

@@ -13,13 +13,8 @@ write,VERB
 write,VERB
 write,VERB
 write,VERB
-write,VERB
 writing,NOUN
 write,VERB
 write,VERB
 write,VERB
 write,VERB
-write,VERB
-writing,NOUN
-write,VERB
-writing,NOUN

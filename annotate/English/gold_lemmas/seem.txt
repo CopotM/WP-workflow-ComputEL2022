@@ -13,12 +13,7 @@ seem,VERB
 seem,VERB
 seem,VERB
 seem,VERB
-seem,VERB
-seem,VERB
 seeming,ADJ
-seem,VERB
-seem,VERB
-seem,VERB
 seem,VERB
 seem,VERB
 seem,VERB

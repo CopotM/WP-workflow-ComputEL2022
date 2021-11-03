@@ -1,7 +1,3 @@
-call,NOUN
-call,VERB
-call,VERB
-call,VERB
 call,VERB
 call,VERB
 call,VERB
@@ -24,8 +20,11 @@ calling,NOUN
 call,VERB
 call,VERB
 call,VERB
-call,VERB
 call,NOUN
+call,NOUN
+call,VERB
+call,VERB
+call,VERB
 call,NOUN
 call,NOUN
 call,NOUN

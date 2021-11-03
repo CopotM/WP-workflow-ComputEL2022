@@ -15,12 +15,12 @@ hear,VERB
 hear,VERB
 hear,VERB
 hear,VERB
+hearing,NOUN
 hear,VERB
 hearing,NOUN
 hear,VERB
 hear,VERB
 hear,VERB
-heart,NOUN
 heart,NOUN
 heart,NOUN
 heart,NOUN

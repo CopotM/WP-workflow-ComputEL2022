@@ -14,4 +14,3 @@ let,VERB
 let,VERB
 let,VERB
 let,VERB
-let,VERB

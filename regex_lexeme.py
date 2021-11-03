@@ -50,6 +50,10 @@ with open("".join([args.repository,"/data/",args.language.capitalize(),".txt"]))
                     s.insert(1, m.group(1))
                     data.append(s)
 
+for x in data:
+    x.insert(0, "")
+    x.insert(3, "False")
+
 with open(uniquify("".join([args.repository,"/annotate/regex_output/",args.lexeme,"_",args.regex,".csv"])), "w", newline = "") as f:
     if data:
         writer = csv.writer(f)

@@ -28,11 +28,5 @@ include,VERB
 include,VERB
 include,VERB
 include,VERB
-include,ADP
-include,VERB
-include,VERB
-include,VERB
-include,VERB
-include,VERB
 include,VERB
 include,VERB

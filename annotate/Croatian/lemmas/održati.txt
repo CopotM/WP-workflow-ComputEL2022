@@ -1,103 +1,100 @@
-"Pitanje ne može biti hitnije , jer su Albaniji potrebni novi izvori prihoda kako bi",održala,True,svoje gospodarstvo .
-EBRD je u Beogradu,održala,True,svoj 14. godišnji sastanak posvećen pitanjima svojih 27 zemalja članica i radnim strategijama .
-Peti put zaredom u Rimu se 1. studenog,održala,True,Utrka Svih svetih .
-"Dana 6. i 7. veljače u Bruxellesu je krovna svjetska organizacija za zaštitu zastupanje nogometaša , FifPro",održala,True,veliku konferenciju i predstavila takozvanu ' Crnu knjigu Istočne Europe ' .
-Dužnosnici UNMIK-a,održali,True,"su tijekom vikenda razgovore s prosvjednicima u pokušaju uvjeriti ih da napuste zgradu , ali su prosvjednici to odbili ."
-"Građani Banje Koviljače , malog grada 173 kilometara zapadno od Beograda , na granici s Bosnom i Hercegovinom ,",održali,True,su prošlog tjedna prosvjed zahtijevajući da tražitelji azila napuste njihov grad .
-""" Moldavija je nadvladala mučne gospodarske i političke izazove kako bi se",održali,True,"ovi izbori ; njihov uspjeh nije važan samo za Moldaviju , već i za regiju u cjelini "" , rekao je senator John Kerry ( D-MA ) ."
-Dragovoljci su u petak,održali,True,spontani prosvjed upozorenja u dvorištu iza Bogoslovnog fakulteta jer su iznimno nezadovoljni odlukom Zagrebačke nadbiskupije koja je zemljište iznajmila baš Bienenfeldu .
-"Ministarstvo gospodarstva , rada i poduzetništva i Delegacija Europske unije u Republici Hrvatskoj",održali,True,su završnu svečanost i predstavljanje rezultata twinning light projekta Jačanje kapaciteta za sprječavanje nepravilnosti u postupcima javne nabave financiranog u sklopu Programa Europske unije za Hrvatsku IPA 2008.
-"Izaslanstvo poslovnih ljudi , koje je također u pratnji premijera Saxe-Coburga ,",održalo,True,je nekoliko sastanka i sudjelovalo na okruglom stolu na kojem je razgovarano o mogućnostima koje nudi Bugarska .
-"Koncert skupine , koji je",održan,True,"u sklopu turneje Big Bang , trajao je dva sata ."
-Novi je natječaj,održan,True,u rujnu 2001 .
-"Seminar pod nazivom "" Kulturno naslijeđe Balkana u kontekstu ujedinjene Europe """,održan,True,je od 2. do 5. rujna u Krdžaliju u Bugarskoj .
-"Prvi je "" neslužbeni "" EXIT festival",održan,True,u ljeto 2000 .
-Prvi je organizirani EXIT festival,održan,True,"2001. u Petrovaradinu , a prisustvovalo mu je više od 200.000 posjetitelja ."
-"Hrvatska muška šahovska reprezentacija osvojila je šahovski turnir Mitropacup 2009 , koji je od 9. svibnja do nedjelje ( 17. svibnja )",održan,True,u Sloveniji .
-"Međutim , sastanak nikada nije",održan,True,.
-"U nastojanju da nadiđe apatiju i poveća osviještenost , Središnje izborno povjerenstvo organiziralo je posebno događanje - Sajam političkih stranaka -",održan,True,"21. studenog u središtu Kišinjeva , a glasači su imali priliku osobno razgovarati s kandidatima ."
-"Humanitarni koncert , na kojem su prikupljana novčana sredstva za djecu bez roditelja ili adekvatne roditeljske skrbi ,",održan,True,je u dvorani koju je ustupio Mjesni odbor Žiškovec .
-"Unatoč širokom političkom konsenzusu oko obrazovnih reformi , koje su usmjerene na unaprjeđenje akademskih standarda i studenata i nastavnog osoblja koji su već dugo u opadanju , prošlog tjedna",održana,True,"su "" prosvjedna sjedenja "" u školama i jedan veliki ulični prosvjed , što su uglavnom podržale profesorske udruge i studentske skupine povezane s lijevim strankama ."
-"Redatelj Emir Kusturica najavio je kako će premijera opere temeljene na njegovu filmu iz 1989. godine "" Dom za vešanje "" biti",održana,True,u operi Bastille u Parizu 22. lipnja 2007. godine .
-U Ohridu u Makedoniji od 22. lipnja do 6. srpnja,održana,True,je umjetnička kolonija Balkanski duh .
-"Passy je istaknuo kako bi ta konferencija -- koja će biti usredotočena na ilegalnu prodaju oružja i droga , trgovinu ljudima i nuklearnim i radioaktivnim materijalom -- trebala biti",održana,True,u širem opsegu koji bi uključivao i UN .
-"Godišnja skupština EBRD-a ,",održana,True,"u Beogradu od 21. do 23. svibnja , bila je najvažnije međunarodno događanje koje se u posljednje tri decenije odvijalo na području Srbije i Crne Gore ."
-U Subotici je 28. veljače,održana,True,"Vojvođanska konvencija -- skup političkih stranaka , udruga i pojedinaca koji podupiru opću autonomiju Vojvodine ."
-Sjednica parlamenta,održana,True,"je u zgradi Skupštine Novog Sada , nakon anonimnog upozorenja kako je u zgradi pokrajinskog parlamenta postavljena bomba ."
-Ceremonija je,održana,True,"u Salzburgu , u Austriji , na plenarnoj sjednici Akademije ."
-Svečanost dodjele godišnjih nagrada,održana,True,je 21. studenoga u Los Angelesu 38. put .
-Londonska premijera filma,održana,True,"u srijedu središnje je događanje vezano uz promociju Čovjeka od čelika , s obzirom na to da je glavni glumac Britanac ."
-U vatrogasnom domu,održana,True,je osnivačka skupština nogometnog kluba ( u upitniku iz 1987. godine kao datum osnutka kluba navodi se 10. ožujak 1963. dok se u godišnjem izvještaju iz iste godine navodi da je klub registriran 1962 . godine ) .
-Te konfernecije će biti,održane,True,""" bez ikakvih političkih poruka ili vođenja kampanje "" , izjavio je predsjednik DOP Kenan Hodžić ."
-Pozdravljajući način na koji su,održani,True,"prijevremeni predsjednički izbori u Gruziji , Passy je obećao nastavak potpore OESS-a toj zemlji u izgradnji demokratskih institucija i provedbi tržišnih reformi ."
-Novi pregovori bit će,održani,True,"pod okriljem šestočlane Kontakt skupine koju čine Britanija , Francuska , Njemačka , Italija , Rusija i Sjedinjene Države , a koja je zadužila trojicu diplomata -- američkog izaslanika za Kosovo Franka Wisnera , ruskog izaslanika Alexandera Botsan-Kharchenka i Nijemca Wolfganga Ischingera , koji predstavlja EU -- za posredovanje u tom procesu ."
-"Razgovorima ,",održanim,True,"19. veljače u Sofiji , također je nazočio Sergej Kirijenko , ravnatelj Rosatoma , regulatornog tijela ruske nuklearne industrije ."
-"Drugi , zabrinuti mogućnošću inflacije , žele",održanje,True,stabilnog tečaja dinara .
-Žene vlasnice i rukovoditeljice pokazale su veliku upornost u,održanju,True,"svojih tvrtki , posebice tijekom gospodarske krize ."
-"Bugarska je osvojila prvo mjesto u ženskom atletskom finalu na 62. Balkanijadi , regionalnom atletskom natjecanju koje je",održano,True,prošlog tjedna u Sofiji .
-Sedamnaesto tradicionalno okupljanje Karakachana,održano,True,je u nedjelju ( 8. srpanj ) na lokaciji Karandila u blizini Slivena u Bugarskoj .
-Blanka Vlašić iz Hrvatske slavi pobjedu u finalu skoka u vis za žene u nedjelju ( 9. ožujka ) na 12. IAAF Svjetskom dvoranskom prvenstvu koje je,održano,True,u Valenciji u Španjolskoj .
-"Prošle godine Vlašić je osvojila zlatno odličje na svjetskom prvenstvu u skoku u vis na otvorenom , koje je",održano,True,u Osaki .
-"Tomašević je pobijedila u završnici natjecanja Beovizija 2008 , koje je",održano,True,u ponedjeljak ( 10. ožujka ) .
-"Prošle godine , pjesma "" Molitva "" predstavnice Srbije Marije Šerifović pobijedila je na natjecanju za Pjesmu Eurovizije , koje je",održano,True,u Helsinkiu .
-"Rumunj Marian Dragulescu osvojio je dva zlatna odličja na 39. Svjetskom prvenstvu u umjetničkoj gimnastici , koje je od 13 do 21. listopada",održano,True,u Aarhusu u Danskoj .
-Natjecanje je,održano,True,"u veleslalomu , u tri muške dobne kategorije i jednoj ženskoj ."
-"Predsjednik EBRD-a Jean Lemierre ( desno ) u razgovoru sa srpskim zamjenikom premijera Miroljubom Labusom u Beogradu , prije početka investicijskog foruma",održanog,True,od strane srpske vlade .
-Hrvatska premijerka Jadranka Kosor i njen ruski kolega Vladimir Putin potvrdili su bilateralnu gospodarsku suradnju na sastanku,održanom,True,19. lipnja u Moskvi .
-Mlada turska sopranistica Burcu Uyar osvojila je nagradu DEBUT 2006 na europskom opernom natjecanju,održanom,True,prošlog tjedna u Mannheimu u Njemačkoj .
-"Opseg trgovine između Rumunjske i Turske mogao bi dosegnuti 4,5 milijardi eura do konca ove godine i dodatno se povećati na 6,9 milijardi eura u 2010. godini , izjavio je turski premijer Recep Tayyip Erdogan na rumunjsko-turskom poslovnom forumu",održanom,True,u petak ( 26. listopad ) u Bukureštu .
-"Najvećem glazbenom festivalu jugoistočne Europe ,",održanom,True,"od 7. do 10. srpnja u novosadskoj austrougarskoj tvrđavi Petrovaradin , prisustvovalo je više od 150.000 posjetitelja , više stotina izvođača i preko 1.500 akreditiranih novinara iz čitavog svijeta , uključujući i velike medijske kuće poput MTV-ja i BBC-ja ."
-Poznati ruski Nacionalni akademski folklorno instrumentalni orkestar Ossipov,održao,True,je 5. i 6. rujna koncerte u teatru Herod Atticus u Ateni .
-Burkay je,održao,True,"tiskovnu konferenciju na Taksimu , pojašnjavajući razloge svojeg povratka kao "" podršku koracima usmjerenim prema miroljubivom rješavanju kurdskog pitanja "" ."
-Nakon uvodnog govora gospodina Milana Jevtića iz Zaklade Friedrich Ebert prezentaciju je,održao,True,"prof. dr. Andranik Tangian , stručnjak iz Zaklade Hans-Böckler , Düsseldorf i profesora sa Sveučilišta iz Karlsruhea ."
-"Surađivao je u praizvedbama suvremenih njemačkih kompozitora , te",održao,True,"niz koncerata solo i u suradnji sa violinistom Istvanom Kurutzom u Njemačkoj , Švedskoj , Nizozemskoj , Italiji i Švicarskoj ."
-""" Posljednji sastanak Komisije",održat,True,"će se 6. prosinca ; samim tim , to bi mogao biti logičan trenutak za davanje preporuka je li Turska ispunila svoje obveze "" ."
-"U prostorijama Fakulteta političkih znanosti u Zagrebu ( Lepušićeva 6 ) , s početkom 28. listopada u 17:00 te zaključno s 30. listopadom u 17:00",održat,True,će se Regionalni ekspertski forum o mobilnosti mladih .
-Ovogodišnja dodjela nagrada,održat,True,će se u okviru Ministarske konferencije o eUpravi krajem studenog u Malmöu ( Švedska ) .
-"Treći glazbeno-scenski recital pod nazivom Cijela zemlja slavu ti pjeva """,održat,True,će se u subotu 25.10.2008 u 19:30 u Srednjoj školi Dugo Selo .
-"Šef vanjskih poslova EU-a Javier Solana izjavio je kako će razmotriti mogućnost upućivanja mirovne misije na sljedećem sastanku ministara vanjskih poslova zemalja članica EU-a , koji će se 5. i 6. rujna",održati,True,"u Avignonu , u Francuskoj ."
-Općinski izbori u Mađarskoj trebaju se,održati,True,"za manje od dva tjedna , rekao je , i predstojeće glasovanje predstavljat će referendum o teškim gospodarskim reformama koje provodi Vlada ."
-Europska unija trebala bi,održati,True,"samit s Turskom nakon parlamentarnih izbora tamo 2011. godine , kako bi usvojila novu mapu puta za pristupanje ove zemlje 27-članoj Uniji , izjavio je u ponedjeljak ( 22. studenog ) grčki ministar vanjskih poslova Dimitris Droutsas ."
-Prema izvješćima lokalnih medija glavni odbor Srpske demokratske stranke možda neće,održati,True,riječ glede dogovora o reformi policije koji je postignut prošlog mjeseca -- što predstavlja ključan uvjet za priključenje Bosne i Hercegovine EU .
-"Komunistički čelnik Ramiz Alia , svjestan nadolazećih promjena , nadao se",održati,True,proces pod nadzorom .
-U Istanbulu će se od 5. lipnja do konca tog mjeseca,održati,True,37. Međunarodni glazbeni festival .
-"Moldavija će u nedjelju , 28. studenog ,",održati,True,prijevremene parlamentarne izbore .
-""" Nadam se kako će narod Moldavije 28. studenog",održati,True,"izbore na najvišoj demokratskoj razini , iz kojih će proizaći vlada sposobna za nastavak nužnih reformi . """
-Istoj temi bit će posvećen i 3. kongres koji će se,održati,True,28. i 29. lipnja na Medicinskom fakultetu .
-"Odnos prema dizajnu promijenio se na bolje , a na 2. nacionalnoj dizajnerskoj konvenciji , koja će se",održati,True,"u Rovinju idućeg tjedna , pokušat će se utvrditi cjenik , etički kodeks i jasnija pravila ."
-"Primjerice , o novim tendencijama u učinkovitom tržišnom komuniciranju govorit će dr. Zvonimir Pavlek , prvi doktor brendinga u Hrvatskoj , a u subotu će se",održati,True,"predavanje vezano uz inicijativu da se u Hrvatsku dovede međunarodna nagrada Effie kojom se nagrađuju najbolje kampanje prema procjenama klijenata , agencija i istraživačkih institucija ."
-"Uz razočaranje koje prevladava u Makedoniji nakon prošlotjednog samita NATO-a u Bukureštu , vlada",održava,True,konzultacije u cilju rješavanja spora oko imena s Grčkom .
-"Festival , koji se",održava,True,"pod naslovom "" Slike 21. stoljeća "" , proslavlja desetu godinu postojanja , a tijekom trajanja bit će prikazani dokumentarni filmovi iz cijelog svijeta ."
-"Erdogan će sudjelovati na prvom forumu Saveza civilizacija , koji se",održava,True,u utorak i srijedu .
-Berisha je odbacio takve optužbe ukazujući kako samo,održava,True,izborno obećanje DS-a da će raditi na učinkovitijem organiziranju javne uprave .
-Piramida je tijekom proteklih 20 godina imala niz namjena - tu se,održava,True,"nekoliko gospodarskih sajmova i sajmova knjiga , a privatna nacionalna TV postaja Top Channel ima urede i više studija u zgradi ."
-Obuka se,održava,True,dva puta tjedno i traje mjesec dana .
-Obuka se,održava,True,u prostorijama Algoritam središta i državnim školama u unutrašnjosti .
-Taj korak,održava,True,"preporuke koje je dalo Vijeće za provedbu mira ( PIC ) na lipanjskom sastanku u Sarajevu i "" konstantan napredak koji BiH ostvaruje na putu od stabilizacije mira ka europskoj integraciji "" , pojašnjeno je u priopćenju OHR-a ."
-"Svi su programi raspoređeni u prikladne kategorije , a moramo priznati i da se stranica prilično redovito",održava,True,.
-IFA se ove godine,održava,True,"jubilarni pedeseti put , a kroz posljednjih se nekoliko godina profilirala kao najvažniji europski tehnološki sajam , uz CeBIT i Mobile World Congress ) ."
-To se odnosi na stvari poput,održavanja,True,"reda na disku , redovite defragmentacije diska , deinstaliranja suvišnih programa ali i održavanja čiste i lijepe radne površine ."
-Tempomat je nekoć imao jednostranu ulogu samostalnog,održavanja,True,"putne brzine , a na vozaču je bilo pravodobno usporavati ili kočiti ."
-Tijekom 100.000 kilometara ovlašteni servis radi redovnog,održavanja,True,"posjetili smo pet puta , držeći se propisanog intervala od 15.000 kilometara ."
-"Sportaši bi trebali razmisliti o tome trebaju li im ugljikohidrati za vrijeme ili prije treninga , i to na temelju ciljeva samog treninga te relativnog značaja",održavanja,True,intenzivnog vježbanja tijekom cijelog treninga kako bi se potpomogla metabolička i fiziološka adaptacija na trening .
-Program rada predviđa,održavanje,True,"panel rasprava i sastanaka radnih skupina na kojima će se razgovarati o tri glavne teme : miru i stabilnosti , demokraciji i civilnom društvu i kulturnim različitostima ."
-"Tijekom zasjedanja Glavne skupštine UN-a 9. studenog 2001. godine , Trajkovski je prvi put predstavio svoj prijedlog za",održavanje,True,regionalnog foruma u Ohridu kao konkretan korak ka provedbi Globalnog programa Dijaloga među civilizacijama i njegovog Programa djelovanja koji je usvojen na istom zasjedanju .
-"Nastavljajući domete Ohridske konferencije o sigurnosti granica Balkana , OESS ove godine planira",održavanje,True,konferencije o nadzoru i sigurnosti granica .
-Treći uvjet jest,održavanje,True,prosječne godišnje razine zaposlenih u Bulgartabacu i njegovim podružnicama te zadržavanje broja zaposlenih na razini iz 2010. godine .
-Opseg skandala naveo je UEFA na,održavanje,True,izvanrednog sastanka s dužnosnicima devet nogometnih saveza u cilju razmjene povjerljivih informacija o sumnjivim utakmicama .
-""" Tražit ću",održavanje,True,zajedničke sjednice parlamenta .
-"Tržišna ekonomija koja dobro funkcionira jamči dobre gospodarske rezultate , što je neophodno za",održavanje,True,vojne infrastrukture i doprinos potrebama Saveza .
-"Potvrđuju nam to i Mladen Režek i Nenad Kušen , serviseri Autokuće Baotić : kada bi se servisiranje ,",održavanje,True,"i popravci Sandera obavljali u vlastitim servisima Dacije , a ne u sklopu postojećih Renaultovih , servisi bi brzo trebali staviti ključ u bravu ."
-Motor se zapravo tek pošteno razradio i uz pravilno,održavanje,True,", mehanika će bez problema odraditi i sljedećih 100.000 kilometara ."
-OSIJEK - Četrdesetdvogodišnja vlasnica tvrtke za,održavanje,True,i upravljanje nekretninama iz Osijeka osumnjičena je da je oštetila stanare zgrada u Osijeku za gotovo pola milijuna kuna
-"Popust tijekom trajanja manifestacije Do kraja Dana trgovine BiH , koji će trajati do 30. lipnja , predviđeno je",održavanje,True,"i drugih sadržaja , kojima je manifestacija dodatno obogaćena ."
-"U iduća tri tjedna kandidati će obilaziti Hrvatsku ,",održavati,True,skupove i pozivati birače na sudjelovanje na izborima .
-"Prema pravilima EU , zastupnici EP-a imaju pravo",održavati,True,"rasprave o imenovanjima za svakog predloženog povjerenika i odbaciti cjelokupan sastav , ali ne kandidate pojedinačno ."
-"Korištenjem radara adaptivni tempomati , koji su uglavnom dostupni u modelima više klase , mogu automatski",održavati,True,unaprijed postavljenu udaljenost od vozila ispred te u slučaju njihova usporavanja samostalno kočiti .
-Kako mali broj zaposlenih može,održavati,True,standard velikom broju ljudi izvan radnog kontingenta .
-Radionica će se,održavati,True,u slijedećim terminima : 20. i 24. veljače te 2. i 5. ožujka u terminu od 18 do 20 sati .
-Sastanci će se,održavati,True,"jednom mjesečno , a po potrebi i češće ."
-"Sučeljavajući se s pritiskom tog događaja , režim je polako počeo popuštati svoje stege ,",održavši,True,višestranačke izbore 1991. godine i konačno ustupio kompletnu vlast godinu dana kasnije .
-Za žene je neophodno da,održe,True,određenu razinu masnih naslaga u organizmu kako bi mogle ovulirati .
-Također je rekao kako odluka EBRD-a da,održi,True,zasjedanje u Beogradu odražava stabilnost srpskih institucija -- što je od posebne važnosti s obzirom na očekivani početak pregovora oko Sporazuma o stabilizaciji i pridruživanju s EU sljedeće jeseni .
-"Priča 2 : Pacho je više od 20 godina korišten za školu jahanja i sinjsku alku , jer je zbog izuzetne inteligencije i krotkosti bio pogodan i za malo dijete i za neukog , priučenog jahača , koji je silom prilika sjeo na konja da",održi,True,govor .
+,"Pitanje ne može biti hitnije , jer su Albaniji potrebni novi izvori prihoda kako bi",održala,True,svoje gospodarstvo .
+,EBRD je u Beogradu,održala,True,svoj 14. godišnji sastanak posvećen pitanjima svojih 27 zemalja članica i radnim strategijama .
+,Peti put zaredom u Rimu se 1. studenog,održala,True,Utrka Svih svetih .
+,"Dana 6. i 7. veljače u Bruxellesu je krovna svjetska organizacija za zaštitu zastupanje nogometaša , FifPro",održala,True,veliku konferenciju i predstavila takozvanu ' Crnu knjigu Istočne Europe ' .
+,Dužnosnici UNMIK-a,održali,True,"su tijekom vikenda razgovore s prosvjednicima u pokušaju uvjeriti ih da napuste zgradu , ali su prosvjednici to odbili ."
+,"Građani Banje Koviljače , malog grada 173 kilometara zapadno od Beograda , na granici s Bosnom i Hercegovinom ,",održali,True,su prošlog tjedna prosvjed zahtijevajući da tražitelji azila napuste njihov grad .
+,""" Moldavija je nadvladala mučne gospodarske i političke izazove kako bi se",održali,True,"ovi izbori ; njihov uspjeh nije važan samo za Moldaviju , već i za regiju u cjelini "" , rekao je senator John Kerry ( D-MA ) ."
+,Dragovoljci su u petak,održali,True,spontani prosvjed upozorenja u dvorištu iza Bogoslovnog fakulteta jer su iznimno nezadovoljni odlukom Zagrebačke nadbiskupije koja je zemljište iznajmila baš Bienenfeldu .
+,"Ministarstvo gospodarstva , rada i poduzetništva i Delegacija Europske unije u Republici Hrvatskoj",održali,True,su završnu svečanost i predstavljanje rezultata twinning light projekta Jačanje kapaciteta za sprječavanje nepravilnosti u postupcima javne nabave financiranog u sklopu Programa Europske unije za Hrvatsku IPA 2008.
+,Županijsko natjecanje u poznavanju hrvatskoga jezika,održalo,True,"se u Gimnaziji Nova Gradiška u utorak , 05. ožujka 2013. godine ."
+,"Izaslanstvo poslovnih ljudi , koje je također u pratnji premijera Saxe-Coburga ,",održalo,True,je nekoliko sastanka i sudjelovalo na okruglom stolu na kojem je razgovarano o mogućnostima koje nudi Bugarska .
+,Natječaj za odabir najboljeg projekta muzeja bit će,održan,True,"u rujnu , rekao je ministar ."
+,Najavila je kako će koncem lipnja biti,održan,True,"sastanak Hrvatske vlade i Vijeća ministara BiH , opisujući to kao prigodu za razgovore o otvorenim pitanjima i pokušaj rješavanja nekih od njih ."
+,Sedamnaesti summit NATO-a,održan,True,je u Istanbulu u ponedjeljak i utorak ( 28. i 29. lipanj ) i okupio je 46 šefova država i vlada .
+,"Komemoracijski skup pod nazivom "" Vidimo se u budućnosti """,održan,True,je u beogradskom Sava centru .
+,Četvrti kongres o NLO-ima i Novom dobu bit će,održan,True,u Istanbulu .
+,"Znanstvenici iz cijelog svijeta nazočili su forumu , najvećem skupu za to područje koji je ikad",održan,True,u Grčkoj .
+,"Koncert skupine , koji je",održan,True,"u sklopu turneje Big Bang , trajao je dva sata ."
+,Novi je natječaj,održan,True,u rujnu 2001 .
+,Turski pisac Orhan Pamuk primio je Nobelovu nagradu za književnost na ceremoniji koja je u ponedjeljak ( 11. prosinac ),održana,True,"u Stockholmu , a kojoj je nazočilo 1.600 gostiju i švedska kraljevska obitelj ."
+,Premijer Vojislav Koštunica također je obilježio godišnjicu Đinđićeve smrti na ceremoniji koja je,održana,True,na mjestu gdje je ubijen .
+,"Regionalna konferencija "" Čista energija i transparentna energetska politika """,održana,True,je u četvrtak ( 19. lipanj ) u Sarajevu .
+,13. travnja,održana,True,je izborna skupština HGSS Stanice Rijeka .
+,"Unatoč širokom političkom konsenzusu oko obrazovnih reformi , koje su usmjerene na unaprjeđenje akademskih standarda i studenata i nastavnog osoblja koji su već dugo u opadanju , prošlog tjedna",održana,True,"su "" prosvjedna sjedenja "" u školama i jedan veliki ulični prosvjed , što su uglavnom podržale profesorske udruge i studentske skupine povezane s lijevim strankama ."
+,"Redatelj Emir Kusturica najavio je kako će premijera opere temeljene na njegovu filmu iz 1989. godine "" Dom za vešanje "" biti",održana,True,u operi Bastille u Parizu 22. lipnja 2007. godine .
+,U Ohridu u Makedoniji od 22. lipnja do 6. srpnja,održana,True,je umjetnička kolonija Balkanski duh .
+,"Passy je istaknuo kako bi ta konferencija -- koja će biti usredotočena na ilegalnu prodaju oružja i droga , trgovinu ljudima i nuklearnim i radioaktivnim materijalom -- trebala biti",održana,True,u širem opsegu koji bi uključivao i UN .
+,Te konfernecije će biti,održane,True,""" bez ikakvih političkih poruka ili vođenja kampanje "" , izjavio je predsjednik DOP Kenan Hodžić ."
+,""" Do zamjetnih poboljšanja došlo je na Kosovu , koje je napredovalo od statusa neslobodne do statusa djelomice slobodne zemlje , nakon što su",održani,True,"izbori za koje je ocijenjeno da su u skladu s međunarodnim standardima i zbog jačanja prava manjina "" ."
+,Predloženo je da Hrvatski sabor uštedi na znatnim troškovima organiziranja referenduma i prizna ove potpise kao,održani,True,"referendum te se iz procedure povuče izmjena ZOR-a , ali i da se Vlada obveže da neće predlagati izmjene ZOR-a bez prethodne suglasnosti sindikata ."
+,Pozdravljajući način na koji su,održani,True,"prijevremeni predsjednički izbori u Gruziji , Passy je obećao nastavak potpore OESS-a toj zemlji u izgradnji demokratskih institucija i provedbi tržišnih reformi ."
+,Novi pregovori bit će,održani,True,"pod okriljem šestočlane Kontakt skupine koju čine Britanija , Francuska , Njemačka , Italija , Rusija i Sjedinjene Države , a koja je zadužila trojicu diplomata -- američkog izaslanika za Kosovo Franka Wisnera , ruskog izaslanika Alexandera Botsan-Kharchenka i Nijemca Wolfganga Ischingera , koji predstavlja EU -- za posredovanje u tom procesu ."
+,"Razgovorima ,",održanim,True,"19. veljače u Sofiji , također je nazočio Sergej Kirijenko , ravnatelj Rosatoma , regulatornog tijela ruske nuklearne industrije ."
+,Novi sporazum predostrožnosti ima za cilj,održanje,True,fiskalne stege i nastavak strukturnih reformi .
+,"Drugi , zabrinuti mogućnošću inflacije , žele",održanje,True,stabilnog tečaja dinara .
+,Žene vlasnice i rukovoditeljice pokazale su veliku upornost u,održanju,True,"svojih tvrtki , posebice tijekom gospodarske krize ."
+,Svečano ponovno pokretanje linije Skoplje - Priština,održano,True,"je u prosincu prošle godine , kada je skupina ministara makedonske vlade otputovala vlakom u Prištinu ."
+,Predavanje je,održano,True,upravo na Nacionalni dan borbe protiv nasilja nad ženama .
+,"Bugarska je osvojila prvo mjesto u ženskom atletskom finalu na 62. Balkanijadi , regionalnom atletskom natjecanju koje je",održano,True,prošlog tjedna u Sofiji .
+,Sedamnaesto tradicionalno okupljanje Karakachana,održano,True,je u nedjelju ( 8. srpanj ) na lokaciji Karandila u blizini Slivena u Bugarskoj .
+,Blanka Vlašić iz Hrvatske slavi pobjedu u finalu skoka u vis za žene u nedjelju ( 9. ožujka ) na 12. IAAF Svjetskom dvoranskom prvenstvu koje je,održano,True,u Valenciji u Španjolskoj .
+,"Prošle godine Vlašić je osvojila zlatno odličje na svjetskom prvenstvu u skoku u vis na otvorenom , koje je",održano,True,u Osaki .
+,"Tomašević je pobijedila u završnici natjecanja Beovizija 2008 , koje je",održano,True,u ponedjeljak ( 10. ožujka ) .
+,"Prošle godine , pjesma "" Molitva "" predstavnice Srbije Marije Šerifović pobijedila je na natjecanju za Pjesmu Eurovizije , koje je",održano,True,u Helsinkiu .
+,"Predsjednik EBRD-a Jean Lemierre ( desno ) u razgovoru sa srpskim zamjenikom premijera Miroljubom Labusom u Beogradu , prije početka investicijskog foruma",održanog,True,od strane srpske vlade .
+,"Mahlyanov , 22 , nedavno je pobijedio na prestižnom Emperor kupu na drugom velikom proljetnom turniru u "" sumo "" hrvanju",održanom,True,u Osaki .
+,"Studentska sportska udruga ' Baltazar Adam Krčelić ' Zaprešić nastupila je na svom prvom službenom natjecanju , na 5. Studentskim sportskim susretima veleučilišta i visokih škola Republike Hrvatske Pula 2013. ,",održanom,True,od 7. do 9. lipnja 2013. u Puli .
+,Hrvatska premijerka Jadranka Kosor i njen ruski kolega Vladimir Putin potvrdili su bilateralnu gospodarsku suradnju na sastanku,održanom,True,19. lipnja u Moskvi .
+,Mlada turska sopranistica Burcu Uyar osvojila je nagradu DEBUT 2006 na europskom opernom natjecanju,održanom,True,prošlog tjedna u Mannheimu u Njemačkoj .
+,"Opseg trgovine između Rumunjske i Turske mogao bi dosegnuti 4,5 milijardi eura do konca ove godine i dodatno se povećati na 6,9 milijardi eura u 2010. godini , izjavio je turski premijer Recep Tayyip Erdogan na rumunjsko-turskom poslovnom forumu",održanom,True,u petak ( 26. listopad ) u Bukureštu .
+,"Najvećem glazbenom festivalu jugoistočne Europe ,",održanom,True,"od 7. do 10. srpnja u novosadskoj austrougarskoj tvrđavi Petrovaradin , prisustvovalo je više od 150.000 posjetitelja , više stotina izvođača i preko 1.500 akreditiranih novinara iz čitavog svijeta , uključujući i velike medijske kuće poput MTV-ja i BBC-ja ."
+,Poznati ruski Nacionalni akademski folklorno instrumentalni orkestar Ossipov,održao,True,je 5. i 6. rujna koncerte u teatru Herod Atticus u Ateni .
+,Burkay je,održao,True,"tiskovnu konferenciju na Taksimu , pojašnjavajući razloge svojeg povratka kao "" podršku koracima usmjerenim prema miroljubivom rješavanju kurdskog pitanja "" ."
+,Nakon uvodnog govora gospodina Milana Jevtića iz Zaklade Friedrich Ebert prezentaciju je,održao,True,"prof. dr. Andranik Tangian , stručnjak iz Zaklade Hans-Böckler , Düsseldorf i profesora sa Sveučilišta iz Karlsruhea ."
+,"Surađivao je u praizvedbama suvremenih njemačkih kompozitora , te",održao,True,"niz koncerata solo i u suradnji sa violinistom Istvanom Kurutzom u Njemačkoj , Švedskoj , Nizozemskoj , Italiji i Švicarskoj ."
+,""" Posljednji sastanak Komisije",održat,True,"će se 6. prosinca ; samim tim , to bi mogao biti logičan trenutak za davanje preporuka je li Turska ispunila svoje obveze "" ."
+,"U prostorijama Fakulteta političkih znanosti u Zagrebu ( Lepušićeva 6 ) , s početkom 28. listopada u 17:00 te zaključno s 30. listopadom u 17:00",održat,True,će se Regionalni ekspertski forum o mobilnosti mladih .
+,Ovogodišnja dodjela nagrada,održat,True,će se u okviru Ministarske konferencije o eUpravi krajem studenog u Malmöu ( Švedska ) .
+,"Treći glazbeno-scenski recital pod nazivom Cijela zemlja slavu ti pjeva """,održat,True,će se u subotu 25.10.2008 u 19:30 u Srednjoj školi Dugo Selo .
+,Beogradska gay Parada ponosa -- koja se trebala,održati,True,ranije ovog tjedna -- otkazana je zbog prijetnji ekstremističkih skupina .
+,"Što se tiče kamatnih stopa , Bohaček je izjavio kako su one trenutno dosegle svoj "" povijesni minimum "" koji se međutim neće dugo",održati,True,.
+,"Šef vanjskih poslova EU-a Javier Solana izjavio je kako će razmotriti mogućnost upućivanja mirovne misije na sljedećem sastanku ministara vanjskih poslova zemalja članica EU-a , koji će se 5. i 6. rujna",održati,True,"u Avignonu , u Francuskoj ."
+,Općinski izbori u Mađarskoj trebaju se,održati,True,"za manje od dva tjedna , rekao je , i predstojeće glasovanje predstavljat će referendum o teškim gospodarskim reformama koje provodi Vlada ."
+,Europska unija trebala bi,održati,True,"samit s Turskom nakon parlamentarnih izbora tamo 2011. godine , kako bi usvojila novu mapu puta za pristupanje ove zemlje 27-članoj Uniji , izjavio je u ponedjeljak ( 22. studenog ) grčki ministar vanjskih poslova Dimitris Droutsas ."
+,Prema izvješćima lokalnih medija glavni odbor Srpske demokratske stranke možda neće,održati,True,riječ glede dogovora o reformi policije koji je postignut prošlog mjeseca -- što predstavlja ključan uvjet za priključenje Bosne i Hercegovine EU .
+,"Komunistički čelnik Ramiz Alia , svjestan nadolazećih promjena , nadao se",održati,True,proces pod nadzorom .
+,U Istanbulu će se od 5. lipnja do konca tog mjeseca,održati,True,37. Međunarodni glazbeni festival .
+,Natjecanje se,održava,True,"petu godinu , te obuhvaća literaturu , prevođenje , glazbu , slikarstvo i kinematografiju ."
+,Ona će sada predstavljati Bugarsku na Europskom natjecanju za mlade talente koje se,održava,True,u Parizu .
+,"Jednostavno rečeno , sunčeva energija završava u vašemu tijelu i",održava,True,ga zdravim .
+,"Uz razočaranje koje prevladava u Makedoniji nakon prošlotjednog samita NATO-a u Bukureštu , vlada",održava,True,konzultacije u cilju rješavanja spora oko imena s Grčkom .
+,"Festival , koji se",održava,True,"pod naslovom "" Slike 21. stoljeća "" , proslavlja desetu godinu postojanja , a tijekom trajanja bit će prikazani dokumentarni filmovi iz cijelog svijeta ."
+,"Erdogan će sudjelovati na prvom forumu Saveza civilizacija , koji se",održava,True,u utorak i srijedu .
+,Berisha je odbacio takve optužbe ukazujući kako samo,održava,True,izborno obećanje DS-a da će raditi na učinkovitijem organiziranju javne uprave .
+,Piramida je tijekom proteklih 20 godina imala niz namjena - tu se,održava,True,"nekoliko gospodarskih sajmova i sajmova knjiga , a privatna nacionalna TV postaja Top Channel ima urede i više studija u zgradi ."
+,"Ministar unutarnjih poslova Ranko Ostojić pojasnio je kako bi se takvi skupovi mogli održavati između osam i 22 sata , a morali bi se najaviti pet dana ili u iznimnim situacijama 48 sati prije",održavanja,True,skupa .
+,To se odnosi na stvari poput,održavanja,True,"reda na disku , redovite defragmentacije diska , deinstaliranja suvišnih programa ali i održavanja čiste i lijepe radne površine ."
+,Tempomat je nekoć imao jednostranu ulogu samostalnog,održavanja,True,"putne brzine , a na vozaču je bilo pravodobno usporavati ili kočiti ."
+,Tijekom 100.000 kilometara ovlašteni servis radi redovnog,održavanja,True,"posjetili smo pet puta , držeći se propisanog intervala od 15.000 kilometara ."
+,"Sportaši bi trebali razmisliti o tome trebaju li im ugljikohidrati za vrijeme ili prije treninga , i to na temelju ciljeva samog treninga te relativnog značaja",održavanja,True,intenzivnog vježbanja tijekom cijelog treninga kako bi se potpomogla metabolička i fiziološka adaptacija na trening .
+,""" Predlažemo",održavanje,True,"ozbiljne znanstvene rasprave o toj metodi , specifičnim uvjetima u Bugarskoj , prevenciji koje mora biti i načinima za minimiziranje rizika ."
+,Program rada predviđa,održavanje,True,"panel rasprava i sastanaka radnih skupina na kojima će se razgovarati o tri glavne teme : miru i stabilnosti , demokraciji i civilnom društvu i kulturnim različitostima ."
+,"Tijekom zasjedanja Glavne skupštine UN-a 9. studenog 2001. godine , Trajkovski je prvi put predstavio svoj prijedlog za",održavanje,True,regionalnog foruma u Ohridu kao konkretan korak ka provedbi Globalnog programa Dijaloga među civilizacijama i njegovog Programa djelovanja koji je usvojen na istom zasjedanju .
+,"Nastavljajući domete Ohridske konferencije o sigurnosti granica Balkana , OESS ove godine planira",održavanje,True,konferencije o nadzoru i sigurnosti granica .
+,Treći uvjet jest,održavanje,True,prosječne godišnje razine zaposlenih u Bulgartabacu i njegovim podružnicama te zadržavanje broja zaposlenih na razini iz 2010. godine .
+,Opseg skandala naveo je UEFA na,održavanje,True,izvanrednog sastanka s dužnosnicima devet nogometnih saveza u cilju razmjene povjerljivih informacija o sumnjivim utakmicama .
+,""" Tražit ću",održavanje,True,zajedničke sjednice parlamenta .
+,"Tržišna ekonomija koja dobro funkcionira jamči dobre gospodarske rezultate , što je neophodno za",održavanje,True,vojne infrastrukture i doprinos potrebama Saveza .
+,Ministar unutarnjih poslova Ranko Ostojić pojasnio je kako bi se takvi skupovi mogli,održavati,True,"između osam i 22 sata , a morali bi se najaviti pet dana ili u iznimnim situacijama 48 sati prije održavanja skupa ."
+,"U iduća tri tjedna kandidati će obilaziti Hrvatsku ,",održavati,True,skupove i pozivati birače na sudjelovanje na izborima .
+,"Prema pravilima EU , zastupnici EP-a imaju pravo",održavati,True,"rasprave o imenovanjima za svakog predloženog povjerenika i odbaciti cjelokupan sastav , ali ne kandidate pojedinačno ."
+,"Korištenjem radara adaptivni tempomati , koji su uglavnom dostupni u modelima više klase , mogu automatski",održavati,True,unaprijed postavljenu udaljenost od vozila ispred te u slučaju njihova usporavanja samostalno kočiti .
+,Kako mali broj zaposlenih može,održavati,True,standard velikom broju ljudi izvan radnog kontingenta .
+,Radionica će se,održavati,True,u slijedećim terminima : 20. i 24. veljače te 2. i 5. ožujka u terminu od 18 do 20 sati .
+,Sastanci će se,održavati,True,"jednom mjesečno , a po potrebi i češće ."
+,"Sučeljavajući se s pritiskom tog događaja , režim je polako počeo popuštati svoje stege ,",održavši,True,višestranačke izbore 1991. godine i konačno ustupio kompletnu vlast godinu dana kasnije .
+,Za žene je neophodno da,održe,True,određenu razinu masnih naslaga u organizmu kako bi mogle ovulirati .
+,Vođa Obraza Mladen Obradović upozorio je kako će organizatori biti odgovorni za ono što bi se moglo dogoditi ukoliko se događaj,održi,True,kao što je planirano .
+,Također je rekao kako odluka EBRD-a da,održi,True,zasjedanje u Beogradu odražava stabilnost srpskih institucija -- što je od posebne važnosti s obzirom na očekivani početak pregovora oko Sporazuma o stabilizaciji i pridruživanju s EU sljedeće jeseni .
+,"Priča 2 : Pacho je više od 20 godina korišten za školu jahanja i sinjsku alku , jer je zbog izuzetne inteligencije i krotkosti bio pogodan i za malo dijete i za neukog , priučenog jahača , koji je silom prilika sjeo na konja da",održi,True,govor .

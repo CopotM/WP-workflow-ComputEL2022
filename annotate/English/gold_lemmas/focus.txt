@@ -1,9 +1,9 @@
 focus,VERB
 focus,NOUN
+focus,NOUN
 focus,VERB
 focus,VERB
-focus,VERB
-focus,VERB
+focus,NOUN
 focus,VERB
 focus,VERB
 focus,VERB

@@ -18,8 +18,8 @@ donositi,VERB
 donositi,VERB
 donositi,VERB
 donositi,VERB
-donositi,VERB
-donositi,VERB
+iznositi,VERB
+iznositi,VERB
 iznositi,VERB
 iznositi,VERB
 iznositi,VERB

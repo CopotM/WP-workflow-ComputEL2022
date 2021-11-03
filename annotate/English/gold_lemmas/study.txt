@@ -1,8 +1,5 @@
 study,NOUN
 study,NOUN
-study,VERB
-study,NOUN
-study,NOUN
 study,NOUN
 study,NOUN
 study,NOUN

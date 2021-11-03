@@ -27,5 +27,3 @@ riješiti,VERB
 riješiti,VERB
 riješiti,VERB
 riješiti,VERB
-riješiti,VERB
-riješiti,VERB

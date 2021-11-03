@@ -4,9 +4,6 @@ provoditi,VERB
 provoditi,VERB
 provoditi,VERB
 provoditi,VERB
-provod,NOUN
-provoditi,VERB
-provoditi,VERB
 provoditi,VERB
 provoditi,VERB
 provoditi,VERB

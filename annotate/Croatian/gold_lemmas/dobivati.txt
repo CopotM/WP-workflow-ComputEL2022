@@ -15,13 +15,12 @@ dobivati,VERB
 dobivati,VERB
 dobivati,VERB
 dobivati,VERB
-dobivati,VERB
-dobivati,VERB
-dobivati,VERB
-dobivati,VERB
 dobivanje,NOUN
 dobivanje,NOUN
 dobivanje,NOUN
 dobivanje,NOUN
+dobivati,VERB
+dobivati,VERB
+dobivati,VERB
 dobivati,VERB
 dobivati,VERB

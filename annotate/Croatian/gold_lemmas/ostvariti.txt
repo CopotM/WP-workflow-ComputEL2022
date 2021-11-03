@@ -2,6 +2,7 @@ ostvariti,VERB
 ostvariti,VERB
 ostvariti,VERB
 ostvariti,ADJ
+ostvariti,ADJ
 ostvarenje,NOUN
 ostvarenje,NOUN
 ostvarenje,NOUN
@@ -35,9 +36,7 @@ ostvariti,VERB
 ostvariti,VERB
 ostvariti,VERB
 ostvariti,VERB
-ostvariti,VERB
-ostvariti,VERB
-ostvariti,VERB
+ostvarivanje,NOUN
 ostvarivanje,NOUN
 ostvarivanje,NOUN
 ostvarivanje,NOUN

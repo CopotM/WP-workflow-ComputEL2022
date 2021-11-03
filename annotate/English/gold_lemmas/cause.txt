@@ -1,15 +1,10 @@
 cause,VERB
-cause,NOUN
-cause,NOUN
-cause,NOUN
 cause,SCONJ
 cause,SCONJ
-cause,NOUN
-cause,NOUN
-cause,NOUN
 cause,VERB
 cause,VERB
-cause,VERB
+cause,NOUN
+cause,NOUN
 cause,VERB
 cause,VERB
 cause,VERB
@@ -24,6 +19,7 @@ cause,VERB
 cause,NOUN
 cause,VERB
 cause,NOUN
+cause,VERB
 cause,VERB
 cause,VERB
 cause,VERB

@@ -15,11 +15,7 @@ offer,VERB
 offer,VERB
 offer,VERB
 offer,VERB
-offer,VERB
 offering,NOUN
-offer,VERB
-offer,VERB
-offer,VERB
 offer,VERB
 offer,VERB
 offer,VERB

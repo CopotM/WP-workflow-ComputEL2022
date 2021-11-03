@@ -1,22 +1,18 @@
-"If academics with expertise in relevant fields have difficulty assessing whether particular journals or particular publishers are legitimate , one cannot can not reasonably",expect,True,ordinary people to make such judgments .
-"In the field of L2 research , given the importance of replication and the 50 calls for replication in L2 research that we identified , one might",expect,True,a substantial number of published replication studies by now .
-"Thus , we",expect,True,"that careful phenotypic manipulation of extant birds can open new avenues of experimental investigation into unexplored facets of dinosaur locomotor mechanics and energetics , providing a more nuanced understanding of the relationship between form and function in dinosaur evolution ."
-"We’ve We ’ve seen mass strikes all around the world , in countries that we wouldn’t would n’t",expect,True,it .
-It’s It ’s more subdued than I think what most people would,expect,True,.
-We,expect,True,that the particles will be of order a micron in size .
-As you would,expect,True,", our public health service is working hard to contain this first case and limit the risk of any spread of the disease ."
-"I've I 've got an app called "" what to",expect,True,""" , put in my , you know , cycle situation and have an estimated due date , which is about mid-September ."
-Do not,expect,True,the flashest and latest in rental cars though .
-"Insofar as the larger organization , with a broader membership base , can be",expected,True,"to reflect a wider range of expert opinions and a higher degree of expertise , it is reasonable to give its views greater weight than those of the smaller organization ."
-"For example , the Frontiers contingent of journals appears legitimate — at least to me — despite the fact that authors are",expected,True,to pay a publication fee . 8
-We,expected,True,"that the use of a training session and then the format of the question would guide participants towards evaluating pragmatic felicity over providing truth value judgments , and would result in adult-like interpretations ."
-This interesting combination of findings –,expected,True,"hierarchy of difficulty , but differing age of acquisition – is an important addition to our growing cross-linguistic knowledge of SI and could be the result of language-specific differences in the use of SI lexical items or methodological differences ."
-"A mutant is a copy of the system in which a change has been done that , in most cases , will lead to a behaviour different than",expected,True,.
-The orientation of each limb element to the ground reaction force ( GRF ) indicates the relative contribution of axial and bending forces to external bone loading : a bone perpendicular to the GRF is,expected,True,experience greater bending forces than one parallel to the GRF .
-"Because bone adapts to its loading environment [ 19 ] , [ 20 ] , [ 21 ] , geometric information from limb bones , such as lengths and cross-sectional geometry , are",expected,True,"to reflect differences in loading regimes and consequently in behavior and locomotor patterns [ 22 ] , [ 23 ] ."
-Longer limbs are,expected,True,"to experience larger bending and torsional moments , so the fact that experimental animals had longer femora suggests that limb verticalization reduces these moments by orienting the bone more parallel to the GRF line of action ."
-"We argue that our experimental approach , although not perfect , was effective in displacing the CoM and recreating locomotor patterns",expected,True,in non-avian theropods .
-one comment thread where fans were,expected,True,to be shocked by the outcome of the episode and one comment thread where fans had hotly anticipated it .
-Canadian passports must be valid for at least one month beyond the date of,expected,True,departure ( [ 2 ] ) .
-"On October 10 , 2011 , the couple announced that they were",expecting,True,their first child together .
-Last Year over 4 million visitors attended the event and this year the city,expects,True,about 6 million visitors according to the event website .
+,"If academics with expertise in relevant fields have difficulty assessing whether particular journals or particular publishers are legitimate , one cannot can not reasonably",expect,True,ordinary people to make such judgments .
+,"In the field of L2 research , given the importance of replication and the 50 calls for replication in L2 research that we identified , one might",expect,True,a substantial number of published replication studies by now .
+,"Thus , we",expect,True,"that careful phenotypic manipulation of extant birds can open new avenues of experimental investigation into unexplored facets of dinosaur locomotor mechanics and energetics , providing a more nuanced understanding of the relationship between form and function in dinosaur evolution ."
+,"We’ve We ’ve seen mass strikes all around the world , in countries that we wouldn’t would n’t",expect,True,it .
+,It’s It ’s more subdued than I think what most people would,expect,True,.
+,We,expect,True,that the particles will be of order a micron in size .
+,As you would,expect,True,", our public health service is working hard to contain this first case and limit the risk of any spread of the disease ."
+,"I've I 've got an app called "" what to",expect,True,""" , put in my , you know , cycle situation and have an estimated due date , which is about mid-September ."
+,The day began as it usually did when my father was,expected,True,"home from his travels , the house festooned with flowers and stocked with coconut liquor ."
+,"In the past nine months , we have witnessed momentous changes in the Arab world that nobody",expected,True,when we met one year ago .
+,"Insofar as the larger organization , with a broader membership base , can be",expected,True,"to reflect a wider range of expert opinions and a higher degree of expertise , it is reasonable to give its views greater weight than those of the smaller organization ."
+,"For example , the Frontiers contingent of journals appears legitimate — at least to me — despite the fact that authors are",expected,True,to pay a publication fee . 8
+,We,expected,True,"that the use of a training session and then the format of the question would guide participants towards evaluating pragmatic felicity over providing truth value judgments , and would result in adult-like interpretations ."
+,This interesting combination of findings –,expected,True,"hierarchy of difficulty , but differing age of acquisition – is an important addition to our growing cross-linguistic knowledge of SI and could be the result of language-specific differences in the use of SI lexical items or methodological differences ."
+,"A mutant is a copy of the system in which a change has been done that , in most cases , will lead to a behaviour different than",expected,True,.
+,The orientation of each limb element to the ground reaction force ( GRF ) indicates the relative contribution of axial and bending forces to external bone loading : a bone perpendicular to the GRF is,expected,True,experience greater bending forces than one parallel to the GRF .
+,"On October 10 , 2011 , the couple announced that they were",expecting,True,their first child together .
+,Last Year over 4 million visitors attended the event and this year the city,expects,True,about 6 million visitors according to the event website .

@@ -3,6 +3,8 @@ baviti,VERB
 baviti,VERB
 baviti,VERB
 baviti,VERB
+baviti,VERB
+baviti,VERB
 baviti,ADV
 baviti,ADV
 baviti,VERB
@@ -34,7 +36,7 @@ baviti,VERB
 baviti,VERB
 baviti,VERB
 baviti,VERB
-baviti,VERB
+zabava,NOUN
 zabava,NOUN
 zabava,NOUN
 zabava,NOUN

@@ -1,31 +1,29 @@
-"EU je zbog toga pokrenula dijalog , s namjerom da se",riješe,True,"praktična pitanja , što bi ujedno omogućilo Kosovu i Srbiji iskorak u svojim međusobnim odnosima , kao i u domeni eurointegracija ."
-"Kaže da je rođena s darom pomaganja bolesnima , a u dvadeset godina vježbanja , učenja i rada na sebi dodatno ga je razvila : Nije stvar u nekakvim mojim natprirodnim sposobnostima koje liječe , ja samo pomažem ljudima da pokrenu energiju koja se nalazi u njima samima i tako prebrode teškoće i",riješe,True,se vlastitih strahova .
-U slučaju problema trebali bi ih učiti kako da ih sami,riješe,True,", jer tako povećavaju njihovu kompetentnost ."
-"Osim toga , Rehn je izjavio da , budući da je spor između Hrvatske i Slovenije oko graničnog prometa",riješen,True,", nema razloga za odlaganje razgovora o ribarstvu i vanjskoj politici ."
-NATO je priopćio kako će se pozivnica uputiti čim spor bude,riješen,True,.
-"On je , međutim , rekao da će , čim spor bude",riješen,True,", NATO automatski aktivirati proces članstva te zemlje ."
-"Procjenjuje se kako se cijene nafte u svijetu neće mijenjati onoliko koliko su se mijenjale u 2005. godini , čime će biti",riješen,True,drugi inflatorni čimbenik .
-Sirijski predsjednik Bashar Al-Assad pružio je u nedjelju ( 11. studenog ) uvjeravanja ministrici vanjskih poslova Cipra Erato Kozakou-Markoullis kako će spor oko pomorske linije između Latakie u Siriji i luke Famagusta na sjevernom Cipru biti,riješen,True,u bliskoj budućnosti .
-Huruglica : Ne postoji potreba za reciprocitetom glede pitanja koja mogu biti,riješena,True,između dviju vlada .
-Postoje neka fundamentalna pitanja koja moraju biti,riješena,True,prije udara neizbježne sljedeće krize tržišta vrijednosnih papira .
-"Na primjer , s ovom su inačicom napokon ukinute napadne reklame koje su korisnike nagovarale da kupe profesionalnu inačicu Panda Cloud Antivirusa , a i pametnije je",riješeno,True,upravljanje datotekama koje su označene sumnjivima ili onima koje su završile u karanteni te još pokoja sitnica .
-"Proporcije nisu bile točne , to je",riješeno,True,.
-Političari na objema stranama moraju pokazati hrabrost i dati doprinos da se situacija,riješi,True,", ili će ona ometati procese eurointegracija njihovih zemalja ."
-"Međutim , slažemo se kako svako rješenje mora biti sigurno za narode regije i od zajedničkog je interesa da se to pitanje mirno",riješi,True,", kao što to pokušava Srbija . """
-Ako promjena postavki ne,riješi,True,"problem , otiđite na web-mjesto proizvođača i provjerite postoji li ažuriranje za program ."
-Dodao je da diplomatskim putovima treba vršiti pritisak na BiH da se problem zagađenja zraka zbog rafinerije što prije,riješi,True,.
-DINKA : Nemam osjećaj da sam išta,riješila,True,.
-"U iščekivanju rezultata , u javnosti se pojavila neslužbena informacija da je među maturantima koji su najbolje",riješili,True,"tri obvezna predmeta Lana Josipović , kćer hrvatskog predsjednika ."
-"Ipak , za sindikat je dobra okolnost što su za spomenutu situaciju saznali prije nego što su se vozači upustili u tu poslovnu avanturu , u koju su ih , rečeno je , planirali uvući iz Dukata da bi",riješili,True,svoj problem s polovnim teretnim vozilima .
-Sa svoje strane pak kineska vlada namjerava standardizirati način zamjene čitavih baterija u ovakvim automobilima te postaviti stanice za njihovu izmjenu čime bi se,riješio,True,"veliki problem električnih automobila čija je autonomija obično oko 150 kilometara , što je i ovdje slučaj ."
-Premda se građani razlikuju u svojim mišljenjima oko toga hoće li novi čelnik,riješiti,True,"probleme te države , mnogi se slažu da je još gore ne imati predsjednika ."
-Hoće li predsjednik,riješiti,True,taj problem ?
-Ono pokazuje kako vlada nije uspjela,riješiti,True,"izazove iz Izvješća o napretku iz 2009. godine "" ."
-"Naglašavajući kako sadašnja vlada ima potrebnu političku volju za što skorije ispunjavanje tih obveza , Maneva inzistira na tome kako će Bugarska biti u stanju",riješiti,True,problem u naredne tri godine .
-"Riječ je o velikoj kolekciji skripta te .REG datoteka za implementaciju u registarsku bazu kojima je moguće precizno prilagoditi rad Windowsa , ali i",riješiti,True,niz raznoraznih problema .
-"Jednom kada ustanovite koji je problem s računalom , vjerojatno ćete ga htjeti i",riješiti,True,.
-"Bilo je situacija u kojima smo njemačkim obrambenim generalom na 11. nivou doslovce samljeli američkog "" oklopnjaka "" na 35. stupnju razvoja , a bilo je i dana kada smo popušili od totalnih početnika jer smo zanemarili neka opća pravila i mislili kako ćemo sve lako",riješiti,True,.
-Trebamo samo postati članicom Unije pa će ona,riješiti,True,sve naše probleme .
-"Zašto se mučiti gospodarstvom , proizvodnjom - kad će se to samo od sebe",riješiti,True,.
-"Iako se već dva desetljeća bavim ovom profesijom i imam bezbroj dokaza o korisnosti svog rada , nikad neću poricati da postoje tjelesni problemi koje može",riješiti,True,samo tradicionalna znanost .
-"Možete sklopiti važne poslovne ugovore ,",riješiti,True,pravne poslove i s nekretninama .
+,"EU je zbog toga pokrenula dijalog , s namjerom da se",riješe,True,"praktična pitanja , što bi ujedno omogućilo Kosovu i Srbiji iskorak u svojim međusobnim odnosima , kao i u domeni eurointegracija ."
+,"Kaže da je rođena s darom pomaganja bolesnima , a u dvadeset godina vježbanja , učenja i rada na sebi dodatno ga je razvila : Nije stvar u nekakvim mojim natprirodnim sposobnostima koje liječe , ja samo pomažem ljudima da pokrenu energiju koja se nalazi u njima samima i tako prebrode teškoće i",riješe,True,se vlastitih strahova .
+,U slučaju problema trebali bi ih učiti kako da ih sami,riješe,True,", jer tako povećavaju njihovu kompetentnost ."
+,"Osim toga , Rehn je izjavio da , budući da je spor između Hrvatske i Slovenije oko graničnog prometa",riješen,True,", nema razloga za odlaganje razgovora o ribarstvu i vanjskoj politici ."
+,NATO je priopćio kako će se pozivnica uputiti čim spor bude,riješen,True,.
+,"On je , međutim , rekao da će , čim spor bude",riješen,True,", NATO automatski aktivirati proces članstva te zemlje ."
+,"Procjenjuje se kako se cijene nafte u svijetu neće mijenjati onoliko koliko su se mijenjale u 2005. godini , čime će biti",riješen,True,drugi inflatorni čimbenik .
+,Sirijski predsjednik Bashar Al-Assad pružio je u nedjelju ( 11. studenog ) uvjeravanja ministrici vanjskih poslova Cipra Erato Kozakou-Markoullis kako će spor oko pomorske linije između Latakie u Siriji i luke Famagusta na sjevernom Cipru biti,riješen,True,u bliskoj budućnosti .
+,Huruglica : Ne postoji potreba za reciprocitetom glede pitanja koja mogu biti,riješena,True,između dviju vlada .
+,Postoje neka fundamentalna pitanja koja moraju biti,riješena,True,prije udara neizbježne sljedeće krize tržišta vrijednosnih papira .
+,"Na primjer , s ovom su inačicom napokon ukinute napadne reklame koje su korisnike nagovarale da kupe profesionalnu inačicu Panda Cloud Antivirusa , a i pametnije je",riješeno,True,upravljanje datotekama koje su označene sumnjivima ili onima koje su završile u karanteni te još pokoja sitnica .
+,"Proporcije nisu bile točne , to je",riješeno,True,.
+,Ferronikeli je flagrantan slučaj u kojemu nedostatak političke volje da se,riješi,True,"pitanje sigurnosti na radu ugrožava živote radnika "" , rekao je za SETimes ."
+,Političari na objema stranama moraju pokazati hrabrost i dati doprinos da se situacija,riješi,True,", ili će ona ometati procese eurointegracija njihovih zemalja ."
+,"Međutim , slažemo se kako svako rješenje mora biti sigurno za narode regije i od zajedničkog je interesa da se to pitanje mirno",riješi,True,", kao što to pokušava Srbija . """
+,Ako promjena postavki ne,riješi,True,"problem , otiđite na web-mjesto proizvođača i provjerite postoji li ažuriranje za program ."
+,Dodao je da diplomatskim putovima treba vršiti pritisak na BiH da se problem zagađenja zraka zbog rafinerije što prije,riješi,True,.
+,DINKA : Nemam osjećaj da sam išta,riješila,True,.
+,"U iščekivanju rezultata , u javnosti se pojavila neslužbena informacija da je među maturantima koji su najbolje",riješili,True,"tri obvezna predmeta Lana Josipović , kćer hrvatskog predsjednika ."
+,"Ipak , za sindikat je dobra okolnost što su za spomenutu situaciju saznali prije nego što su se vozači upustili u tu poslovnu avanturu , u koju su ih , rečeno je , planirali uvući iz Dukata da bi",riješili,True,svoj problem s polovnim teretnim vozilima .
+,Sa svoje strane pak kineska vlada namjerava standardizirati način zamjene čitavih baterija u ovakvim automobilima te postaviti stanice za njihovu izmjenu čime bi se,riješio,True,"veliki problem električnih automobila čija je autonomija obično oko 150 kilometara , što je i ovdje slučaj ."
+,""" Međunarodni sukobi ne mogu se",riješiti,True,"silom , nasiljem i kršenjem međunarodnih prava "" , rekao je srbijanski ministar za Kosovo Oliver Ivanović ."
+,""" Međunarodni sukobi ne mogu se",riješiti,True,"silom , nasiljem i kršenjem međunarodnih prava "" , rekao je ."
+,Sedam godina nakon utemeljenja euro je donio mnoge koristi ... ali sam euro ne može,riješiti,True,"europske ekonomske probleme : on treba potporu strukturalnih reformi , okončanje projekta jedinstvenog tržišta - posebno na području uslužnog sektora - i snažniji glas na svjetskoj pozornici , rekao je u priopćenju europski povjerenik za ekonomska i monetarna pitanja Joaquin Almunia ."
+,"Ovako veliki problemi se ne rješavaju u jedan dan , niti se mogu",riješiti,True,"jednom odlukom ili zakonom , za ovakve probleme su potrebni mjeseci i godine rada , truda i obrazovanja ."
+,"Međutim , smatram kako je potpuno nerazumno zamišljati da Vijeće neće nastaviti s radom i pokušati",riješiti,True,"to pitanje samo zato jer je predmet previranja , unutar regije , te je sasvim jasno kako je to zadnji dio balkanske slagalice . """
+,""" Stvar je u tome što oni [ vlada ] pokušavaju jedan problem [ energetsku ovisnost Bugarske ]",riješiti,True,"stvaranjem još većeg problema - zagađenjem okoliša "" , rekao je ."
+,Premda se građani razlikuju u svojim mišljenjima oko toga hoće li novi čelnik,riješiti,True,"probleme te države , mnogi se slažu da je još gore ne imati predsjednika ."
+,Hoće li predsjednik,riješiti,True,taj problem ?

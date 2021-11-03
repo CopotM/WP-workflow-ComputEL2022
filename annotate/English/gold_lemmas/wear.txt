@@ -1,11 +1,10 @@
 wear,VERB
 wear,NOUN
 wear,VERB
+wear,NOUN
 wear,VERB
 wear,VERB
-wear,VERB
-wear,VERB
-wear,VERB
+wear,NOUN
 wear,VERB
 wear,VERB
 wear,VERB

@@ -1,9 +1,5 @@
 play,VERB
 play,VERB
-play,NOUN
-play,VERB
-play,VERB
-play,VERB
 play,VERB
 play,VERB
 play,VERB
@@ -18,11 +14,6 @@ play,VERB
 play,VERB
 play,VERB
 play,VERB
-play,VERB
-play,VERB
-player,NOUN
-player,NOUN
-player,NOUN
 player,NOUN
 player,NOUN
 player,NOUN
@@ -45,9 +36,6 @@ play,VERB
 play,VERB
 play,VERB
 play,VERB
-play,VERB
-play,VERB
-playing,NOUN
 play,VERB
 play,VERB
 play,VERB

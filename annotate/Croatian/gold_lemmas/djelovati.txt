@@ -1,4 +1,5 @@
 djelovati,VERB
+djelovati,VERB
 djelovanje,NOUN
 djelovanje,NOUN
 djelovanje,NOUN
@@ -21,9 +22,11 @@ djelovanje,NOUN
 djelovanje,NOUN
 djelovanje,NOUN
 djelovanje,NOUN
-djelovanje,NOUN
-djelovanje,NOUN
-djelovanje,NOUN
+djelovati,VERB
+djelovati,VERB
+djelovati,VERB
+djelovati,VERB
+djelovati,VERB
 djelovati,VERB
 djelovati,VERB
 djelovati,VERB

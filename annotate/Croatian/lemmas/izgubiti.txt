@@ -1,36 +1,33 @@
-"U streličarstvu , Elpida Romantzi",izgubila,True,je od Koreanke Park Sung-Hyun u pojedinačnoj konkurenciji za žene u osmini finala eliminacija .
-"U susretu stolnotenisačica , Rumunjska je",izgubila,True,od Hong Konga 0-3 .
-"Međutim , umirovljeni vojni general Božidar Delić , sada zastupnik oporbene Srpske napredne stranke , izjavio je kako bi pridruživanjem NATO-u Srbija",izgubila,True,"potporu Rusije , svojeg ključnog saveznika ."
-"No , sjedala nisu",izgubila,True,"na formi , a nema niti cvrčanja sirove , ali postojane i čvrste plastike ."
-Samsonova majka Mara je neplodna i već je,izgubila,True,nadu da će ikada imati djece kada joj se ukaže tajanstveni stranac i prorekne da će roditi sina koji će spasiti svoj narod iz filistejskog ropstva .
-"Drugi duo , Efthalia Koutroumanidou i Maria Tsiartsiani ,",izgubile,True,su u istom događanju .
-Mnogi muškarci smatraju kako su emancipirane žene,izgubile,True,želju da ih se tretira kao dame .
-Srpski odbojkaši,izgubili,True,su od Poljske 1-3 .
-"Zaokružujući niz gubitaka , hrvači grčko-rimskim stilom Seref Eroglu i Seref Tufenk",izgubili,True,"su u kategorijama do 66 kg i 74 kg , dok je boksač Bahram Muzaffer izgubio u kategoriji do 81 kg ."
-"Brojni prosvjednici bivši su , kako se navodi , službenici suda koji su",izgubili,True,radna mjesta nakon što je Kosovo došlo pod upravu UN-a poslije okončanja sukoba 1998 - 1999.
-Predstavnici fonda kazali su KTV-u kako su samo u rujnu,izgubili,True,"22,3 milijuna eura ."
-"Sheme brzog bogaćenja , koje su poduprli vladini dužnosnici , završene su loše i Albanci su",izgubili,True,"milijarde , što je potaknulo nasilne prosvjede ."
-Stručnjaci kažu da bi sljedeći vladin korak trebao biti povrat ugleda članova manjinskih skupina koji su,izgubili,True,"državljanstvo , uključujući otvaranje mogućnosti izdavanja dvojnog državljanstva i putovnica ."
-To su,izgubili,True,kada se Jugoslavija raspala .
-"Ipak , pojedini segmenti u kategoriji keksa uspjeli su povećati bazu kupaca , na primjer čajni i tvrdi keksi , dok su vafli",izgubili,True,dio kupaca .
-U međuvremenu se,izgubilo,True,100 tisuća radnih mjesta pa nema ni poreza ni doprinosa .
-Ističe da se ne bi,izgubilo,True,"ni dana , odnosno da bi se nastavilo s poslom s kojim se stalo ."
-"U kategoriji do 96 kg , Kalojan Dinčev",izgubio,True,"je od Mareka Šveca iz Češke Republike , 3-1 ."
-"U hrvanju grčko-rimskim stilom , Theodoros Tounousides",izgubio,True,je od Gruzijca Ramaza Nozadzea u kategoriji do 96 kg .
-"Zaokružujući niz gubitaka , hrvači grčko-rimskim stilom Seref Eroglu i Seref Tufenk izgubili su u kategorijama do 66 kg i 74 kg , dok je boksač Bahram Muzaffer",izgubio,True,u kategoriji do 81 kg .
-"Arsim Shehu , kosovski Albanac koji je",izgubio,True,"40 članova svoje šire obitelji kaže : "" Nadamo se kako će oni potvrditi ono što su Srbi učinili ovdje ..."
-Prijateljska utakmica između turskog Fenerbahçea i njemačkog Ulma koja je odigrana u srpnju -- a koju je Ulm,izgubio,True,"5-0 -- pod istragom je , piše njemački list Bild ."
-"Da , da , prošlo je tjedan dana otkako je Ferrari neslavno završio sezonu , otkako je Španjolac",izgubio,True,"naslov svjetskog prvaka u Formuli 1 , ali Talijani su i dalje ljuti kao psi ."
-"Samo , ne treba okrivljavati toga jadnog mladića , kriv je vaš Ferrari , vaša odluka da ide u boks , dečko se borio do kraja i pošteno",izgubio,True,- objasnili su vodiču Nijemci .
-Odsjedio je šest tjedana u zatvoru u Chemnitzu i,izgubio,True,pravo da vrši učiteljsku službu .
-Hebar je,izgubio,True,kontrolu prošlog petka prilikom gostovanja Ljubljančana kod Red Bull Salzburga ( 7 - 4 za domaće ) .
-"Izučavanju alternativnih metoda liječenja Diana Mihok posvetila se kad je shvatila da joj klasična medicina ne može dati odgovore na sva pitanja o uzrocima bolesti : Medicina je previše subspecijalizirana , čak toliko da se",izgubio,True,čovjek kao cjelina .
-Sezonu je započeo kao standardni prvotimac da bi zbog ozljede,izgubio,True,svoje mjesto .
-Kada,izgubiš,True,"najboljeg prijatelja , nije lako naći nekoga tko će ti tako prirasti srcu ."
-"Marijana ,",izgubit,True,"češ svoj imidž poštene političarke , nove nade , političarke za budučnost , političarke koja daje nadu i vjeru da nije sve u politici crno , onog trenutka kad digneš ruku za korupciju ."
-"Ako ne bude pronađeno drugo rješenje , Turska bi mogla",izgubiti,True,značajnu povijesnu lokaciju .
-"Košarkaška zvijezda izjavila je kako je to nepošteno , ističući kako je odluka rezultat političkog pritiska iz stranke premijera Vojislava Koštunice , koja očito nije voljna",izgubiti,True,utjecaj koji ostvaruje preko tog najtiražnijeg dnevnika u zemlji .
-"Iako imam putovnicu , sada sam sretan jer sam se uvijek bojao da ću je",izgubiti,True,ili takvo što .
-- Ne možete ni zamisliti koliko će Ferrari,izgubiti,True,milijardi eura na Alonsovu porazu .
-"Neki roditelji teško podnose protest djeteta na njihovo ' ne ' jer se nesvjesno boje , vjerojatno zbog osobne nesigurnosti , da će",izgubiti,True,djetetovu ljubav .
-Mi ovisimo sami o sebi i nemamo namjeru,izgubiti,True,na Kantridi - kazao je na kraju kraćeg razgovora Ćurjurić .
+,"U streličarstvu , Elpida Romantzi",izgubila,True,je od Koreanke Park Sung-Hyun u pojedinačnoj konkurenciji za žene u osmini finala eliminacija .
+,"U susretu stolnotenisačica , Rumunjska je",izgubila,True,od Hong Konga 0-3 .
+,"Međutim , umirovljeni vojni general Božidar Delić , sada zastupnik oporbene Srpske napredne stranke , izjavio je kako bi pridruživanjem NATO-u Srbija",izgubila,True,"potporu Rusije , svojeg ključnog saveznika ."
+,"No , sjedala nisu",izgubila,True,"na formi , a nema niti cvrčanja sirove , ali postojane i čvrste plastike ."
+,Samsonova majka Mara je neplodna i već je,izgubila,True,nadu da će ikada imati djece kada joj se ukaže tajanstveni stranac i prorekne da će roditi sina koji će spasiti svoj narod iz filistejskog ropstva .
+,"Drugi duo , Efthalia Koutroumanidou i Maria Tsiartsiani ,",izgubile,True,su u istom događanju .
+,Mnogi muškarci smatraju kako su emancipirane žene,izgubile,True,želju da ih se tretira kao dame .
+,Srpski odbojkaši,izgubili,True,su od Poljske 1-3 .
+,"Zaokružujući niz gubitaka , hrvači grčko-rimskim stilom Seref Eroglu i Seref Tufenk",izgubili,True,"su u kategorijama do 66 kg i 74 kg , dok je boksač Bahram Muzaffer izgubio u kategoriji do 81 kg ."
+,"Brojni prosvjednici bivši su , kako se navodi , službenici suda koji su",izgubili,True,radna mjesta nakon što je Kosovo došlo pod upravu UN-a poslije okončanja sukoba 1998 - 1999.
+,Predstavnici fonda kazali su KTV-u kako su samo u rujnu,izgubili,True,"22,3 milijuna eura ."
+,"Sheme brzog bogaćenja , koje su poduprli vladini dužnosnici , završene su loše i Albanci su",izgubili,True,"milijarde , što je potaknulo nasilne prosvjede ."
+,Stručnjaci kažu da bi sljedeći vladin korak trebao biti povrat ugleda članova manjinskih skupina koji su,izgubili,True,"državljanstvo , uključujući otvaranje mogućnosti izdavanja dvojnog državljanstva i putovnica ."
+,To su,izgubili,True,kada se Jugoslavija raspala .
+,"Ipak , pojedini segmenti u kategoriji keksa uspjeli su povećati bazu kupaca , na primjer čajni i tvrdi keksi , dok su vafli",izgubili,True,dio kupaca .
+,U međuvremenu se,izgubilo,True,100 tisuća radnih mjesta pa nema ni poreza ni doprinosa .
+,Ističe da se ne bi,izgubilo,True,"ni dana , odnosno da bi se nastavilo s poslom s kojim se stalo ."
+,""" Moj je otac radio u tvrtki Hidroteknika , [ kao i ja ] do prosinca 1990. godine , ali onda sam",izgubio,True,posao zato što su nas srpske vlasti otpustile .
+,- Sigurno je time nešto,izgubio,True,.
+,"U kategoriji do 96 kg , Kalojan Dinčev",izgubio,True,"je od Mareka Šveca iz Češke Republike , 3-1 ."
+,"U hrvanju grčko-rimskim stilom , Theodoros Tounousides",izgubio,True,je od Gruzijca Ramaza Nozadzea u kategoriji do 96 kg .
+,"Zaokružujući niz gubitaka , hrvači grčko-rimskim stilom Seref Eroglu i Seref Tufenk izgubili su u kategorijama do 66 kg i 74 kg , dok je boksač Bahram Muzaffer",izgubio,True,u kategoriji do 81 kg .
+,"Arsim Shehu , kosovski Albanac koji je",izgubio,True,"40 članova svoje šire obitelji kaže : "" Nadamo se kako će oni potvrditi ono što su Srbi učinili ovdje ..."
+,Prijateljska utakmica između turskog Fenerbahçea i njemačkog Ulma koja je odigrana u srpnju -- a koju je Ulm,izgubio,True,"5-0 -- pod istragom je , piše njemački list Bild ."
+,"Da , da , prošlo je tjedan dana otkako je Ferrari neslavno završio sezonu , otkako je Španjolac",izgubio,True,"naslov svjetskog prvaka u Formuli 1 , ali Talijani su i dalje ljuti kao psi ."
+,Kada,izgubiš,True,"najboljeg prijatelja , nije lako naći nekoga tko će ti tako prirasti srcu ."
+,"Marijana ,",izgubit,True,"češ svoj imidž poštene političarke , nove nade , političarke za budučnost , političarke koja daje nadu i vjeru da nije sve u politici crno , onog trenutka kad digneš ruku za korupciju ."
+,"Ako ne bude pronađeno drugo rješenje , Turska bi mogla",izgubiti,True,značajnu povijesnu lokaciju .
+,"Košarkaška zvijezda izjavila je kako je to nepošteno , ističući kako je odluka rezultat političkog pritiska iz stranke premijera Vojislava Koštunice , koja očito nije voljna",izgubiti,True,utjecaj koji ostvaruje preko tog najtiražnijeg dnevnika u zemlji .
+,"Iako imam putovnicu , sada sam sretan jer sam se uvijek bojao da ću je",izgubiti,True,ili takvo što .
+,- Ne možete ni zamisliti koliko će Ferrari,izgubiti,True,milijardi eura na Alonsovu porazu .
+,"Neki roditelji teško podnose protest djeteta na njihovo ' ne ' jer se nesvjesno boje , vjerojatno zbog osobne nesigurnosti , da će",izgubiti,True,djetetovu ljubav .
+,Mi ovisimo sami o sebi i nemamo namjeru,izgubiti,True,na Kantridi - kazao je na kraju kraćeg razgovora Ćurjurić .

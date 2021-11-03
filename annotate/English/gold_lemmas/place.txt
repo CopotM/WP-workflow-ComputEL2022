@@ -6,9 +6,7 @@ place,NOUN
 place,NOUN
 place,NOUN
 place,NOUN
-place,NOUN
-place,NOUN
-place,NOUN
+place,VERB
 place,VERB
 place,VERB
 place,VERB
@@ -25,9 +23,9 @@ place,NOUN
 place,NOUN
 place,NOUN
 place,NOUN
-place,NOUN
 place,VERB
 place,VERB
+replace,VERB
 replace,VERB
 replace,VERB
 replace,VERB

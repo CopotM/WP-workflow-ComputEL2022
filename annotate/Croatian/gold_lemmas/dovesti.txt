@@ -13,3 +13,4 @@ navesti,VERB
 navesti,VERB
 navesti,VERB
 odvesti,VERB
+odvesti,VERB

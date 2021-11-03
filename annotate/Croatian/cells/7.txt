@@ -1,28 +1,165 @@
-"U suprotnom , ako netko izbjegava",preuzete,True,"obveze , gubi se smisao političkog dijaloga ."
-"Pohvalivši Trajkovskog zbog "" energije i inicijative "" koju je uložio u pripremu sastanka , Matsuura je kazao zemlje SEE nužno trebaju ispuniti",preuzete,True,"obveze "" glede demokratskih vrijednosti i ciljeva , punog poštivanja ljudskih prava i uzajamnog poštivanja i tolerancije među građanima različitog etničkog podrijetla "" kako bi mogle postići "" civilizirani suživot koji će biti održiv i pravedan "" ."
-"Velik broj opasnosti svoj put do računala nađe upravo putem browsera , stoga je poželjno znati koliko je preglednik koji",koristite,True,za obično surfanje Internetom ili pristupanje servisu internetskog bankarstva siguran .
-"Neželjena pošta jedan je od najvećih problema računalnog doba , a kako ne biste i sami postali žrtvom zatrpanog sandučića e-pošte neželjenim porukama , kada se prijavljujete na formulare ,",koristite,True,privremene e-mail adrese poput ove .
-"Ovo je još jedna dobro poznata softverska tvrtka koja se fokusira na izradu programa za spašavanje podataka , pa ako niti jedan program koji iskušate ne uspije vratiti ono što",tražite,True,", pokušajte s njihovim R-Studio alatom ."
-"Stoga , ako vam nije važna sposobnost čišćenja inficiranih računala , nego sposobnost da do zaraze uopće ne dođe te želite oplemeniti sigurnosna rješenja koja",koristite,True,", onda se Panda Cloud Antivirus doista čini antivirusnim alatom kojemu biste definitivno trebali dati priliku ."
-"Ako ste čitali naš izvještaj s konferencije na kojoj su predstavljene radne stanice iz serije Z ,",znate,True,"da se HP za izradu , odnosno dizajniranje skupljih strojeva ( Z800 i Z600 ) uortačio s BMW-om ."
-Ukoliko,koristite,True,FireFox onda to neće raditi tako jednostavno .
-2. Kontaktirajte web-site i,tražite,True,ih da kupe SSL certifikat od ovlaštene tvrtke za izdavanje certifikata kao što je Verisign .
-"Ako se program napisan za neku stariju verziju sustava Windows ne izvršava pravilno , pomoću alata za otklanjanje poteškoća s kompatibilnošću programa",promijenite,True,postavke kompatibilnosti za taj program .
-1. Alat za otklanjanje poteškoća s kompatibilnošću programa,otvorite,True,tako da nakon gumba Start kliknete Upravljačka ploča .
-1. Prozor Podaci o performansama i alati,otvorite,True,"tako da kliknete gumb Start , zatim Upravljačka ploča , potom Sustav i sigurnost i na kraju Podaci o performansama i alati ."
-Pisač ili neki drugi uređaj koji ima samo 32 - bitne upravljačke programe neće ispravno raditi ako ga,pokušate,True,instalirati na 64 - bitnoj verziji sustava Windows .
-"Ako poslom niste zadovoljni , još je dobro vrijeme da ga",promijenite,True,", može biti više novih ponuda ."
-Važno je da,osigurate,True,"i dovoljno slobodnog vremena jer vama skloni Jupiter , pored ostalog , znači i mogućnost osiguranja harmonije u obitelji ."
-"Zdravlje vam je bolje nego inače , ali",nastavite,True,kontrole .
-"U sadašnjoj , kratkotrajnoj , ali vrlo burnoj krizi",mislite,True,na to da je Jupiter još u vašem znaku .
-Što Vas je navelo da se nakon znanstvene karijere na Sveučilištu i desetljeća rada sa studentima,prihvatite,True,prevođenja tako zahtijevnog teksta ?
-Kad,razgovarate,True,"s ljudima , ne slušajte samo što vam govore , slušajte i što zapravo ŽELE nekad su to sasvim dva vrlo različita pojma ."
-"Ako vam netko pred policijom prizna počinjenje krivičnog djela , a tom priznanju nije prisutan branitelj , a pred istražnim sucem isto to porekne , onda nema dokaza , vi se",osjećate,True,"glupo jer znate pravu istinu , a od tog saznanja nema nikakve koristi ."
-"Pa ,",igrate,True,li s njom tenis ?
-Ako se ne,osjećate,True,"dobro u svom tijelu , a svi nalazi krvi pokazuju da ste zdravi , možda je balansiranje hormona pravo rješenje za vas ."
-Biznis kojim se,bavite,True,", gospodine Radoviću , najstariji je biznis na svijetu ."
-Vidite male ručice i dijete veličine šake odraslog muškarca i,znate,True,da ga morate hitno prevesti u bolnicu da mu se spasi život .
-Nazovite liječnika i u slučaju da se jednostavno ne,osjećate,True,dobro .
-"Nemaju sve trajnice iste uvjete za rast , zato",tražite,True,one koje najbolje odgovaraju vašem vrtu .
-Ne,znate,True,što biste napisali zgodnom tipu ?
-"U tavu dodajte gljive , te",nastavite,True,pirjati dok gljive ne omekšaju .
+,"Sejdiu kaže da je to premalo ,",te,True,da su neke zemlje u regiji prodavale samo jednu ili nekoliko tvrtki po toj cijeni .
+,"Sejdiu kaže kako je , iz ove perspektive , proces "" bio prenagljen ... bez plana za gospodarski razvoj "" ,",te,True,da je privatizacija dovela do velikih problema za radnike .
+,"Unatoč svemu , osiguranje je bilo iznimno solidno ,",te,True,se nitko od navijača ili novinara nije uspio probiti do igrača u hotelu .
+,"Natjecanje se održava petu godinu ,",te,True,"obuhvaća literaturu , prevođenje , glazbu , slikarstvo i kinematografiju ."
+,"Olaru je pobjedom na turniru osvojila 150 bodova ,",te,True,je sada na 73. mjestu liste najboljih tenisačica svijeta .
+,"Međutim za samo dva mjeseca izgrađeni su objekti ,",te,True,vlakovi sada prometuju .
+,"Reagirajući na takvo stanje , Skender Veliu , koji je na čelu romskog saveza Amaro-Drom u Albaniji , izjavio je da su tamošnje manjine ustrojile skupinu koja predstavlja Grke , Makedonce , Srbe , Crnogorce i Bosance",te,True,razgovaraju o svojim konkretnim problemima .
+,""" Razmatrali smo stanje i postupanje prema manjinama u Albaniji",te,True,"je sastavljen ' ustavni ' dokument u okviru ustava , s pravima manjina u Albaniji , u usporedbi s drugim zemljama regije "" , izjavio je Veliu za SETimes ."
+,Najveći izvor prihoda,te,True,"etničke manjine jest samozapošljavanje u sektoru prikupljanja materijala za recikliranje te recikliranja otpada "" , izjavila je za SETimes ."
+,""" Ako želite dobiti nešto [ kao manjina ] ,",morate,True,to tražiti .
+,Nitko vam ništa neće dati ako ne,tražite,True,""" , izjavio je ekonomist Abdulla Ahmedi ."
+,""" Kako bi otplatili sve",te,True,"dugove , svi bi zaposleni stanovnici Srbije morali raditi besplatno gotovo pet godina "" , izjavio je za SETimes ekonomist Milan Ćulibrk ."
+,"Prema tvrdnjama Ministarstva , od svih zemalja jugoistočne Europe , samo Makedonija",te,True,Bosna i Hercegovina imaju manji dug od Srbije .
+,""" Srbija bi nove kredite od EU i MMF-a trebala iskoristiti za ulaganja u tvrtke koje će se usredotočiti na izvoz , ili barem zamijeniti uvoz",te,True,"tako novac zadržati u zemlji "" , rekao je Ćulibrk ."
+,A čak će i,te,True,dugove biti teško otplatiti .
+,"Pozvao je političare da obave svoj dio i osiguraju civiliziranu kampanju ,",te,True,slobodne i poštene izbore .
+,"Kada je u pitanju Crna Gora , uspješno organiziranje ožujskih parlamentarnih izbora , napredak u usvajanju zakona protiv korupcije i sveukupna stabilizacija omogućili su da se njezina ocjena za građanske slobode popne sa 3 na 2 ,",te,True,se njezin status poboljša s djelomice slobodnog na slobodan .
+,Misija EU na Kosovu kaže kako će se protokolom potpisanim sa srbijanskom policijom pomoći napori na jačanju vladavine zakona,te,True,kako on ne prijeti suverenitetu Kosova .
+,"Isporuke IT usluga i softvera bilježe ipak manji silazni trend i s padom od 7,2 , odnosno 7,5 posto niže su od prosjeka ukupnog informatičkog tržišta",te,True,"su povećale svoj udio u vrijednosti IT tržišta u Hrvatskoj na 35,4 posto ."
+,"U početku su iz Microsofta upozorili kako kompanija surađuje s organima reda i sigurnosti , da uređaj učini neprobojnim , a što je izazvalo buru pitanja o tome što je dopušteno , a što ne ,",te,True,su mnogi izrazili bojazan za cijeli natječaj i autore .
+,"Nekoliko dana kasnije , iz Microsofta tvrde kako petljanje s uređajem nije podržano , ali ni zabranjeno ,",te,True,da je njihov cilj da korisnici dobiju najbolje moguće iskustvo .
+,Kažu da neki vlasnici i zaposlenici mogu iskoristiti određene rupe u zakonu dok drugi ne,dobivaju,False,gotovo ništa .
+,Većina proizvodnih tvrtki više ne postoji ili se,koriste,False,"za skladištenje robe ; učinkovitost kao koncept , čini se , bile su samo riječi , a nezaposlenost se produbljuje ."
+,"Prendergast je istaknuo kako je od tada došlo do pozitivnih trendova , uključujući "" srdačne kontakte "" koje su održavali političari ciparskih Grka i ciparskih Turaka u",pokušaju,False,unaprjeđenja uzajamnog razumijevanja .
+,Iako sve strane,govore,False,"kako žele rješenje , nedostaju preduvjeti za postizanje dogovora , kazao je ."
+,"Annan je ukazao kako se ,",imajući,False,"u vidu situaciju , kani kretati "" vrlo oprezno "" u potrazi za rješenjem ."
+,""" Podignuli smo svoj glas",tražeći,False,"poboljšanje socijalne i gospodarske situacije romskih građana , njihova obrazovanja , zdravstva , infrastrukture , smještaja , zapošljavanja , što je postalo dio nacionalne strategije za poboljšanje uvjeta života za Rome "" , rekao je Veliu ."
+,"U međuvremenu ,",govoreći,False,"na skupu Zajedno za budućnost , Rama je istaknuo kako je konačno napravljen ljevičarski savez -- sa Socijalističkom strankom i Socijaldemokratskom strankom u njegovu jezgru ."
+,IDC je objavio i rezultate za cjelokupno svjetsko tržište gdje je HP i dalje,vodeći,False,"s udjelom od 17,7 % ."
+,Feronikel je privatiziran prije pet godina,i,False,"još uvijek posluje , ali u ozračju zabrinutosti za sigurnost radnika ."
+,"Ali na Kosovu , kritičari kažu",da,False,"je pravni proces koji se odnosi na privatizaciju složen i politički naelektriziran , što ima dugoročan utjecaj na gospodarstvo ."
+,Kažu,da,False,neki vlasnici i zaposlenici mogu iskoristiti određene rupe u zakonu dok drugi ne dobivaju gotovo ništa .
+,A postoji,i,False,"etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu reći da diskriminacija -- bilo sada ili ranije -- utječe na mogućnost da izvuku korist iz privatizacije ."
+,"Više od 600 milijuna eura prebačenih u banke u inozemstvu , a koje kosovska vlada ne koristi ,",donijela,False,je privatizacija javnih i državnih tvrtki posljednjih godina .
+,""" Ništa pozitivno ne bi donijeli novi pokušaji koji bi se završili , kao što su se",završila,False,"prethodna dva , velikim neuspjehom ili frustrirajućim zastojem "" ."
+,"Skupine grčkih navijača navodno su zlostavljane na putu do stadiona , a situacija je na samom stadionu",bila,False,kaotična .
+,"Za razliku od toga , trojica su od najboljih igrača Grčke",morala,False,biti zamijenjena uslijed ozljeda koje su zadobili tijekom utakmice .
+,"A postoji i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu reći da diskriminacija -- bilo sada",ili,False,ranije -- utječe na mogućnost da izvuku korist iz privatizacije .
+,Većina proizvodnih tvrtki više ne postoji,ili,False,"se koriste za skladištenje robe ; učinkovitost kao koncept , čini se , bile su samo riječi , a nezaposlenost se produbljuje ."
+,"Sejdiu kaže da je to premalo , te da su neke zemlje u regiji prodavale samo jednu",ili,False,nekoliko tvrtki po toj cijeni .
+,""" Ništa pozitivno ne bi",donijeli,False,"novi pokušaji koji bi se završili , kao što su se završila prethodna dva , velikim neuspjehom ili frustrirajućim zastojem "" ."
+,Kažu da neki vlasnici i zaposlenici mogu iskoristiti određene rupe u zakonu dok drugi,ne,False,dobivaju gotovo ništa .
+,""" Moj je otac radio u tvrtki Hidroteknika , [ kao i ja ] do prosinca 1990. godine , ali onda",sam,False,izgubio posao zato što su nas srpske vlasti otpustile .
+,Nadao,sam,False,"se da ću nakon rata dobiti natrag svoj posao , ali to se nije dogodilo . """
+,"Nakon što je Hidroteknika privatizirana 2006. godine , "" nisam dobio nikakvu naknadu , a najgore je to što tvrtka više",ne,False,"postoji , s obzirom da je novi vlasnik promijenio njezinu namjenu "" , rekao je Berisha za SETimes ."
+,""" Moj je otac",radio,False,"u tvrtki Hidroteknika , [ kao i ja ] do prosinca 1990. godine , ali onda sam izgubio posao zato što su nas srpske vlasti otpustile ."
+,"Nakon što je Hidroteknika privatizirana 2006. godine , "" nisam",dobio,False,"nikakvu naknadu , a najgore je to što tvrtka više ne postoji , s obzirom da je novi vlasnik promijenio njezinu namjenu "" , rekao je Berisha za SETimes ."
+,Na koncu je i broj stranih ulagača,bio,False,"samo simboličan , kao i iznos koji su uložili "" , rekao je Sejdiu za SETimes ."
+,"Sejdiu kaže kako je , iz ove perspektive , proces """,bio,False,"prenagljen ... bez plana za gospodarski razvoj "" , te da je privatizacija dovela do velikih problema za radnike ."
+,Nadao sam se da ću nakon rata,dobiti,False,"natrag svoj posao , ali to se nije dogodilo . """
+,"Tu su i troškovi izgubljenih mogućnosti : "" U nekim slučajevima , privatizacija je mogla",donijeti,False,"bolje usluge i učinkovitost . """
+,"Iako je većina ciparskih Turaka poduprla predloženi sporazum , samo je međunarodno",priznati,False,dio mediteranskog otoka pod nadzorom ciparskih Grka na kraju ušao u EU 1. svibnja 2004. godine .
+,""" Ljudi sa strane mogu",pomoći,False,", ali zainteresirane strane moraju prikupiti viziju , hrabrost i političku volju potrebnu za postizanje sporazuma , sa svim elementima koje podrazumijeva kompromis "" , kazao je Prendergast ."
+,"Feronikel je privatiziran prije pet godina i još uvijek posluje , ali u ozračju zabrinutosti",za,False,sigurnost radnika .
+,"Nakon što je Hidroteknika privatizirana 2006. godine , "" nisam dobio nikakvu naknadu , a najgore je to što tvrtka više ne postoji , s obzirom da je novi vlasnik promijenio njezinu namjenu "" , rekao je Berisha",za,False,SETimes .
+,"Osim toga , mnoge tvrtke koje su privatizirane promijenile su lokaciju poslovanja , i vrlo često se zaposleni , kao što je Berisha , brišu s isplatnih lista , što dovodi do čestih prosvjeda ispred Agencije",za,False,privatizaciju .
+,Većina proizvodnih tvrtki više ne postoji ili se koriste,za,False,"skladištenje robe ; učinkovitost kao koncept , čini se , bile su samo riječi , a nezaposlenost se produbljuje ."
+,"A postoji i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu reći da diskriminacija -- bilo sada ili ranije -- utječe na mogućnost da izvuku",korist,False,iz privatizacije .
+,"Na koncu je i broj stranih ulagača bio samo simboličan , kao i",iznos,False,"koji su uložili "" , rekao je Sejdiu za SETimes ."
+,Kada su u,pitanju,False,"oni koji i dalje rade , [ ne postoji ] jamstvo za sigurnost na radu ."
+,""" Ministarstvo unutarnjih poslova obvezatno je skrenuti pozornost na visok rizik kada su u",pitanju,False,imovina i ljudski životi .
+,"Većina proizvodnih tvrtki više ne postoji ili se koriste za skladištenje robe ; učinkovitost kao koncept , čini se ,",bile,False,"su samo riječi , a nezaposlenost se produbljuje ."
+,"Što se tiče same igre , Maradonine "" upozoravajuće "" izjave o mogućim grubim startovima na zvijezde njegove momčadi",pokazale,False,"su se neosnovanima , budući da nitko od argentinskih igrača nije zadobio niti najmanju ozljedu ."
+,Katalizator su,bile,False,prijetnje ultranacionalističkih skupina koje su dovele do otkazivanja nedjeljne gay Parade ponosa u Beogradu .
+,Basescu je podigao tužbu protiv novina koje su prve,objavile,False,"fotografije navodnog incidenta , kao i Dinua Patriciua , poslovnog čovjeka koji je ustvrdio kako je svjedočio događaju ."
+,"A postoji i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu reći da diskriminacija --",bilo,False,sada ili ranije -- utječe na mogućnost da izvuku korist iz privatizacije .
+,"Nadao sam se da ću nakon rata dobiti natrag svoj posao , ali to se nije",dogodilo,False,". """
+,"Ukazuje na tvrtke u istočnoj regiji Ana Morava , gdje je ranije",bilo,False,""" gotovo 17.000 radnika u poduzećima koja su sada privatizirana ."
+,""" Preuranjeno pokretanje intenzivnog novog procesa ne bi",bilo,False,"preporučivo "" , kazao je podtajnik UN-a za politička pitanja Kieran Prendergast informirajući Vijeće sigurnosti o svojem posjetu Cipru , Grčkoj i Turskoj ranije ovog mjeseca ."
+,Natječaj za odabir najboljeg projekta muzeja bit će,održan,False,"u rujnu , rekao je ministar ."
+,"Zasad ,",osiguran,False,je samo putnički promet .
+,""" Prvo smo prije dvije godine uzeli kredit kako bismo otišli na medeni mjesec , a zatim sam naslijedio ovaj",stan,False,u koji smo se onda uselili .
+,Događanje je privuklo 35.000,posjetitelja,False,", uključujući i američku glumicu Meg Ryan ."
+,"Snimka pokazuje predsjednika koji se naginje s pozornice s koje je držao govor u gradu Ploiesti tokom kampanje na lokalnim izborima prije pet godina , nastojeći čuti ženu koja je zatražila",pomoć,False,.
+,Radovi finalista,bit,False,"će izloženi u londonskoj Galeriji Saatchi 23. lipnja , kojom će prilikom biti odlučeno o pobjedniku ."
+,Natječaj za odabir najboljeg projekta muzeja,bit,False,"će održan u rujnu , rekao je ministar ."
+,"Banja Luka , u Bosni i Hercegovini ,",bit,False,"će domaćin međunarodnog festivala kratkog filma "" Kratkofil "" od utorka , 16. lipnja , do subote ."
+,"Reagirajući na s time povezane napade bivšeg komunističkog disidenta i pjesnika Mircee Dinescua , predsjednikova je supruga Maria Basescu , koja se do sada nije stavljala u prvi plan , objavila",otvoreno,False,pismo u kojem je porekla tvrdnje kako ju je njen suprug udario .
+,Natjecanje se,održava,False,"petu godinu , te obuhvaća literaturu , prevođenje , glazbu , slikarstvo i kinematografiju ."
+,"Radovi finalista bit će izloženi u londonskoj Galeriji Saatchi 23. lipnja , kojom će prilikom biti",odlučeno,False,o pobjedniku .
+,""" Iako pravila takvog preraspoređivanja mogu biti javno iznesena u vrijeme registriranja , time se",povećava,False,"zabrinutost glede kompatibilnosti takvih zakonskih mjera s demokratskim načelima , budući da se smanjuje transparentnost za birače "" , navodi OESS / ODIHR ."
+,"Sadašnji predsjednik Traian Basescu i socijaldemokrat Mircea Geoana ,",bivši,False,"ministar vanjskih poslova , u nedjelju će se suočiti u drugom krugu predsjedničkih izbora ."
+,Tužitelji su također tvrdili kako je,bivši,False,"ministar i suutemeljitelj takozvanog Odbora za obranu Ramusha Haradinaja dozvolio Morinino putovanje , a Ministarstvo kulture snosilo je troškove ."
+,""" Na temelju kandidata koje su predložile zemlje članice , pokušao sam sastaviti kolegij koji može proizvesti svježe ideje i novi zamah u svezi s najvećim izazovima s kojima se Europa danas sučeljava "" , kazao je",bivši,False,portugalski premijer na tiskovnoj konferenciji u Bruxellesu .
+,"Rehna će zamijeniti Stefan Fuele , češki ministar za europske poslove i",bivši,False,veleposlanik u NATO-u .
+,Nadao sam se da ću nakon rata,dobiti,False,"natrag svoj posao , ali to se nije dogodilo . """
+,""" Ako želite",dobiti,False,"nešto [ kao manjina ] , morate to tražiti ."
+,Tri filma iz jugoistočne Europe uvrštena su na popis 12 filmova koji će,dobiti,False,financijsku potporu iz fonda za kinematografiju Vijeća Europe ( CoE ) Eurimages .
+,"Obraćajući se okupljenima , premijer Sali Berisha kazao je kandidatima kako će , kada budu izabrani ,",dobiti,False,snažnu potporu vlada za svoje projekte .
+,""" Moj je otac radio u tvrtki Hidroteknika , [ kao i ja ] do prosinca 1990. godine , ali onda sam izgubio",posao,False,zato što su nas srpske vlasti otpustile .
+,Nadao sam se da ću nakon rata dobiti natrag svoj,posao,False,", ali to se nije dogodilo . """
+,"Iako je većina ciparskih Turaka poduprla predloženi sporazum , samo je međunarodno",priznati,False,dio mediteranskog otoka pod nadzorom ciparskih Grka na kraju ušao u EU 1. svibnja 2004. godine .
+,Zamjenik ministra pravosuđa Slobodan Homen izjavio je za B92 kako vlasti planiraju,zatražiti,False,"od najvišeg suda u Srbiji "" zabranu svih udruga koje upućuju prijetnje "" ."
+,Kosovo ozbiljno analizira proces privatizacije,u,False,svjetlu učestalih pritužbi .
+,"Feronikel je privatiziran prije pet godina i još uvijek posluje , ali",u,False,ozračju zabrinutosti za sigurnost radnika .
+,Kažu da neki vlasnici i zaposlenici mogu iskoristiti određene rupe,u,False,zakonu dok drugi ne dobivaju gotovo ništa .
+,""" Moj je otac radio",u,False,"tvrtki Hidroteknika , [ kao i ja ] do prosinca 1990. godine , ali onda sam izgubio posao zato što su nas srpske vlasti otpustile ."
+,A,postoji,False,"i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu reći da diskriminacija -- bilo sada ili ranije -- utječe na mogućnost da izvuku korist iz privatizacije ."
+,"Nakon što je Hidroteknika privatizirana 2006. godine , "" nisam dobio nikakvu naknadu , a najgore je to što tvrtka više ne",postoji,False,", s obzirom da je novi vlasnik promijenio njezinu namjenu "" , rekao je Berisha za SETimes ."
+,Većina proizvodnih tvrtki više ne,postoji,False,"ili se koriste za skladištenje robe ; učinkovitost kao koncept , čini se , bile su samo riječi , a nezaposlenost se produbljuje ."
+,"Kada su u pitanju oni koji i dalje rade , [ ne",postoji,False,] jamstvo za sigurnost na radu .
+,Feronikel,je,False,"privatiziran prije pet godina i još uvijek posluje , ali u ozračju zabrinutosti za sigurnost radnika ."
+,"Vlada prodaje poduzeća , rješava",se,False,"opterećenja njihovog upravljanja , a novac od prodaje pomaže punjenju državnog proračuna ."
+,"Ali na Kosovu , kritičari kažu da",je,False,"pravni proces koji se odnosi na privatizaciju složen i politički naelektriziran , što ima dugoročan utjecaj na gospodarstvo ."
+,Esat Berisha,je,False,jedan takav primjer .
+,"I zaista ,",pokušajte,False,pretražiti neku njuzgrupu preko ovog servisa i vidjet ćete do koje godine seže arhiva ...
+,"Ovo je još jedna dobro poznata softverska tvrtka koja se fokusira na izradu programa za spašavanje podataka , pa ako niti jedan program koji iskušate ne uspije vratiti ono što tražite ,",pokušajte,False,s njihovim R-Studio alatom .
+,"Zdravlje je sada dobro , ali",povećajte,False,imunitet .
+,"Ako vam je neugodno pred partnerom ,",pokušajte,False,same .
+,"Ali na Kosovu , kritičari kažu da je pravni proces koji se odnosi na privatizaciju složen i politički naelektriziran , što",ima,False,dugoročan utjecaj na gospodarstvo .
+,Ferronikeli je flagrantan slučaj u kojemu nedostatak političke volje da se riješi,pitanje,False,"sigurnosti na radu ugrožava živote radnika "" , rekao je za SETimes ."
+,"Unatoč svemu ,",osiguranje,False,"je bilo iznimno solidno , te se nitko od navijača ili novinara nije uspio probiti do igrača u hotelu ."
+,Institut je izdao,priopćenje,False,u kojem se navodi kako su svoje zaključke dostavili predsjedništvu .
+,Proces privatizacije,na,False,Kosovu pod povećalom
+,Barem,na,False,"papiru , izgleda kao odlična ideja ."
+,Ali,na,False,"Kosovu , kritičari kažu da je pravni proces koji se odnosi na privatizaciju složen i politički naelektriziran , što ima dugoročan utjecaj na gospodarstvo ."
+,"A postoji i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu reći da diskriminacija -- bilo sada ili ranije -- utječe",na,False,mogućnost da izvuku korist iz privatizacije .
+,""" Međutim , Beograd bi se mogao",naći,False,u bezizlaznoj situaciji :
+,"Ipak , momčad nije mogla sanirati štetu nanesenu porazom 0:2 od Republike Koreje u svojem prvom nastupu u",skupini,False,"-- to je kvalifikaciju u drugi krug učinilo herkulskim podvigom , unatoč činjenici da su u sljedećoj utakmici porazili Nigeriju ."
+,"Poraz od Argentine označio je kraj jedne ere , budući da je trener Otto Rehhagel najavio svoj dugo",očekivani,False,"odlazak iz reprezentacije , koju je trenirao posljednjih devet godina ."
+,Ako,započne,False,"teretni promet , carinska i fitosanitarna inspekcija poljoprivrednih proizvoda bit će obavljana u Volkovu , oko 10 kilometara od granice ."
+,Misija EU na Kosovu kaže kako će se protokolom,potpisanim,False,sa srbijanskom policijom pomoći napori na jačanju vladavine zakona te kako on ne prijeti suverenitetu Kosova .
+,U izjavama,danim,False,"za BBC , grčki stručnjak za terorizam Athanasios Drougas ukazao je na Revolucionarnu borbu , najnasilniju militantnu skupinu u zemlji , koja se nalazi na popisima terorističkih organizacija EU i SAD-a , kao moguće počinitelje bombaškog napada ."
+,"Velčev , koji je preuzeo dužnost prije manje od mjesec dana , informirao je Rehna o",planiranim,False,"strukturnim promjenama u tužiteljstvu , obećavajući također kako će idućih dana biti podignute optužnice protiv ključnih šefova podzemlja ."
+,"Razgovorima ,",održanim,False,"19. veljače u Sofiji , također je nazočio Sergej Kirijenko , ravnatelj Rosatoma , regulatornog tijela ruske nuklearne industrije ."
+,"Mahlyanov , 22 , nedavno je pobijedio na prestižnom Emperor kupu na drugom velikom proljetnom turniru u "" sumo "" hrvanju",održanom,False,u Osaki .
+,"Studentska sportska udruga ' Baltazar Adam Krčelić ' Zaprešić nastupila je na svom prvom službenom natjecanju , na 5. Studentskim sportskim susretima veleučilišta i visokih škola Republike Hrvatske Pula 2013. ,",održanom,False,od 7. do 9. lipnja 2013. u Puli .
+,Hrvatska premijerka Jadranka Kosor i njen ruski kolega Vladimir Putin potvrdili su bilateralnu gospodarsku suradnju na sastanku,održanom,False,19. lipnja u Moskvi .
+,Poznati makedonski redatelj Milčo Mančevski započeo je rad na svojem trećem,igranom,False,"filmu "" Kosti "" ."
+,"Reagirajući na takvo stanje , Skender Veliu , koji je na čelu romskog saveza Amaro-Drom u Albaniji , izjavio je da su tamošnje manjine ustrojile",skupinu,False,"koja predstavlja Grke , Makedonce , Srbe , Crnogorce i Bosance te razgovaraju o svojim konkretnim problemima ."
+,Obitelj Mrdak živi u,stanu,False,"u Beogradu , a većinu su svojih stvari kupili zahvaljujući bankovnim kreditima i zajmovima ."
+,Turski model hoda pistom na prvom,danu,False,Tjedna mode u Istanbulu .
+,"Terry Venables , bivši engleski reprezentativac , u svojoj kolumni za The Sun komentirao je svaku",skupinu,False,na Euru .
+,"Ministar unutarnjih poslova Ranko Ostojić pojasnio je kako bi se takvi skupovi mogli održavati između osam i 22 sata , a morali bi se najaviti pet dana ili u iznimnim situacijama 48 sati prije",održavanja,False,skupa .
+,"Zasad se zna da će HAMAG nastaviti raditi sa sličnim modelima po kojima je već poznat - jamstvima i potporama poduzetnicima , no otvorena je i mogućnost",davanja,False,"mikrokredita , ili osnivanja fondova rizičnog kapitala , što upravo provodi Slovenski fond ."
+,"Naravno da postoje nijanse , ovisno o veličini ega te osobe , ali postoji samo jedan način da se to ispravno radi , a to je mješavina rukovođenja i",davanja,False,"prilike drugima da odigraju vlastitu ulogu "" ."
+,"Na sastanku na kojem se razgovaralo o gospodarskoj suradnji između Kosova i Albanije , zamjenica predsjednika vlade Kosova Mimoza Kusari Lila i albanski premijer Sali Berisha odlučili su ukinuti carinska",davanja,False,koja ometaju kosovske izvoznike .
+,Novi je muzej dio inicijative vlade usmjerene na poticanje turizma i,ostvarivanje,False,cilja od 30 milijuna stranih turista za 2010. i 2011 .
+,Antonijević iz YUCOM-a potvrđuje da Srbija tek treba pronaći mehanizam za,priznavanje,False,sveučilišnih diploma s Kosova .
+,"Međutim , koherentnost nedostaje u predstavljanju eurozone u međunarodnim financijskim institucijama - unatoč dogovoru Europskog vijeća iz Beča u prosincu 1998. da će se pozabaviti tim",pitanjem,False,.
+,"Kroz povijest je razvoj i djelovanje franjevaca konventualaca ove Provincije bilo uvjetovano političkim , gospodarskim , kulturnim i socijalnim",stanjem,False,"koje je nametala Venecija , a krizna vremena osobito je donijela Mletačka republika koja je u 18. st. zatvarala mnoge samostane ."
+,Podtajnik UN-a za politička,pitanja,False,Kieran Prendergast ( lijevo ) rukuje se s čelnikom ciparskih Turaka Mehmetom Ali Talatom tijekom posjeta podijeljenom otoku .
+,""" Preuranjeno pokretanje intenzivnog novog procesa ne bi bilo preporučivo "" , kazao je podtajnik UN-a za politička",pitanja,False,"Kieran Prendergast informirajući Vijeće sigurnosti o svojem posjetu Cipru , Grčkoj i Turskoj ranije ovog mjeseca ."
+,Također je obećao rješenje legalizacije i,pitanja,False,imovine .
+,Maria Damanaki iz Grčke imenovana je za novu povjerenicu za pomorska,pitanja,False,"i ribolov , dok će povjerenica za zdravstvo u odlasku -- Androulla Vassiliou s Cipra -- biti na čelu povjerenstva za školstvo , kulturu , multijezičnost i mladež ."
+,"Vlada prodaje poduzeća , rješava se opterećenja njihovog upravljanja ,",a,False,novac od prodaje pomaže punjenju državnog proračuna .
+,"Nakon što je Hidroteknika privatizirana 2006. godine , "" nisam dobio nikakvu naknadu ,",a,False,"najgore je to što tvrtka više ne postoji , s obzirom da je novi vlasnik promijenio njezinu namjenu "" , rekao je Berisha za SETimes ."
+,"Većina proizvodnih tvrtki više ne postoji ili se koriste za skladištenje robe ; učinkovitost kao koncept , čini se , bile su samo riječi ,",a,False,nezaposlenost se produbljuje .
+,"Više od 600 milijuna eura prebačenih u banke u inozemstvu ,",a,False,"koje kosovska vlada ne koristi , donijela je privatizacija javnih i državnih tvrtki posljednjih godina ."
+,Kosovo ozbiljno analizira proces privatizacije,u,False,svjetlu učestalih pritužbi .
+,"Feronikel je privatiziran prije pet godina i još uvijek posluje , ali",u,False,ozračju zabrinutosti za sigurnost radnika .
+,Kažu da neki vlasnici i zaposlenici mogu iskoristiti određene rupe,u,False,zakonu dok drugi ne dobivaju gotovo ništa .
+,""" Moj je otac radio",u,False,"tvrtki Hidroteknika , [ kao i ja ] do prosinca 1990. godine , ali onda sam izgubio posao zato što su nas srpske vlasti otpustile ."
+,Skupine grčkih navijača,navodno,False,"su zlostavljane na putu do stadiona , a situacija je na samom stadionu bila kaotična ."
+,Prije,no,False,"što je branič Martin Demichelis u 76. minuti spremio odbijenu loptu u grčku mrežu , "" čudesnog "" Messija je uglavnom uspijevao zadržati mladi stoper iz kluba Genoa FC Sokratis Papastathopoulos , kojem bi solidni nastupi na Svjetskom kupu 2010. mogli otvoriti i vrata nekog još većeg kluba ."
+,Film koji,navodno,False,prikazuje Basescua kako udara dijete na skupu 2004. potakao je kontroverze u zemlji .
+,Svečano ponovno pokretanje linije Skoplje - Priština,održano,False,"je u prosincu prošle godine , kada je skupina ministara makedonske vlade otputovala vlakom u Prištinu ."
+,EULEX : Sporazumom će se pojačati borba protiv,organiziranog,False,kriminala
+,"Mirovna misija EULEX-a potpisala je u petak ( 11. rujna ) protokol sa srbijanskim ministarstvom unutarnjih poslova , čime je utrt put suradnji u borbi protiv",organiziranog,False,kriminala i krijumčarenja .
+,""" Cilj im je borba protiv",organiziranog,False,kriminala i krijumčarenja .
+,"Ukazao je kako uvjeti za članstvo u EU uključuju poštivanje ljudskih i manjinskih prava , kao i napore u borbi protiv ilegalne imigracije ,",organiziranog,False,kriminala i korupcije .
+,U Skoplju je u utorak ( 12. prosinac ),otvoren,False,4. Romski amaterski kazališni festival .
+,Sedamnaesti summit šefova država i vlada zemalja članica NATO-a u Istanbulu,završen,False,je u utorak ( 29. lipanj ) .
+,U izvješću se zemlji pripisuju zasluge za rad,ostvaren,False,"na području zakonodavstva , gospodarstva i provedbe Sporazuma o stabilizaciji i pridruživanju ."
+,Dio HAMAG-ove pripreme je i natječaj za prijavu konzultanata osposobljenih za pisanje projekata koji je,otvoren,False,do 11. studenoga .

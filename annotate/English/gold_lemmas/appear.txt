@@ -27,6 +27,3 @@ appear,VERB
 appear,VERB
 appear,VERB
 appear,VERB
-appear,VERB
-appear,VERB
-appear,VERB

@@ -9,9 +9,7 @@ publish,VERB
 publish,VERB
 publish,VERB
 publish,VERB
-publish,VERB
-publish,VERB
-publish,VERB
+publisher,NOUN
 publisher,NOUN
 publisher,NOUN
 publisher,NOUN

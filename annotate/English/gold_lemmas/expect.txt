@@ -16,7 +16,3 @@ expect,VERB
 expect,VERB
 expect,VERB
 expect,VERB
-expect,VERB
-expect,VERB
-expect,VERB
-expect,VERB

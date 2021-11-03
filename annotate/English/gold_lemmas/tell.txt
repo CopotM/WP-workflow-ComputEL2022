@@ -17,4 +17,3 @@ tell,VERB
 tell,VERB
 tell,VERB
 tell,VERB
-tell,VERB

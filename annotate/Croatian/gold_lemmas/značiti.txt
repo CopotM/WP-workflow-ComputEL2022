@@ -1,7 +1,7 @@
 značiti,VERB
+značiti,VERB
 značenje,NOUN
-značiti,VERB
-značiti,VERB
+značenje,NOUN
 značiti,VERB
 značiti,VERB
 značiti,VERB

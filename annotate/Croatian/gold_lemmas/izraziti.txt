@@ -21,6 +21,7 @@ izraziti,VERB
 izraziti,VERB
 izraziti,VERB
 izraziti,VERB
+izraziti,VERB
 izrazit,ADJ
 izraziti,VERB
 izraz,NOUN

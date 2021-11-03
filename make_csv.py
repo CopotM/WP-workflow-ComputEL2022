@@ -64,13 +64,13 @@ if __name__ == "__main__":
                         help="System output file (clustering of lemma/form)")
     parser.add_argument("--corpus", type=str,
                         help="Corpus file in conll format")
-    parser.add_argument("--n_lemma", type=int, default=10,
+    parser.add_argument("--n_lemma", type=int, default=7,
                         help="How many items to sample of each lemma")
-    parser.add_argument("--n_cell", type=int, default=30,
+    parser.add_argument("--n_cell", type=int, default=20,
                         help="How many items to sample of each cell")
     parser.add_argument("--output", type=str,
                         help="Output directory")
-    parser.add_argument("--negative", action="store_true",
+    parser.add_argument("--negative", action="store_true", default = True,
                         help="Add negative examples for cells")
     args = parser.parse_args()
 

@@ -1,11 +1,8 @@
-The Tsar employed him in organizing his army,according,True,to the West European system ; and raised him to the rank of full general .
-"His Ph.D. dissertation , A Synopsis of English Syntax , was the first full-scale analysis of a major language",according,True,"to the "" immediate-constituent "" theory ."
-"We get over 14 million unique visitors per month ( source : Google Analytics ) , which makes us the 135th most popular site",according,True,to Quantcast .
-"In December 2008 , wikiHow had over 14 million unique visitors",according,True,to Google Analytics ( Full data : http://www.wikihow.com/wikiHow:Statistics ) .
-"Malaysia and Indonesia have maintained a policy of turning away boats of migrants which ,",according,True,"to AFP , the Untied Nations and United States have both criticised ."
-"A storm yesterday caused a crane to fall into Mecca's Mecca 's Grand Mosque , killing 107 or more and wounding 238 ,",according,True,to Saudi Arabia's Arabia 's Civil Defense Authority .
-Wikinews has learned that,according,True,"to an Internet posting made just over 24 hours ago , the Church of Scientology's Scientology 's website is being attacked by hackers , causing the site to shut down ."
-Last Year over 4 million visitors attended the event and this year the city expects about 6 million visitors,according,True,to the event website .
-"The Polaroids were all donated by the Andy Warhol Photographic Legacy Program ,",according,True,"to Kristen Wilkins , assistant professor of photography and curator of the exhibit ."
-"For example , the Weatherspoon Art Museum at the University of North Carolina at Greensboro saw attendance levels reach 11,000 visitors when it exhibited its Warhol collection in 2010 ,",according,True,to curator Elaine Gustafon .
-"Claiming that there is a relation , however , is empirically dubious ,",according,True,to Street .
+,"By this time , "" her skin was weeping , her body malnourished and her corneas melting "" ,",according,True,to the Sydney Morning Herald .
+,"Madam Speaker , "" I solemnly swear that in all things appertaining to the trial of the impeachment of Donald John Trump , President of the United States , now pending , I will do impartial justice",according,True,"to the Constitution and laws . """
+,"They are required , as the oath plainly states , to "" do impartial justice",according,True,"to the Constitution and laws . """
+,"As noted earlier , all analyses were weighted",according,True,to the survey weight provided by the Add Health research staff and standard errors were corrected for the clustering and stratification that defined the sampling strategy .
+,The Tsar employed him in organizing his army,according,True,to the West European system ; and raised him to the rank of full general .
+,"His Ph.D. dissertation , A Synopsis of English Syntax , was the first full-scale analysis of a major language",according,True,"to the "" immediate-constituent "" theory ."
+,"We get over 14 million unique visitors per month ( source : Google Analytics ) , which makes us the 135th most popular site",according,True,to Quantcast .
+,"In December 2008 , wikiHow had over 14 million unique visitors",according,True,to Google Analytics ( Full data : http://www.wikihow.com/wikiHow:Statistics ) .

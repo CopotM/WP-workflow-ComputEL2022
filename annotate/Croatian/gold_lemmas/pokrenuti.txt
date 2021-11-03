@@ -22,6 +22,8 @@ pokrenuti,VERB
 pokrenuti,VERB
 pokrenuti,VERB
 pokrenuti,VERB
+pokrenuti,VERB
+pokrenuti,ADJ
 pokrenuti,ADJ
 pokrenuti,ADJ
 pokrenuti,ADJ
@@ -31,6 +33,7 @@ pokrenuti,ADJ
 pokrenuti,ADJ
 pokrenuti,ADJ
 pokrenuti,ADJ
+pokrenuti,VERB
 pokrenuti,VERB
 pokrenuti,VERB
 pokrenuti,VERB

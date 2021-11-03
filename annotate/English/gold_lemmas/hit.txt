@@ -1,11 +1,11 @@
+hi,INTJ
+hi,INTJ
+hi,INTJ
+hit,VERB
 hit,VERB
 hit,VERB
 hit,VERB
 hit,NOUN
 hit,NOUN
-hit,VERB
-hit,VERB
-hit,NOUN
-hit,VERB
 hit,VERB
 hit,VERB

@@ -6,11 +6,12 @@ navoditi,VERB
 navoditi,VERB
 navoditi,VERB
 navoditi,VERB
+navoditi,VERB
 navoditi,ADV
 navoditi,ADV
-navoditi,VERB
-navoditi,VERB
-navoditi,VERB
+navoditi,ADV
+navoditi,ADV
+navoditi,ADV
 navoditi,VERB
 navoditi,VERB
 navoditi,VERB
@@ -23,9 +24,6 @@ navoditi,VERB
 navod,NOUN
 navod,NOUN
 navod,NOUN
-navodno,ADV
-navodno,ADV
-navodno,ADV
 navodno,ADV
 navodno,ADV
 navodno,ADV

@@ -1,9 +1,8 @@
-"Pohvalivši Trajkovskog zbog "" energije i inicijative "" koju je uložio u pripremu sastanka , Matsuura je kazao zemlje SEE nužno trebaju ispuniti preuzete obveze "" glede demokratskih vrijednosti i ciljeva , punog poštivanja ljudskih prava i uzajamnog poštivanja i tolerancije među građanima različitog etničkog podrijetla "" kako bi mogle",postići,True,""" civilizirani suživot koji će biti održiv i pravedan "" ."
-"Ministrica obrazovanja Anna Diamantopoulou , bivša povjerenica EU koja se smatra jednim od nekolicine mogućih nasljednika sadašnjeg premijera Georgea Papandreoua na čelu vladajuće stranke , nazvala je glasovanje u parlamentu "" povijesnim "" , ističući da bi se takav konsenzus mogao",postići,True,i na ostalim područjima .
-Ni Beograd niti Priština neće moći,postići,True,"sve što hoće , kazao je Polt ."
-"Govoreći na tiskovnoj konferenciji u Ankari sa svojim turskim kolegom Abdullahom Gulom održanoj u ponedjeljak ( 12. studenog ) , izraelski predsjednik Shimon Peres izrazio je uvjerenje kako će njegova zemlja biti u stanju",postići,True,"mir s Palestincima , ali je dodao kako je za mir potrebno vrijeme ."
-Unatoč nekoliko pokušaja vlada nije uspjela,postići,True,dogovor sa MMF-om od svibnja 2008. godine .
-Ukoliko Erdogan i MMF uspiju,postići,True,"kompromis , očekuje se kako će MMF ubrizgati u tursko gospodarstvo između 10 i 20 milijardi dolara ."
-"Bit ćete nervozni , ne slažete se s kolegama , a razgovorima ništa nećete",postići,True,.
-Pri uređenju stana ili kuće to nije uvijek jednostavno,postići,True,", ali uz dobru pripremu , jasno definirane potrebe i pokoji stručni savjet , sigurno ćete u tome uspjeti"
-Čak i iz astralnog tijela možete poslati umirujuće i spokojne vibracije koje će osloboditi prenapregnute živce tijela te omogućiti san nekome tko ga ne može,postići,True,.
+,"Pohvalivši Trajkovskog zbog "" energije i inicijative "" koju je uložio u pripremu sastanka , Matsuura je kazao zemlje SEE nužno trebaju ispuniti preuzete obveze "" glede demokratskih vrijednosti i ciljeva , punog poštivanja ljudskih prava i uzajamnog poštivanja i tolerancije među građanima različitog etničkog podrijetla "" kako bi mogle",postići,True,""" civilizirani suživot koji će biti održiv i pravedan "" ."
+,"Ministrica obrazovanja Anna Diamantopoulou , bivša povjerenica EU koja se smatra jednim od nekolicine mogućih nasljednika sadašnjeg premijera Georgea Papandreoua na čelu vladajuće stranke , nazvala je glasovanje u parlamentu "" povijesnim "" , ističući da bi se takav konsenzus mogao",postići,True,i na ostalim područjima .
+,Ni Beograd niti Priština neće moći,postići,True,"sve što hoće , kazao je Polt ."
+,"Govoreći na tiskovnoj konferenciji u Ankari sa svojim turskim kolegom Abdullahom Gulom održanoj u ponedjeljak ( 12. studenog ) , izraelski predsjednik Shimon Peres izrazio je uvjerenje kako će njegova zemlja biti u stanju",postići,True,"mir s Palestincima , ali je dodao kako je za mir potrebno vrijeme ."
+,Unatoč nekoliko pokušaja vlada nije uspjela,postići,True,dogovor sa MMF-om od svibnja 2008. godine .
+,Ukoliko Erdogan i MMF uspiju,postići,True,"kompromis , očekuje se kako će MMF ubrizgati u tursko gospodarstvo između 10 i 20 milijardi dolara ."
+,"Bit ćete nervozni , ne slažete se s kolegama , a razgovorima ništa nećete",postići,True,.
+,Pri uređenju stana ili kuće to nije uvijek jednostavno,postići,True,", ali uz dobru pripremu , jasno definirane potrebe i pokoji stručni savjet , sigurno ćete u tome uspjeti"

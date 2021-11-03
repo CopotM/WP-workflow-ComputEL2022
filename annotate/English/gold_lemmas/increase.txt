@@ -4,6 +4,7 @@ increase,VERB
 increase,VERB
 increase,VERB
 increase,NOUN
+increase,VERB
 increased,ADJ
 increase,VERB
 increase,VERB
@@ -11,7 +12,8 @@ increase,VERB
 increase,VERB
 increase,VERB
 increase,VERB
-increase,VERB
+increase,NOUN
+increase,NOUN
 increase,VERB
 increase,VERB
 increase,VERB

@@ -23,4 +23,3 @@ serve,VERB
 serve,VERB
 serve,VERB
 serve,VERB
-serve,VERB

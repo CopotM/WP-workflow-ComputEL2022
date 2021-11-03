@@ -13,9 +13,6 @@ die,VERB
 die,VERB
 die,VERB
 die,VERB
-die,VERB
-die,VERB
-die,VERB
 diet,NOUN
 diet,NOUN
 diet,NOUN

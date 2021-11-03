@@ -1,29 +1,29 @@
-SETimes : Srbija je,pozvala,True,na dijalog o stanju na graničnim prijelazima na sjeveru .
-Europska narodna stranka ( EPP ),pozvala,True,je u petak ( 31. ožujak ) na obnovu napora UN-a na pronalaženje rješenja pitanja Cipra i na snažniju ulogu EU u tom procesu .
-"U rezoluciji koju je usvojila na svojem dvodnevnom saboru u Rimu , EPP je",pozvala,True,"glavnog tajnika UN-a Kofija Annana na "" nastavak svoje inicijative za postizanje rješenja prihvatljivog za sve zajednice na Cipru "" ."
-EPP je u svojoj rezoluciji,pozvala,True,"Tursku da "" utječe na skoro povlačenje svojih snaga shodno relevantnim rezolucijama UN-a i u skladu s preciznim vremenskim okvirom "" ."
-"U ponedjeljak [ 11. siječnja ] , skupina od 200 srpskih intelektualaca",pozvala,True,"je na referendum o članstvu u NATO-u , tvrdeći kako se beogradske vlasti tajno kreću ka Savezu ."
-Pa sam ga,pozvala,True,na našu Konferenciju i on je poziv prihvatio .
-"U međuvremenu , čelnici članica NATO-a , Estonije , Latvije , Litve i Poljske , te Ukrajine , koja nije članica NATO-a ,",pozvali,True,su Savez 26 zemalja da Gruziju uključi u Akcijski plan za članstvo u NATO-u kako bi se spriječili budući napadi Rusije na tu zemlju .
-Dužnosnici EU također su,pozvali,True,Sofiju na poduzimanje odlučne akcije u smanjivanju korupcije i kriminala u zemlji .
-"No i njemu je istekao rok trajanja pa su mu , kaže , došli dečki iz KGB-a i",pozvali,True,"Vladimira Putina da uvede red , i ta se promjena dogodila gotovo preko noći ."
-"Potvrđujući zeleno svjetlo , Vijeće je također",pozvalo,True,Zagreb da nastavi s potrebnim promjenama .
-Nekoliko istočnoeuropskih zemalja članica,pozvalo,True,je na zamrzavanje odnosa s Moskvom zbog njezinih postupaka u Gruziji .
-Srbijansko izaslanstvo,pozvalo,True,"je na uspostavu brojnih autonomnih općina s uzajamnim vezama i vezama s Beogradom , dok se Priština protivi pokušajima "" podjele "" po etničkim crtama ."
-"Međutim , u novom obratu događaja , predsjednik Kosova Fatmir Sejdiu nije",pozvan,True,na nedavnu inauguraciju Ivanova .
-Onaj tko je,pozvan,True,"na svećeništvo i redovništvo , treba obrazovanje koje integrira » vjeru i razum , srce i pamet , život i razmišljanje « ."
-Hrvatska,pozvana,True,na ubrzanje reformi koje traži EU
-Pokret je,pozvao,True,Europski parlament i sve humanitarne udruge da izvrše pritisak na Grčku kako bi dozvolila isplovljavanje brodova .
-Djed Božićnjak,pozvao,True,"je djecu u svoju radionicu , gdje su djeca mogla gledati vilenjake kako prave igračke ."
-Passy je,pozvao,True,"na "" praktične opsežne mjere "" u obračunu s terorističkim prijetnjama ."
-"Nekoliko tjedana prije objavljivanja presudna izvješća Europske komisije ( EC ) o spremnosti Bugarske na članstvo u EU , visoki bruxelleski dužnosnik",pozvao,True,je u ponedjeljak ( 13. ožujak ) Sofiju na jačanje napora na rješavanju pitanja koja ozbiljno brinu Uniju .
-Predsjednik Kluba Blažo Stevanović,pozvao,True,"je javnost da prijavi svakog kandidata optuženog , ili kazneno gonjenog za ratne zločine ili poslove vezane za organizirani kriminal ."
-Također je,pozvao,True,kosovske čelnike na jačanje svoje predanosti ispunjavanju standarda koje su odredili UN .
-Sud je priopćio kako je ukinuo samo odredbe kojima je albanskoj zajednici dan prioritet u odnosu na druge etničke skupine u zemlji i,pozvao,True,vladu da odluči treba li se albanska zastava postavljati ili ne .
-Lemierres je sa svoje strane,pozvao,True,"na veće investiranje u Srbiju i Crnu Goru , primijetivši kako je zemlja znatno napredovala u posljednje četiri godine ."
-Češki ministar vanjskih poslova Karel Schwarzenberg,pozvao,True,je Bosnu i Hercegovinu ( BiH ) u petak ( 9. studenog ) da ne odustane od svojih nastojanja za prijam u EU .
-"Ali Ahmeti , čelnik Demokratske unije za integracije ,",pozvao,True,"je Krasniqia na dragovoljnu predaju , ističući kako će zajamčeno imati pošteno suđenje ."
-"Prokurdski Kongres demokratskog društva ( DTK ) , kojim dominira BDP ,",pozvao,True,"ga je da im se priključi , no između Burkaya i središnjih kurdskih političkih pokreta i dalje postoje razilaženja ."
-"Rohanov posjet dolazi uoči konzultacija posebnog izaslanika UN-a Martti Ahtisaaria s Vijećem sigurnosti sredinom srpnja , kada će on , kako se očekuje ,",pozvati,True,izaslanstva kosovskih Albanaca i Srbije da razmotre budući status Kosova kasnije ovog mjeseca .
-""" Moramo proučiti sve izvedive načine i",pozvati,True,"Srbiju i Kosovo na iskazivanje fleksibilnosti i kompromisa u pregovorima "" , kazao je Steinmeier ."
-Zapovjednik koji se oslanja na blitzkrieg može,pozvati,True,"pojačanja u vidu dodatnih tenkova ili jurišnika , narediti artiljerijski napad na bilo koje područje na mapi , dok će terorist sijati strah raketama V1 , propagandom , fanatičnim zapovjednicima i najmoćnijim tenkom King Tigerom ."
+,SETimes : Srbija je,pozvala,True,na dijalog o stanju na graničnim prijelazima na sjeveru .
+,Europska narodna stranka ( EPP ),pozvala,True,je u petak ( 31. ožujak ) na obnovu napora UN-a na pronalaženje rješenja pitanja Cipra i na snažniju ulogu EU u tom procesu .
+,"U rezoluciji koju je usvojila na svojem dvodnevnom saboru u Rimu , EPP je",pozvala,True,"glavnog tajnika UN-a Kofija Annana na "" nastavak svoje inicijative za postizanje rješenja prihvatljivog za sve zajednice na Cipru "" ."
+,EPP je u svojoj rezoluciji,pozvala,True,"Tursku da "" utječe na skoro povlačenje svojih snaga shodno relevantnim rezolucijama UN-a i u skladu s preciznim vremenskim okvirom "" ."
+,"U ponedjeljak [ 11. siječnja ] , skupina od 200 srpskih intelektualaca",pozvala,True,"je na referendum o članstvu u NATO-u , tvrdeći kako se beogradske vlasti tajno kreću ka Savezu ."
+,Pa sam ga,pozvala,True,na našu Konferenciju i on je poziv prihvatio .
+,"U međuvremenu , čelnici članica NATO-a , Estonije , Latvije , Litve i Poljske , te Ukrajine , koja nije članica NATO-a ,",pozvali,True,su Savez 26 zemalja da Gruziju uključi u Akcijski plan za članstvo u NATO-u kako bi se spriječili budući napadi Rusije na tu zemlju .
+,Dužnosnici EU također su,pozvali,True,Sofiju na poduzimanje odlučne akcije u smanjivanju korupcije i kriminala u zemlji .
+,"No i njemu je istekao rok trajanja pa su mu , kaže , došli dečki iz KGB-a i",pozvali,True,"Vladimira Putina da uvede red , i ta se promjena dogodila gotovo preko noći ."
+,Ministarstvo vanjskih poslova,pozvalo,True,je sve strane na izbjegavanje dodatnih tenzija .
+,"Potvrđujući zeleno svjetlo , Vijeće je također",pozvalo,True,Zagreb da nastavi s potrebnim promjenama .
+,Nekoliko istočnoeuropskih zemalja članica,pozvalo,True,je na zamrzavanje odnosa s Moskvom zbog njezinih postupaka u Gruziji .
+,Srbijansko izaslanstvo,pozvalo,True,"je na uspostavu brojnih autonomnih općina s uzajamnim vezama i vezama s Beogradom , dok se Priština protivi pokušajima "" podjele "" po etničkim crtama ."
+,"Međutim , u novom obratu događaja , predsjednik Kosova Fatmir Sejdiu nije",pozvan,True,na nedavnu inauguraciju Ivanova .
+,Onaj tko je,pozvan,True,"na svećeništvo i redovništvo , treba obrazovanje koje integrira » vjeru i razum , srce i pamet , život i razmišljanje « ."
+,Hrvatska,pozvana,True,na ubrzanje reformi koje traži EU
+,Predsjednik Demetris Christofias sastao se s Benedictom u subotu i,pozvao,True,međunarodnu zajednicu da izvrši pritisak na Tursku da okonča svoju okupaciju sjevernog dijela otoka .
+,Američki veleposlanik Christopher Dell,pozvao,True,"je u ponedjeljak čelnike , institucije i građane Kosova da se usmjere na proces izgradnje države , umjesto da se zapletu u pitanja kao što je protokol o policijskoj suradnji ."
+,"Mogao je i Mandekić pozvati Ljilju Drljević , Indiru Bajt , Vujević , a on je , kako ga zeznula Rajna Šargač , u zadnji moment",pozvao,True,"lokalku , Karmen Mrakovčić"
+,Predsjednik Afganistana Hamid Karzai nazočio je posljednjem zasjedanju summita i,pozvao,True,NATO na hitno upućivanje dodatnih mirovnih snaga kako bi se unaprijedila sigurnost u njegovoj zemlji uoči predsjedničkih i lokalnih izbora zakazanih za rujan .
+,"Tijekom posjeta Beogradu , grčki premijer ponovio je uvjete za članstvo u EU i",pozvao,True,zemlje zapadnog Balkana da ostave sukobe iza sebe .
+,"Govoreći na konferenciji , Papandreou je",pozvao,True,zemlje zapadnog Balkana da ostave sukobe iza sebe .
+,Potpredsjednik Sjedinjenih Američkih Država,pozvao,True,čelnike BiH da prekinu etničke svađe
+,Također je,pozvao,True,političare BiH na dogovor oko ustavnih reformi kako bi osigurali bolju budućnost za zemlju kroz euroatlantsku integraciju .
+,Mogao je i Mandekić,pozvati,True,"Ljilju Drljević , Indiru Bajt , Vujević , a on je , kako ga zeznula Rajna Šargač , u zadnji moment pozvao lokalku , Karmen Mrakovčić"
+,Za srijedu je planiran sastanak veleposlanika zemalja članica EU s članovima tročlanog predsjedništva BiH tijekom kojeg će oni,pozvati,True,na nastavak reformi u sektoru obrane .
+,"Rohanov posjet dolazi uoči konzultacija posebnog izaslanika UN-a Martti Ahtisaaria s Vijećem sigurnosti sredinom srpnja , kada će on , kako se očekuje ,",pozvati,True,izaslanstva kosovskih Albanaca i Srbije da razmotre budući status Kosova kasnije ovog mjeseca .
+,""" Moramo proučiti sve izvedive načine i",pozvati,True,"Srbiju i Kosovo na iskazivanje fleksibilnosti i kompromisa u pregovorima "" , kazao je Steinmeier ."
+,Zapovjednik koji se oslanja na blitzkrieg može,pozvati,True,"pojačanja u vidu dodatnih tenkova ili jurišnika , narediti artiljerijski napad na bilo koje područje na mapi , dok će terorist sijati strah raketama V1 , propagandom , fanatičnim zapovjednicima i najmoćnijim tenkom King Tigerom ."

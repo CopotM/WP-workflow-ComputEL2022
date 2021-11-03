@@ -16,4 +16,3 @@ believe,VERB
 believe,VERB
 believe,VERB
 believe,VERB
-believe,VERB

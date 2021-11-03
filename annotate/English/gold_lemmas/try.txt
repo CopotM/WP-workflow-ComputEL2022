@@ -14,9 +14,3 @@ try,VERB
 try,VERB
 try,VERB
 try,VERB
-try,VERB
-try,VERB
-try,VERB
-try,VERB
-try,VERB
-try,VERB

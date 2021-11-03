@@ -1,3 +1,4 @@
+igra,NOUN
 igrati,VERB
 igra,NOUN
 igrati,VERB
@@ -12,6 +13,7 @@ igrati,VERB
 igrati,VERB
 igrati,VERB
 igrati,VERB
+igra,NOUN
 igra,NOUN
 igra,NOUN
 igrati,VERB
@@ -26,6 +28,8 @@ igranje,NOUN
 igrani,ADJ
 igrani,ADJ
 igrani,ADJ
+igrati,VERB
+igrati,VERB
 igrati,VERB
 igrati,VERB
 igrati,VERB

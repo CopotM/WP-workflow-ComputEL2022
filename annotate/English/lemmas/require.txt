@@ -1,20 +1,20 @@
-"What I want to do with the animals requires new material preserved in diverse ways , but it doesn't does n't",require,True,me to be there .
-"It can be purchased at the Airport in Cuba on arrival , however it should be noted that many airlines will",require,True,a valid tourist visa card before boarding flights .
-"Please note that if departing from Europe ( this may apply to other countries ) , you will",require,True,to have the visa before boarding the plane .
-"Some are within 5 – 10 minutes walking distance from the nearest parking lot , some",require,True,"at least 3 – 4 hours of hiking ( those are , of course less frequented by other tourists and you might find yourself alone at a spectacular waterfall in the middle of nowhere - an amazing experience ! ) ."
-you should make sure that your clothing covers at least your shoulders and your knees and some places may,require,True,that you wear ankle-length pants or skirts and long sleeved tops .
-Some schools may have students wear the same thing and others may just,require,True,any type of leotard and tights and sometimes ballet skirts .
-Mostly they,require,True,tight fitting clothing so they can see that your muscles are working properly and so on .
-"The system is capable of collecting census data for an entire academic field in just a few hours using off-the-shelf computing hardware , a vast improvement over the roughly 1600 hours",required,True,to do this task by hand [ 19 ] .
-"His 2010 season was cut short due to injury to his medial collateral ligament , which",required,True,surgery . [ 8 ]
-"Stardust @ home is a highly distributed project using a "" Virtual Microscope "" that is written in html and javascript and runs on most browsers — no downloads are",required,True,.
-Muslims are,required,True,"to make a pilgrimage to Mecca during their lifetimes , if physically or financially possible , as it is one of the five pillars of the Islamic faith ."
-"Institutional recipients , said Mauer , are",required,True,to exhibit their donated Warhol photographs every ten years as one stipulation .
-We are committed to doing all that is,required,True,to ensure that the election process is fully compatible with international standards for free and fair elections .
-"It is important to note that there is also a departure tax of CUC 25 , to be paid in cash when departing Cuba by airplane ; this is not",required,True,for boat departures .
-only in the most top-end establishments are shoes,required,True,.
-"The moves themselves are relatively straightforward , but the positing , the timing , and the elegance",required,True,takes a lifetime of practice .
-What I want to do with the animals,requires,True,"new material preserved in diverse ways , but it doesn't does n't require me to be there ."
-The Sea Org,requires,True,"members to sign a billion-year-contract , agreeing to work for the organization founded by science fiction writer L. Ron Hubbard for multiple lifetimes ."
-While dancing ballet takes dedication and,requires,True,"serious training , you can learn the basics to prepare yourself for further study ."
-"Each handle of vodka ( 1.75 liters , about a half gallon )",requires,True,"a large bag worth of Skittles , so if you plan on doing only one flavor for a flavorful vodka , you'll you 'll have to buy 5 large bags of Skittles ."
+,""" Pregnant women in Australia are getting about half as much as what they",require,True,on a daily basis .
+,"The humanitarian crisis in the Horn of Africa , ecological disasters such as Fukushima , political developments like the Arab Spring and terrorist attacks such as the assault on the United Nations building in Abuja last August",require,True,concerted action by the United Nations and its Member States .
+,"What I want to do with the animals requires new material preserved in diverse ways , but it doesn't does n't",require,True,me to be there .
+,"It can be purchased at the Airport in Cuba on arrival , however it should be noted that many airlines will",require,True,a valid tourist visa card before boarding flights .
+,"Please note that if departing from Europe ( this may apply to other countries ) , you will",require,True,to have the visa before boarding the plane .
+,"Some are within 5 – 10 minutes walking distance from the nearest parking lot , some",require,True,"at least 3 – 4 hours of hiking ( those are , of course less frequented by other tourists and you might find yourself alone at a spectacular waterfall in the middle of nowhere - an amazing experience ! ) ."
+,you should make sure that your clothing covers at least your shoulders and your knees and some places may,require,True,that you wear ankle-length pants or skirts and long sleeved tops .
+,Some schools may have students wear the same thing and others may just,require,True,any type of leotard and tights and sometimes ballet skirts .
+,They are,required,True,", as the oath plainly states , to "" do impartial justice according to the Constitution and laws . """
+,The House did its job and did so with the solemnity,required,True,"when undertaking the process of impeachment , which we did not seek but accepted as our responsibility under the Constitution ."
+,Our members voted consistent with their oath of office and the conviction that that vote was,required,True,by that oath to protect and defend the Constitution .
+,"The system is capable of collecting census data for an entire academic field in just a few hours using off-the-shelf computing hardware , a vast improvement over the roughly 1600 hours",required,True,to do this task by hand [ 19 ] .
+,"His 2010 season was cut short due to injury to his medial collateral ligament , which",required,True,surgery . [ 8 ]
+,"Stardust @ home is a highly distributed project using a "" Virtual Microscope "" that is written in html and javascript and runs on most browsers — no downloads are",required,True,.
+,Muslims are,required,True,"to make a pilgrimage to Mecca during their lifetimes , if physically or financially possible , as it is one of the five pillars of the Islamic faith ."
+,"Institutional recipients , said Mauer , are",required,True,to exhibit their donated Warhol photographs every ten years as one stipulation .
+,What I want to do with the animals,requires,True,"new material preserved in diverse ways , but it doesn't does n't require me to be there ."
+,The Sea Org,requires,True,"members to sign a billion-year-contract , agreeing to work for the organization founded by science fiction writer L. Ron Hubbard for multiple lifetimes ."
+,While dancing ballet takes dedication and,requires,True,"serious training , you can learn the basics to prepare yourself for further study ."
+,"Each handle of vodka ( 1.75 liters , about a half gallon )",requires,True,"a large bag worth of Skittles , so if you plan on doing only one flavor for a flavorful vodka , you'll you 'll have to buy 5 large bags of Skittles ."

@@ -10,8 +10,6 @@ improve,VERB
 improve,VERB
 improve,VERB
 improve,VERB
-improve,VERB
-improvement,NOUN
 improvement,NOUN
 improvement,NOUN
 improvement,NOUN

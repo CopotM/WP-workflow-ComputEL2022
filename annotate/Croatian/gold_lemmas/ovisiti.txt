@@ -18,7 +18,9 @@ ovisiti,VERB
 ovisiti,VERB
 ovisiti,VERB
 ovisiti,VERB
-ovisiti,VERB
+ovisno,ADV
+ovisno,ADV
+ovisno,ADV
 ovisno,ADV
 ovisno,ADV
 ovisno,ADV

@@ -6,9 +6,6 @@ buy,VERB
 buy,VERB
 buy,VERB
 buy,VERB
-buy,VERB
-buy,VERB
-buy,VERB
 buyer,NOUN
 buy,VERB
 buy,VERB

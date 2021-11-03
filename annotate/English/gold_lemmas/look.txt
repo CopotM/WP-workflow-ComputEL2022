@@ -1,11 +1,4 @@
 look,VERB
-look,VERB
-look,VERB
-look,VERB
-look,VERB
-look,VERB
-look,VERB
-look,VERB
 look,NOUN
 look,VERB
 look,VERB
@@ -22,11 +15,6 @@ look,VERB
 look,VERB
 look,VERB
 look,VERB
-look,VERB
-look,VERB
-look,VERB
-look,VERB
-looking,ADJ
 look,VERB
 look,VERB
 look,VERB

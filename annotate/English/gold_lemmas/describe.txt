@@ -18,4 +18,3 @@ describe,VERB
 describe,VERB
 describe,VERB
 describe,VERB
-describe,VERB

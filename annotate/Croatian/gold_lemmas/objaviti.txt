@@ -1,8 +1,8 @@
 objava,NOUN
-objaviti,VERB
 objava,NOUN
 objaviti,VERB
 objaviti,VERB
+objava,NOUN
 objaviti,VERB
 objaviti,VERB
 objaviti,VERB

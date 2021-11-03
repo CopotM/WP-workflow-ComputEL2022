@@ -1,9 +1,7 @@
 pick,VERB
+pick,VERB
+pick,VERB
 pick,NOUN
-pick,VERB
-pick,VERB
-pick,VERB
-pick,VERB
 pick,VERB
 pick,VERB
 pick,VERB

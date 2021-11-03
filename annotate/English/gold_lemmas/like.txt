@@ -1,13 +1,12 @@
 like,ADP
 like,ADP
 like,ADP
+like,INTJ
+like,INTJ
 like,ADP
 like,ADP
 like,ADP
-like,ADJ
-like,ADP
-like,ADP
-like,SCONJ
+like,VERB
 like,VERB
 like,VERB
 like,VERB

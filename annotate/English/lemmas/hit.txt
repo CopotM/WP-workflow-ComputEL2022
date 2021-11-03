@@ -1,11 +1,11 @@
-"At the time of his promotion , he had",hit,True,a .322 average in 102 games with Altoona and .432 in 24 games for Indianapolis . [ 10 ]
-"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and",hit,True,leadoff for the rest of the season .
-"On May 31 , 2014 , against the Tampa Bay Rays at Fenway Park , Holt",hit,True,his first Major League home run .
-"He immediately impressed , making a sensational catch on the warning track to rob Ian Kinsler of a",hit,True,.
-"On July 9 , 2014 , against the Chicago White Sox , Holt drove in Daniel Nava in the bottom of the 9th inning for the first walk-off",hit,True,of his career . [ 13 ]
-What do you have to,hit,True,?
-So I,hit,True,okay ?
-Mom digs out Cara’s Cara ’s inhaler and Cara dutifully takes a,hit,True,.
-And just as the wash,hit,True,"us , prising us from the whale’s whale ’s speckled back and down into the sea , someone threw down a knotted rope and we hung on for dear life ."
-And then the horror of it all,hit,True,"me and I said , “ Sonia , up ! ”"
-I could see into his head better than I could see into my own ; he was scared that his attackers might think those hands were coming up to,hit,True,"back , that they'd they 'd read it as an act of defiance and hurt him even more ."
+,"So while I was in the library one of you guys came up to me , and said",hi,True,.
+,"But if you 're watching this ,",hi,True,thank you so much for coming and saying hi to me you actually made my whole day .
+,"So if you do go to FGCU and you ever see me on campus , like feel free to say",hi,True,because you'll you 'll make my day .
+,"And one of our friends , our common friends , he introduced us during study hall , and we just kind of",hit,True,it off from there .
+,"At the time of his promotion , he had",hit,True,a .322 average in 102 games with Altoona and .432 in 24 games for Indianapolis . [ 10 ]
+,"Holt again started 2014 in Triple-A , but was called up May 17 after an injury to Will Middlebrooks and",hit,True,leadoff for the rest of the season .
+,"On May 31 , 2014 , against the Tampa Bay Rays at Fenway Park , Holt",hit,True,his first Major League home run .
+,"He immediately impressed , making a sensational catch on the warning track to rob Ian Kinsler of a",hit,True,.
+,"On July 9 , 2014 , against the Chicago White Sox , Holt drove in Daniel Nava in the bottom of the 9th inning for the first walk-off",hit,True,of his career . [ 13 ]
+,What do you have to,hit,True,?
+,So I,hit,True,okay ?

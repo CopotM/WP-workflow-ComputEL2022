@@ -1,9 +1,9 @@
-talk,NOUN
 talk,VERB
 talk,VERB
 talk,NOUN
 talk,VERB
 talk,VERB
+talk,NOUN
 talk,VERB
 talk,VERB
 talk,VERB
@@ -17,11 +17,6 @@ talk,VERB
 talk,VERB
 talk,VERB
 talk,VERB
-talk,VERB
-talk,VERB
-talk,VERB
-talk,VERB
-talk,VERB
-talk,VERB
+talk,NOUN
 talk,NOUN
 talk,NOUN

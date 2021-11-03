@@ -1,22 +1,17 @@
-"Thus , the time",it,True,"takes and the ways of visually exploring an artwork can inform about its relevance , interestingness , and even its aesthetic appeal ."
-"Measuring the composition and dynamics of a scientific workforce , particularly in a rapidly expanding field like computer science , is a crucial first step toward understanding how scholarly research is conducted and how",it,True,might be enhanced .
-"For many scientific fields , however , there is no central listing of all tenure-track faculty , making",it,True,difficult to define a rigorous sample frame for analysis .
-"Second , aggregate information provides only a high-level view of a field , which can make",it,True,difficult to investigate causality [ 23 ] .
-"This system is efficient and accurate , and",it,True,can be adapted to any academic discipline and used for continuous collection .
-The first demonstrates the validity and utility of the crawler by collecting census data for the field of computer science and comparing,it,True,"to a hand-curated census , collected in 2011 [ 19 ] ."
-"Given that need , we have developed software , based on Natural Language Processing , that automatically identifies enjambment in Spanish , and applied",it,True,"to a corpus of approx. 3750 sonnets by ca. 1000 authors , from the 15th to the 19th century ."
-"Such an organization is surely permissible , but",it,True,has had the unfortunate ( and likely intended ) effect of muddying debates in the public forum by misleading people into thinking that the college speaks for the pediatric profession at large .
-"Insofar as the larger organization , with a broader membership base , can be expected to reflect a wider range of expert opinions and a higher degree of expertise ,",it,True,is reasonable to give its views greater weight than those of the smaller organization .
-When ACPeds allows or encourages the impression that,it,True,"speaks for the profession , it introduces an epistemic pollutant ."
-The controversy surrounding Beall’s Beall ’s decision indicates how difficult,it,True,is to make such judgments — even for professionals .
-She tries to,sit,True,"down , but I just keep on tugging and she follows me , gulping and wailing ."
-"It was the first time she had been to his apartment , and she stood square in the center of his bedroom , her arms folded against her body as if she was afraid to",sit,True,"down , to touch something ."
-"I mean there’s there ’s certainly signs of it , and in the United States too , in fact we had a",sit,True,"down strike in the United States not long ago , which is a very militant labor action ."
-"Sit down strikes which began at a significant level in the 1930’s were very threatening to management and ownership , because the",sit,True,"down strike is one step before workers taking over the factory and running it and kicking out the management , and probably doing a better job ."
-"This coffee table over here , it's it 's glass and has two levels , so it's it 's really good when we have multiple friends over , and we have lots of food to put on the table , or if we 're playing board games , we can have people",sit,True,"around it , and still have a lot of space to lay everything out ."
-We have two chairs where we can,sit,True,"down and sort of enjoy the weather when it is a little bit better , um but now it's it 's really cold so just gonna gon na close it ."
-"You can see them visiting and talking as they stroll along the streets ,",sit,True,in the plazas or dine in the many sidewalk restaurants .
-"If you aren't are n't certain , turn off the oven earlier and let them",sit,True,for a few more minutes rather than bake them into rocks .
-If a player is pegged they have to stop what they 're doing and pay a penalty ; i.e. ( drop the quaffle in the case of a chaser ) and run back to and touch their goal post or alternatively,sit,True,down for 10 seconds .
-Let the mixture,sit,True,for a day or two .
-Cara,sits,True,"in her booster seat in the back of the car , wheezing all the way home , getting worse and worse , and by the time we pull in the driveway , she’s she ’s got that white look around her mouth ."
+,"However ,",it,True,is not enough to have attained such native-like levels .
+,"Crucially ,",it,True,"is also desirable to retain them , even in the absence of continued practice or exposure to the L2 ."
+,"In the present study , we examine the outcomes of such a period of no exposure on the neurocognition of L2 grammar : that is , whether a substantial period of no exposure leads to decreased proficiency and / or less native-like neural processes ( “ use",it,True,"or lose it ” [ 20 ] ) , no such changes , or perhaps whether even higher proficiency and / or more native-like processing may be observed ."
+,"Such loss has been observed after as little as a few months of limited exposure , e.g. , after a 1 - 7 month [ 23 ] or 6 month delay [ 21 ] , as well as after 2 years [ 18 ] , though in one case",it,True,"was observed only by 3 - 5 years , and not earlier [ 17 ] ."
+,"Although attrition may take place within the first few years , some studies suggest that",it,True,"then appears to level off , with no further losses occurring [ 17 ] , [ 18 ] ."
+,At the initial meeting,it,True,became apparent that most participants were there to learn more about digital humanities and were not ( yet ) in the situation where they were able to offer expertise on the subject .
+,"About his "" protégé "" he wrote , "" He has been my almost constant associate since October , 1805 , when I entered Trinity College . His voice first attracted my attention , his countenance fixed",it,True,", and his manners attached me to him for ever . """
+,In,it,True,", Norton observed :"
+,"Yes , I don't do n't know why I got pulled on today , but I did , so probably just",sit,True,"in there , read some ultrasounds and get out early ."
+,She tries to,sit,True,"down , but I just keep on tugging and she follows me , gulping and wailing ."
+,"It was the first time she had been to his apartment , and she stood square in the center of his bedroom , her arms folded against her body as if she was afraid to",sit,True,"down , to touch something ."
+,"I mean there’s there ’s certainly signs of it , and in the United States too , in fact we had a",sit,True,"down strike in the United States not long ago , which is a very militant labor action ."
+,"Sit down strikes which began at a significant level in the 1930’s were very threatening to management and ownership , because the",sit,True,"down strike is one step before workers taking over the factory and running it and kicking out the management , and probably doing a better job ."
+,"This coffee table over here , it's it 's glass and has two levels , so it's it 's really good when we have multiple friends over , and we have lots of food to put on the table , or if we 're playing board games , we can have people",sit,True,"around it , and still have a lot of space to lay everything out ."
+,We have two chairs where we can,sit,True,"down and sort of enjoy the weather when it is a little bit better , um but now it's it 's really cold so just gonna gon na close it ."
+,"You can see them visiting and talking as they stroll along the streets ,",sit,True,in the plazas or dine in the many sidewalk restaurants .
+,Cara,sits,True,"in her booster seat in the back of the car , wheezing all the way home , getting worse and worse , and by the time we pull in the driveway , she’s she ’s got that white look around her mouth ."

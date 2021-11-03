@@ -23,5 +23,3 @@ allow,VERB
 allow,VERB
 allow,VERB
 allow,VERB
-allow,VERB
-allow,VERB

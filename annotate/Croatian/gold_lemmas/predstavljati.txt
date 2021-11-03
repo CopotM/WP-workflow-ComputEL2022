@@ -16,11 +16,10 @@ predstavljati,VERB
 predstavljati,VERB
 predstavljati,VERB
 predstavljati,VERB
-predstavljati,VERB
-predstavljati,VERB
-predstavljati,VERB
-predstavljati,VERB
-predstavljati,VERB
+predstavljanje,NOUN
+predstavljanje,NOUN
+predstavljanje,NOUN
+predstavljanje,NOUN
 predstavljanje,NOUN
 predstavljanje,NOUN
 predstavljanje,NOUN
@@ -30,6 +29,10 @@ predstavljanje,NOUN
 predstavljanja,NOUN
 predstavljanje,NOUN
 predstavljanje,NOUN
+predstavljati,VERB
+predstavljati,VERB
+predstavljati,VERB
+predstavljati,VERB
 predstavljati,VERB
 predstavljati,VERB
 predstavljati,VERB

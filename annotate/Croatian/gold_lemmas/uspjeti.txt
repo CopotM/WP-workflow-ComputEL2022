@@ -22,9 +22,4 @@ uspjeti,VERB
 uspjeti,VERB
 uspjeti,VERB
 uspjeti,VERB
-uspjeti,VERB
-uspjeti,VERB
-uspjeti,VERB
-uspjeti,VERB
-uspjeti,VERB
 uspjeti,ADV

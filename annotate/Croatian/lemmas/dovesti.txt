@@ -1,15 +1,16 @@
-John Klusmire priveden je na temelju optužbi da je kanio napustiti luku Pirej bez dozvole i,dovesti,True,"u opasnost živote 36 putnika , četiri člana posade i deset novinara ."
-""" Drugim riječima , znatno više ljudi bit će u mogućnosti dobiti kredite , što će",dovesti,True,"do manjih troškova kredita "" ."
-U sklopu tranzicije Ured visokog predstavnika ( OHR ) proći će kroz proces restrukturiranja koji će na koncu,dovesti,True,do zamjene OHR-a Uredom posebnog predstavnika EU ( EUSR ) .
-Na početku hrvatske samostalnosti hrvatska se politika odlučila za politiku nevidljive ruke koja će,dovesti,True,"do optimalne alokacije resursa , do dugoročno održiva razvitka , do najveće proizvodnje , izvoza , zaposlenosti , do povećanja standarda hrvatskih građana ."
-"Predsjednik kompanije ispričao se Istrijanima zbog gluposti koje su radili na početku , obećao je da će sve",dovesti,True,"u red , ali od toga nema ništa ."
-"Kako se dijete spušta također možete osjećati povećan pritisak u donjem dijelu trbuha , što može",dovesti,True,"do nelagode kod hodanja , a vjerojatno ćete morati i mokriti češće ."
-"No ostaje pitanje što je s planovima za koje je predvidivo da mogu , ali ne moraju nužno",dovesti,True,do zločina ?
-"Marley je tada , s ranom od metka , uspio",dovesti,True,dva najveća politička suparnika da se suoče jedan s drugim na pozornici zbog čega je kasnije nagrađen poveljom za mir od strane Ujedinjenih Naroda .
-Operu će,izvesti,True,rock sastav No Smoking Orchestra -- u kojem Kusturica svira bas gitaru .
-"Jednostavna primjena ovog principa je zrcaljenje kompletnog diskovnog prostora jednog servera na drugi , no LeftHand može",izvesti,True,sve moderne razine RAID-a na volumenima podataka između većeg broja servera .
-Djevojke dolaze u ponedjeljak i iduća 2 tjedna aktivno će pripremati program koji će 03. 09.,izvesti,True,pred zagrebačkom publikom .
-"Potaknuta je internet stranicom koju je postavio oporbeni kandidat Ognjen Tadić , a koja koristi URL koji bi mogao",navesti,True,posjetitelje da pomisle kako se radi o službenoj internet stranici predsjedništva RS .
-""" Može li mi bilo tko",navesti,True,"neki otok koji koristi pogon za pročišćavanje otpadnih voda ? "" , citirale su novine pitanje Sekipa Yalcina , 48-godišnjeg ribara ."
-"Ako je više političkih stranaka predložilo zajedničku listu , ona će se",navesti,True,na glasačkom listu prema nazivu prve po redu političke stranke u prijedlogu .
-""" Na prosvjedu protiv tražitelja azila neki ljudi su koristili vrlo zapaljivu retoriku , ne znam jesu li svjesni kuda bi to moglo",odvesti,True,""" , izjavio je za SETimes izvršni ravnatelj Centra za zaštitu i pomoć tražiteljima azila Radoš Đurović ."
+,Otkazivanje parade u Srbiji moglo bi,dovesti,True,do zabrana udruga
+,Upozorili su kako bi propuštanje prigode za brzim djelovanjem moglo pokvariti međunarodni ugled zemlje i,dovesti,True,"do izolacije , siromaštva i stagnacije ."
+,Ove tri primjene mogu se,dovesti,True,"u vezu s grubom podjelom matematike na izučavanje strukture , prostora i izmjena ."
+,"Ako ovo primijenimo na neku tvrtku i njene robne marke , možemo zaključiti da integracija u određenu društvenu zajednicu ima svojih pogodnosti , no samo ukoliko njeni članovi nisu zbog toga uznemireni ili otuđeni , što bi u najgorem slučaju moglo",dovesti,True,do toga da napuste takvu društvenu mrežu .
+,"Ovo stanje može ozbiljno remetiti kvalitetu života , a u težim slučajevima",dovesti,True,i do težih komplikacija .
+,John Klusmire priveden je na temelju optužbi da je kanio napustiti luku Pirej bez dozvole i,dovesti,True,"u opasnost živote 36 putnika , četiri člana posade i deset novinara ."
+,""" Drugim riječima , znatno više ljudi bit će u mogućnosti dobiti kredite , što će",dovesti,True,"do manjih troškova kredita "" ."
+,U sklopu tranzicije Ured visokog predstavnika ( OHR ) proći će kroz proces restrukturiranja koji će na koncu,dovesti,True,do zamjene OHR-a Uredom posebnog predstavnika EU ( EUSR ) .
+,Operu će,izvesti,True,rock sastav No Smoking Orchestra -- u kojem Kusturica svira bas gitaru .
+,"Jednostavna primjena ovog principa je zrcaljenje kompletnog diskovnog prostora jednog servera na drugi , no LeftHand može",izvesti,True,sve moderne razine RAID-a na volumenima podataka između većeg broja servera .
+,Djevojke dolaze u ponedjeljak i iduća 2 tjedna aktivno će pripremati program koji će 03. 09.,izvesti,True,pred zagrebačkom publikom .
+,"Potaknuta je internet stranicom koju je postavio oporbeni kandidat Ognjen Tadić , a koja koristi URL koji bi mogao",navesti,True,posjetitelje da pomisle kako se radi o službenoj internet stranici predsjedništva RS .
+,""" Može li mi bilo tko",navesti,True,"neki otok koji koristi pogon za pročišćavanje otpadnih voda ? "" , citirale su novine pitanje Sekipa Yalcina , 48-godišnjeg ribara ."
+,"Ako je više političkih stranaka predložilo zajedničku listu , ona će se",navesti,True,na glasačkom listu prema nazivu prve po redu političke stranke u prijedlogu .
+,"Ako je pak mačka neprekidno pokazuje , trebalo bi je",odvesti,True,kod veterinara .
+,""" Na prosvjedu protiv tražitelja azila neki ljudi su koristili vrlo zapaljivu retoriku , ne znam jesu li svjesni kuda bi to moglo",odvesti,True,""" , izjavio je za SETimes izvršni ravnatelj Centra za zaštitu i pomoć tražiteljima azila Radoš Đurović ."

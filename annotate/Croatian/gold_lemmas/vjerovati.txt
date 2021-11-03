@@ -9,3 +9,4 @@ vjerovanje,NOUN
 vjerovati,VERB
 vjerovati,VERB
 vjerovati,VERB
+vjerovati,VERB

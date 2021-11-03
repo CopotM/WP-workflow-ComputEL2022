@@ -8,6 +8,3 @@ put,VERB
 put,VERB
 put,VERB
 put,VERB
-put,VERB
-put,VERB
-put,VERB

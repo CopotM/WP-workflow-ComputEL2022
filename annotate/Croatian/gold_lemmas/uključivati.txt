@@ -2,9 +2,13 @@ uključivati,VERB
 uključivati,VERB
 uključivati,VERB
 uključivati,VERB
+uključivati,VERB
 uključivanje,NOUN
 uključivanje,NOUN
 uključivanje,NOUN
+uključivati,VERB
+uključivati,VERB
+uključivati,VERB
 uključivati,VERB
 uključivati,VERB
 uključivati,VERB

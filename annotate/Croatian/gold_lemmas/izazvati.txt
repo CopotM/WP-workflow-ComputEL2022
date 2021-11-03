@@ -9,9 +9,8 @@ izazvati,VERB
 izazvati,VERB
 izazvati,VERB
 izazvati,VERB
+izazvati,VERB
 izazvati,ADJ
-izazvati,VERB
-izazvati,VERB
 izazvati,VERB
 izazvati,VERB
 izazvati,VERB

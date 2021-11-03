@@ -1,21 +1,21 @@
-"By creating a Geofence with an erroneous location from its central location , the device will",receive,True,incorrect location notifications .
-She was the first woman to,receive,True,"the Pritzker Architecture Prize , in 2004 ."
-Did you think when you created it that the Santorum cocktail would,receive,True,this news coverage ?
-A mean cost per student criterion is used to tax only the schools that,receive,True,a fee higher than the mean cost per student fixed by the State .
-"All airlines flying into New Zealand have been requested to read a health message upon landing , and all arrivals into New Zealand will",receive,True,health information cards alongside the standard customs declaration form .
-He,received,True,his Ph.D. in Linguistics from the University of Michigan in 1961 .
-Fillmore,received,True,the 2012 Lifetime Achievement Award of the Association for Computational Linguistics . [ 3 ]
-"His breakthrough role was in the romantic comedy , Chasing Liberty ( 2004 ) , for which he",received,True,a nomination at Teen Choice Awards for Choice Breakout Movie Star - Male .
-"In 2017 , Goode portrayed Antony Armstrong-Jones , 1st Earl of Snowdon in the Netflix biographical drama series The Crown , for which he",received,True,a Primetime Emmy Award nomination for Outstanding Guest Star in a Drama Series . [ 2 ]
-She,received,True,"the UK's UK 's most prestigious architectural award , the Stirling Prize , in 2010 and 2011 ."
-Holt,received,True,"his first championship ring when the Red Sox won the World Series over the St. Louis Cardinals in six games , despite not playing in the postseason ."
-"In 1943 , Nida",received,True,his Ph.D. in Linguistics from the University of Michigan .
-Your Santorum cocktail creation has already,received,True,"media coverage from publications including ; The Brooklyn Paper , The New York Times , Jezebel , Metro.us , EDGE on the Net , and Instinct Magazine ."
-You have,received,True,a good deal of attention recently .
-"The band I started in 1993 , Spoken Motion ,",received,True,a lot of recognition as a spoken word band born out of the New York spoken word scene .
-"After news of the police response was reported , Mohamed",received,True,support online ranging from US President Barack Obama to Facebook creator Mark Zuckerberg .
-"Tulsa lies in northeastern Oklahoma , at the convergence of the Great Plains and the Ozark Plateau , and",receives,True,"an average of 40 inches of precipitation each year , both of which account for its abundant beautiful rolling green terrain ."
-"He returned to the US ,",receiving,True,his doctorate at the University of Michigan and then teaching at The Ohio State University in Columbus .
-USI was not alone in,receiving,True,a donation .
-The function of this palace was for holding religious-national ceremonies and royal festivals and for,receiving,True,royal ambassadors and guests .
-"For most people ,",receiving,True,compliments is only fun up to a point — getting more than one or two can make someone feel embarrassed and self-conscious .
+,Raucous laughter greeted the suggestions of the other body parts that could,receive,True,the same treatment .
+,If you do not,receive,True,"the Republican nomination , would you consider running as a third party candidate ?"
+,"By creating a Geofence with an erroneous location from its central location , the device will",receive,True,incorrect location notifications .
+,She was the first woman to,receive,True,"the Pritzker Architecture Prize , in 2004 ."
+,Did you think when you created it that the Santorum cocktail would,receive,True,this news coverage ?
+,A mean cost per student criterion is used to tax only the schools that,receive,True,a fee higher than the mean cost per student fixed by the State .
+,"All airlines flying into New Zealand have been requested to read a health message upon landing , and all arrivals into New Zealand will",receive,True,health information cards alongside the standard customs declaration form .
+,Byron,received,True,"his early formal education at Aberdeen Grammar School , and in August 1799 entered the school of Dr. William Glennie , in Dulwich . [ 17 ]"
+,Sensations and information are,received,True,"by our brains , filtered through emotions and memories , and processed to become thoughts ."
+,Jespersen,received,True,"honorary degrees from Columbia University in New York ( 1910 ) , St. Andrews University in Scotland ( 1925 ) , and the Sorbonne in Paris ( 1927 ) ."
+,He,received,True,his Ph.D. in Linguistics from the University of Michigan in 1961 .
+,Fillmore,received,True,the 2012 Lifetime Achievement Award of the Association for Computational Linguistics . [ 3 ]
+,"His breakthrough role was in the romantic comedy , Chasing Liberty ( 2004 ) , for which he",received,True,a nomination at Teen Choice Awards for Choice Breakout Movie Star - Male .
+,"In 2017 , Goode portrayed Antony Armstrong-Jones , 1st Earl of Snowdon in the Netflix biographical drama series The Crown , for which he",received,True,a Primetime Emmy Award nomination for Outstanding Guest Star in a Drama Series . [ 2 ]
+,She,received,True,"the UK's UK 's most prestigious architectural award , the Stirling Prize , in 2010 and 2011 ."
+,"Tulsa lies in northeastern Oklahoma , at the convergence of the Great Plains and the Ozark Plateau , and",receives,True,"an average of 40 inches of precipitation each year , both of which account for its abundant beautiful rolling green terrain ."
+,"The senses serve as the interface between the mind and the external environment ,",receiving,True,stimuli and translating it into nervous impulses that are transmitted to the brain .
+,"He returned to the US ,",receiving,True,his doctorate at the University of Michigan and then teaching at The Ohio State University in Columbus .
+,USI was not alone in,receiving,True,a donation .
+,The function of this palace was for holding religious-national ceremonies and royal festivals and for,receiving,True,royal ambassadors and guests .
+,"For most people ,",receiving,True,compliments is only fun up to a point — getting more than one or two can make someone feel embarrassed and self-conscious .

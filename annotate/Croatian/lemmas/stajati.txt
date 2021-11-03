@@ -1,8 +1,9 @@
-"Kišno vrijeme nije pokolebalo ljubitelje glazbe , deseci tisuća kojih su",stajali,True,"u blatu pjevajući "" I'm Only Happy When it Rains "" ( Sretan sam samo kad kiši ) sa Shirley Manson iz Garbagea ."
-U skladu s time je i njihov boravak u,stajama,True,"uređen na ugodan i komforan način , dok je ishrana prirodna i uglavnom dolazi s vlastite farme ."
-""" Ne želimo se miješati u bilo kakve unutarnje probleme , ali smo vrlo zainteresirani za pronalaženje prijateljskih rješenja "" , rekao je Prodi , dok je Sanader",stajao,True,pored njega .
-On je,stajao,True,uz ministra i kimanjem glave potvrđivao njegove izjave .
-"Vrištala je na njega , vrijeđala ga , gađala ga odjećom a on je",stajao,True,i šutio .
-"Trajkov je istaknuo kako je nakana Bugarske zadržati 50 posto udjela u elektrani Belene , čija bi izgradnja mogla",stajati,True,10 milijardi eura .
-Ideja je da obilježe što je moguće veći dio teritorija -- jednostavno ne treba,stajati,True,"preblizu "" ."
-"Prema novom prijedlogu Zakona , taj bi prekršaj trebao",stajati,True,između 5 i 15 tisuća kuna uz zaprijećenu kaznu zatvora u trajanju do 60 dana .
+,"Kišno vrijeme nije pokolebalo ljubitelje glazbe , deseci tisuća kojih su",stajali,True,"u blatu pjevajući "" I'm Only Happy When it Rains "" ( Sretan sam samo kad kiši ) sa Shirley Manson iz Garbagea ."
+,U skladu s time je i njihov boravak u,stajama,True,"uređen na ugodan i komforan način , dok je ishrana prirodna i uglavnom dolazi s vlastite farme ."
+,""" Ne želimo se miješati u bilo kakve unutarnje probleme , ali smo vrlo zainteresirani za pronalaženje prijateljskih rješenja "" , rekao je Prodi , dok je Sanader",stajao,True,pored njega .
+,On je,stajao,True,uz ministra i kimanjem glave potvrđivao njegove izjave .
+,"Vrištala je na njega , vrijeđala ga , gađala ga odjećom a on je",stajao,True,i šutio .
+,"Kolika će biti vrijednost distribucije , znat će se tek za nekoliko tjedana , a nagađa se da bi to porezne obveznike moglo",stajati,True,300 milijuna kuna .
+,"Trajkov je istaknuo kako je nakana Bugarske zadržati 50 posto udjela u elektrani Belene , čija bi izgradnja mogla",stajati,True,10 milijardi eura .
+,Ideja je da obilježe što je moguće veći dio teritorija -- jednostavno ne treba,stajati,True,"preblizu "" ."
+,"Prema novom prijedlogu Zakona , taj bi prekršaj trebao",stajati,True,između 5 i 15 tisuća kuna uz zaprijećenu kaznu zatvora u trajanju do 60 dana .

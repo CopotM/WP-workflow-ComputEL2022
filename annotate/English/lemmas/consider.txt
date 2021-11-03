@@ -1,25 +1,21 @@
-"In a future study , it is also important to",consider,True,"if additional training in the difference between reporting on felicity and truth value judgments would impact results , or if more naturalistic experimental conditions ( e.g. , demonstrating actions using real objects instead of two-dimensional depictions ) would be beneficial ."
-How reliable do you,consider,True,your results to be ?
-"Gorbachev also proposed a nuclear free weapons zone in the region , but the U.S wouldn’t would n’t",consider,True,that .
-They,consider,True,"modernity as their enemy , but then they have two problems ."
-New Zealand begins process to,consider,True,changing national flag design
-If you cannot can not go to the Cuban Consulate you may,consider,True,using VisaCuba ( [ 3 ] ) because it may be cheaper .
-A strategy that might prove helpful is to,consider,True,how fortunate you are that life has been good to you so far .
-"Alternatively , if life has not been good to you so far , ( and considering your current situation this seems more likely )",consider,True,how lucky you are that it will not be troubling you much longer .
-Whenever you are presented with something that you don’t do n’t want to do or would,consider,True,"putting off , ask yourself , “ will this take me less than two minutes to finish ? ”"
-"First , the literature shows a debate about which specific syntactic units can be",considered,True,"to trigger enjambment , if split across two lines , and whether lexical and syntactic criteria are sufficient to identify enjambment ."
-"In Spanish tradition , enjambment ( in Spanish , "" encabalgamiento "" ) is",considered,True,"to take place when a pause suggested by poetic form ( e.g. at the end of a line or across hemistichs ) occurs between strongly connected lexical or syntactic units , triggering an unnatural cut between those units ."
-His typology is still,considered,True,"current , and was adopted by later authors , although complementary enjambment typologies have been proposed , as Martínez Cantón ( 2011 ) reviews ."
-The acute and chronic effects are the normal responses of the skin to UVR ; acute reactions,considered,True,will be erythema ( sunburn ) and vitamin D production .
-Replication studies are,considered,True,by many to play a fundamental role in any scientific endeavor .
-The last two are,considered,True,her best work .
-"Around this time he had copied for him a Hebrew Gospel , of which fragments are preserved in his notes , and is known today as the Gospel of the Hebrews , and which the Nazarenes",considered,True,to be the true Gospel of Matthew . [ 19 ]
-"The other two anti-establishment camp elects were Hui Chi-fung from the Democratic Party and Tanya Chan of the Civic Party , both",considered,True,to be in the pan-democracy camp .
-"The city reasoned , "" because the users of the private schools pay a frequency fee , this kind of activity is",considered,True,"as a commercial one "" ( ( it ) ) ."
-Several scenarios were,considered,True,because of uncertainty of future levels of ozone pollution .
-"All but 10 of the remaining passengers on the flight , who are not",considered,True,"to be close contacts , have also been contacted to provide reassurance and answer any questions they might have ; those 10 that haven't have n't been contacted did not provide accurate contact information ."
-Maybe this is not surprising,considering,True,"that a recent study analyzing the relationship between posture and femur cross-sectional properties failed to find differences between birds and non-avian theropods [ 24 ] , suggesting that simple morphological correlates of limb posture should be used with caution ."
-"In their subsequent discussions and collaborations , Fillmore came to acknowledge the importance of",considering,True,corpus data . [ 2 ]
-"Alternatively , if life has not been good to you so far , ( and",considering,True,your current situation this seems more likely ) consider how lucky you are that it will not be troubling you much longer .
-The narrative review,considers,True,"challenges in replication research and is largely informed by commentaries and metascience from psychology , given that the cognitive and social subdomains of psychology are highly influential in L2 research , and also from education , another key sister discipline ."
-"Determined to make our contribution to regional and global security , the Albanian Government",considers,True,the country's country 's integration into NATO to be one of its major objectives .
+,( Note that we do not,consider,True,"case studies , purely observational data , or research on L2s acquired by children ; for a comprehensive review , see [ 16 ] ) ."
+,"Seventy-five percent of our people wanted to have witnesses because that was their understanding of what a trial is , not just argument at the beginning and argument at the end , but evidence for jurors who have pledged to be impartial to",consider,True,.
+,"If you do not receive the Republican nomination , would you",consider,True,running as a third party candidate ?
+,"In a future study , it is also important to",consider,True,"if additional training in the difference between reporting on felicity and truth value judgments would impact results , or if more naturalistic experimental conditions ( e.g. , demonstrating actions using real objects instead of two-dimensional depictions ) would be beneficial ."
+,How reliable do you,consider,True,your results to be ?
+,"Gorbachev also proposed a nuclear free weapons zone in the region , but the U.S wouldn’t would n’t",consider,True,that .
+,They,consider,True,"modernity as their enemy , but then they have two problems ."
+,New Zealand begins process to,consider,True,changing national flag design
+,Though some,considered,True,"him insane or eccentric , citizens of San Francisco celebrated his regal presence and his proclamations , such as his order that the United States Congress be dissolved by force and his numerous decrees calling for a bridge connecting San Francisco to Oakland , and a corresponding tunnel to be built under San Francisco Bay ."
+,"By 1859 , Norton had become completely disgruntled with what he",considered,True,the inadequacies of the legal and political structures of the United States .
+,"To this day , about 10 or 12 of these World War II Japanese shipwrecks comprise what is",considered,True,one of the best dive sites in the world .
+,"Thus , all estimates reported here can be",considered,True,nationally representative of the United States .
+,"Language : Its Nature , Development and Origin ( 1922 ) is",considered,True,by many to be his masterpiece .
+,"Interestingly , these philosophers thought about atoms and “ elements ” as philosophical concepts , but apparently never",considered,True,performing experiments to test their ideas .
+,"First , the literature shows a debate about which specific syntactic units can be",considered,True,"to trigger enjambment , if split across two lines , and whether lexical and syntactic criteria are sufficient to identify enjambment ."
+,"In Spanish tradition , enjambment ( in Spanish , "" encabalgamiento "" ) is",considered,True,"to take place when a pause suggested by poetic form ( e.g. at the end of a line or across hemistichs ) occurs between strongly connected lexical or syntactic units , triggering an unnatural cut between those units ."
+,Maybe this is not surprising,considering,True,"that a recent study analyzing the relationship between posture and femur cross-sectional properties failed to find differences between birds and non-avian theropods [ 24 ] , suggesting that simple morphological correlates of limb posture should be used with caution ."
+,"In their subsequent discussions and collaborations , Fillmore came to acknowledge the importance of",considering,True,corpus data . [ 2 ]
+,"Alternatively , if life has not been good to you so far , ( and",considering,True,your current situation this seems more likely ) consider how lucky you are that it will not be troubling you much longer .
+,The narrative review,considers,True,"challenges in replication research and is largely informed by commentaries and metascience from psychology , given that the cognitive and social subdomains of psychology are highly influential in L2 research , and also from education , another key sister discipline ."
+,"Determined to make our contribution to regional and global security , the Albanian Government",considers,True,the country's country 's integration into NATO to be one of its major objectives .

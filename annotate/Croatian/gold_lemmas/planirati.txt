@@ -21,8 +21,8 @@ planirati,VERB
 planirati,VERB
 planirati,VERB
 planirati,VERB
-planirati,VERB
-planirati,VERB
+planirati,ADJ
+planirati,ADJ
 planirati,ADJ
 planirati,ADJ
 planirati,ADJ
@@ -41,4 +41,5 @@ planiranje,NOUN
 planiranje,NOUN
 planiranje,NOUN
 planiranje,NOUN
+planirati,ADJ
 planirati,ADJ

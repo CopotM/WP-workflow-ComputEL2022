@@ -21,6 +21,8 @@ donijeti,VERB
 donijeti,VERB
 donijeti,VERB
 donijeti,VERB
+donijeti,VERB
+donijeti,VERB
 iznijeti,VERB
 nanijeti,VERB
 odnijeti,VERB

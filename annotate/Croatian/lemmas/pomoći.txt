@@ -1,22 +1,16 @@
-Misija aktivista koji su planirali prevesti,pomoć,True,"u Pojas Gaze suočila se u subotu ( 2. srpnja ) s velikom zaprekom , nakon što su grčke vlasti zaustavile njihov konvoj i uhitile kapetana jednog od brodova koji je plovio pod američkom zastavom , što je izazvalo nove prijepore ."
-"U međuvremenu , Kvartet bliskoistočnih mirovnih posrednika , koji čine UN , Sjedinjene Američke Države , EU i Rusija , objavio je u subotu priopćenje u kojem pozivaju "" sve koji žele isporučiti",pomoć,True,"građanima Gaze da to učine preko uspostavljenih kanala , kako bi se njihov teret mogao pregledati i prebaciti već uspostavljenim kopnenim putevima "" ."
-"Paneuropski savez za naslijeđe -- neprofitna organizacija koja okuplja više od 200 nevladinih udruga -- priključila se Europskom vijeću i UNESCO-u i uputila pismo turskom ministru vanjskih poslova Abdullahu Gulu , tražeći",pomoć,True,u spašavanju Allianoia i njegovih rimskih kupatila .
-"Od 2004 , oni pružaju besplatnu pravnu",pomoć,True,žrtvama .
-"Dvojba Bugarske je treba li zaboraviti milijardu eura koju je uložila u izgradnju nuklearne elektrane Belene i odbaciti projekt , ili pronaći način za njegovu realizaciju uz",pomoć,True,Rusije .
-Španjolska obećava,pomoć,True,"Bugarskoj u pripremi za članstvo u EU , kao i povećanje španjolskih ulaganja u tu balkansku zemlju ."
-"Droutsas je također kazao kako bi , unatoč sadašnjim financijskim poteškoćama , EU trebala pronaći potrebna sredstva za",pomoć,True,zemljama kandidatima u njihovim reformskim koracima .
-Medicinske sestre u Rodilištu u Tirani kažu kako bi ekonomska,pomoć,True,mladim parovima kojima je potrebna povećala sadašnju stopu nataliteta .
-Samo grad Tirana nudi takvu,pomoć,True,", malen iznos od 42 eura po djetetu ."
-"Među njima su "" privremeno zaustavljanje privatizacije srednjih i velikih poduzeća koja posluju "" , uspostava "" privremenog fonda za potporu nezaposlenima "" i "" pregovori s velikim međunarodnim kreditnim institucijama o sredstvima za neodgodivu",pomoć,True,""" ."
-"Dodao je kako se Srbija sada suočava s drugom , težom etapom tranzicije - strukturalnim reformama - te ponudio",pomoć,True,EBRD-a u procesu .
-Grčka zaustavila konvoj brodova,pomoći,True,za Gazu
-"U duhu kompromisa , vlasti su predložile otpremanje",pomoći,True,korištenjem postojećih kanala koji su prihvatljivi Izraelu .
-""" Dijalog i suradnja među civilizacijama ne bi se trebali uvoditi silom i snagom nego nadom za mir i prosperitet "" , dodao je Trajkovski izražavajući uvjerenje kako će forum "" ponuditi rješenje za konkretne probleme s kojima se suočava regija i",pomoći,True,"našim zemljama u nadvladavanju postojećih teškoća "" ."
-"Skupina je dobila potporu EU , koja je nedavno odlučila financijski",pomoći,True,"napore u Allianoiu usmjerene na očuvanje grada , u okviru svojeg programa "" Kultura 2000 "" ."
-"Sporazumom od šest točaka , kojem je posredovao francuski predsjednik Nicolas Sarkozy , čija je zemlja sadašnji predsjedatelj šestomjesečnog rotirajućeg predsjedništva EU , utvrđuje se da Rusija i Gruzija moraju prestati s neprijateljstvima i osigurati slobodan pristup humanitarnoj",pomoći,True,.
-"Budu li nastojanja uspješna , ima nade kako bi povećani prihodi iz rastućeg turističkog sektora mogli",pomoći,True,u suzbijanju financijskih tegoba uzrokovanih globalnom recesijom .
-Hoće li to Grčkoj,pomoći,True,u kampanji da vrati nedostajuće kamenje Partenona ?
-Mnogi se Grci nadaju kako će ovaj napredni muzej,pomoći,True,"u povratku partenonskih mramornih kipova , koji su trenutno izloženi u Britanskom muzeju ."
-"Što se Kosova i Srbije tiče , i jedni i drugi bi trebali",pomoći,True,međunarodnoj zajednici u ponovnoj uspostavi reda na sjeveru i omogućavanju slobode kretanja i trgovine na tom području .
-Makedonija je dobila još 45 milijuna eura od EU u obliku bespovratne,pomoći,True,IPA .
-Španjolski premijer Jose Luis Rodriguez Zapatero izjavio je u četvrtak kako će njegova zemlja,pomoći,True,"Bugarskoj u ispunjenju zahtjeva EU , učeći je na koji način bolje upravljati fondovima financijske pomoći i dijeleći s njom svoje iskustvo u područjima reforme pravosuđa i javne uprave , prenijela je tiskovna agencija AP ."
+,"Snimka pokazuje predsjednika koji se naginje s pozornice s koje je držao govor u gradu Ploiesti tokom kampanje na lokalnim izborima prije pet godina , nastojeći čuti ženu koja je zatražila",pomoć,True,.
+,"Još jedno istaknuto mjesto u komisiji otići će Dacianu Ciolosu iz Rumunjske , koji je imenovan za sljedećeg povjerenika za poljoprivredu i ruralni razvitak , dok će bugarska ministrica vanjskih poslova Rumjana Želeva biti zadužena za međunarodne odnose i humanitarnu",pomoć,True,.
+,""" Sa 20.000 ljudi u Bugarskoj kojima je zbog velikih poplava potrebna hrana , madraci , cjepiva protiv hepatitisa , antibiotici i sredstva protiv kukaca , agencije UN-a nastavit će osiguravati hitnu",pomoć,True,""" , ističe se u priopćenju svjetske organizacije objavljenom u četvrtak ."
+,"Ukratko , sve ono što su imali prošlih godina , bilo da su radili za Zagreb i Zagrebački holding , primali od njih",pomoć,True,"ili samo plaćali njihove usluge , mogu u dobroj mjeri zaboraviti ."
+,BUGOJNO Donacija hrvatske Vlade kao,pomoć,True,"hrvatskim kulturnim ustanovama , školskim i zdravstvenim , u iznosu od sto tisuća kuna Prvoj osnovnoj školi u Bugojnu te svim djelatnicima i učenicima više je nego dobrodošla ."
+,""" Planirao je udare na ekonomske interese u Sjedinjenim Američkim Državama , uključujući plinovode i naftovode , brane hidroelektrana , kao i napade na brodove i tankere uz",pomoć,True,"glisera napunjenih eksplozivom u međunarodnim vodama . """
+,Međunarodna,pomoć,True,", posebice od EU , olakšala je poslijeratni oporavak regije , dok je proces izgradnje čvršćih veza s Unijom otvorio granice i umanjio primamljivost krijumčarenja ."
+,"U pismu , povjerenica EU za zdravstvo Androulla Vassiliou zatražila je",pomoć,True,zemlje u ubrzanju koraka EU na pronalaženju djelotvorna cjepiva .
+,""" Ljudi sa strane mogu",pomoći,True,", ali zainteresirane strane moraju prikupiti viziju , hrabrost i političku volju potrebnu za postizanje sporazuma , sa svim elementima koje podrazumijeva kompromis "" , kazao je Prendergast ."
+,"Cilj koncepta "" ustav u ustavu "" prije svega jest",pomoći,True,ogromnoj romskoj zajednici u regiji .
+,"Predsjednik Europske komisije ( EK ) Jose Manuel Barroso objavio je u petak ( 27. studenog ) sastav svojeg sljedećeg tima , izražavajući uvjerenje kako će novo vodstvo tijekom petogodišnjeg mandata",pomoći,True,u izvođenju Europe iz gospodarske krize .
+,Kao pomoćno sredstvo koje bi možda kroz proces izgradnje mira moglo,pomoći,True,"obnovi BiH kao normalne države , Daytonskim sporazumom uspostavljen je Ured visokog predstavnika ( OHR ) , organizacija koja nadgleda civilne aspekte mirovnog sporazuma i usklađuje rad svih ostalih međunarodnih agencija ."
+,Misija EU na Kosovu kaže kako će se protokolom potpisanim sa srbijanskom policijom,pomoći,True,napori na jačanju vladavine zakona te kako on ne prijeti suverenitetu Kosova .
+,Uspostavljeno je više od 20 skupina vojnog osoblja obučenog za pružanje,pomoći,True,"stanovništvu u pogođenim područjima , izjavio je u petak načelnik glavnog stožera vojske general Nikola Kolev priopćavajući plan obnove izrađen prošlog tjedna ."
+,"Na temelju plana , vojska će",pomoći,True,"u obnovi oko 69 kilometara nasipa , čišćenju 58 kilometara riječnih korita i raščišćavanju više od 8 kilometara cesta ."
+,Vlasti su u ponedjeljak započele pružanje,pomoći,True,"obiteljima koje su ostale bez domova , kako bi im pomogle pokriti makar dio svojih gubitaka ."

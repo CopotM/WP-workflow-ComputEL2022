@@ -19,7 +19,3 @@ consider,VERB
 consider,VERB
 consider,VERB
 consider,VERB
-consider,VERB
-consider,VERB
-consider,VERB
-consider,VERB

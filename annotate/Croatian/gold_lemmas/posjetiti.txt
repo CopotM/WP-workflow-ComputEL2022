@@ -16,10 +16,7 @@ posjet,NOUN
 posjet,NOUN
 posjet,NOUN
 posjet,NOUN
-posjet,NOUN
-posjet,NOUN
-posjet,NOUN
-posjet,NOUN
+posjeta,NOUN
 posjetiti,VERB
 posjeti,VERB
 posjetiti,VERB
@@ -29,6 +26,7 @@ posjetiti,VERB
 posjetiti,VERB
 posjetiti,VERB
 posjetiti,VERB
+posjetiti,VERB
 posjet,NOUN
 posjetiti,VERB
 posjetiti,VERB
@@ -38,9 +36,6 @@ posjetiti,VERB
 posjetiti,VERB
 posjetiti,VERB
 posjetiti,VERB
-posjetiti,VERB
-posjetiti,VERB
-posjetitelj,NOUN
 posjetitelj,NOUN
 posjetitelj,NOUN
 posjetitelj,NOUN
@@ -52,5 +47,11 @@ posjetitelj,NOUN
 posjetiti,VERB
 posjetiti,VERB
 posjetiti,VERB
+posjetiti,VERB
+posjetiti,VERB
+posjet,NOUN
+posjet,NOUN
+posjet,NOUN
+posjet,NOUN
 posjet,NOUN
 posjet,NOUN

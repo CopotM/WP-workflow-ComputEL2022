@@ -1,11 +1,8 @@
-"Parlament je sedam puta pokušavao izabrati predsjednika , ali nije uspijevao",pronaći,True,kandidata koji bi dobio većinu glasova .
-"Arheolozi , aktivisti za zaštitu životnog okoliša i međunarodne nevladine udruge udružuju snage kako bi pokušali",pronaći,True,"način za spašavanje arheološke lokacije stare 1.800 godina , koja bi trebala biti potopljena u studenom ove godine vodom s nove brane ."
-Dodao je kako bi tri konstitutivne etničke skupine trebale,pronaći,True,"načine da učine zemlju učinkovitijom , u cilju ostvarenja tih ciljeva ."
-"Kukan : Još jednom , ne bih želio nagađati o budućem dijalogu , ali smatram da će se na koncu morati",pronaći,True,praktično i političko rješenje .
-"Ako su to europske integracije , tada bi trebali spoznati da je potrebno , između ostalog ,",pronaći,True,trajno i mirno rješenje za sjever Kosova .
-"Dvojba Bugarske je treba li zaboraviti milijardu eura koju je uložila u izgradnju nuklearne elektrane Belene i odbaciti projekt , ili",pronaći,True,način za njegovu realizaciju uz pomoć Rusije .
-"Ili , kazao je Trajkov u intervjuu sofijskoj Novoj TV ,",pronaći,True,drugi put .
-"Obje strane morat će napraviti ustupke , kazao je Polt , opetujući kako je stajalište Washingtona da se rješenje treba",pronaći,True,do kraja godine .
-"Droutsas je također kazao kako bi , unatoč sadašnjim financijskim poteškoćama , EU trebala",pronaći,True,potrebna sredstva za pomoć zemljama kandidatima u njihovim reformskim koracima .
-"Momčilo Filipović , 46-godišnji otac dvoje djece i diplomirani inženjer , dva desetljeća imao je poteškoće",pronaći,True,posao u svojoj struci .
-Politički koordinatori Odbora za razvitak nisu uspjeli,pronaći,True,zajedničko stajalište o tom pitanju .
+,Antonijević iz YUCOM-a potvrđuje da Srbija tek treba,pronaći,True,mehanizam za priznavanje sveučilišnih diploma s Kosova .
+,YouGovova anketa je pokazala da ih 44 posto misli kako bi Charles trebao,pronaći,True,"način da sina učini sljedećim kraljem , nasuprot 37 posto ispitanika koliko ih misli da ne bi trebao ."
+,"Malo je mladih ljudi koje poznajem , koji sa strašću pristupaju svom zvanju i ulažu velik trud u stvari koje ih zanimaju , a da nisu uspjeli",pronaći,True,radno mjesto .
+,Samo 5 km od Kemera,pronaći,True,ćete Kiris - maleno turističko ljetovalište smješteno u zaljevu s prekrasnim pejzažom i planinama .
+,"Parlament je sedam puta pokušavao izabrati predsjednika , ali nije uspijevao",pronaći,True,kandidata koji bi dobio većinu glasova .
+,"Arheolozi , aktivisti za zaštitu životnog okoliša i međunarodne nevladine udruge udružuju snage kako bi pokušali",pronaći,True,"način za spašavanje arheološke lokacije stare 1.800 godina , koja bi trebala biti potopljena u studenom ove godine vodom s nove brane ."
+,Dodao je kako bi tri konstitutivne etničke skupine trebale,pronaći,True,"načine da učine zemlju učinkovitijom , u cilju ostvarenja tih ciljeva ."
+,"Kukan : Još jednom , ne bih želio nagađati o budućem dijalogu , ali smatram da će se na koncu morati",pronaći,True,praktično i političko rješenje .

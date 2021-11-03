@@ -1,11 +1,8 @@
 how,SCONJ
+how,ADV
 how,SCONJ
 how,SCONJ
-how,SCONJ
-how,SCONJ
-how,SCONJ
-how,SCONJ
-how,SCONJ
+how,ADV
 how,SCONJ
 how,SCONJ
 how,SCONJ
@@ -18,8 +15,7 @@ show,VERB
 show,VERB
 show,VERB
 show,VERB
-show,NOUN
-show,NOUN
+show,VERB
 show,VERB
 show,VERB
 show,VERB

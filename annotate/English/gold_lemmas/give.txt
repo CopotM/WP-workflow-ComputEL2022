@@ -20,7 +20,3 @@ give,VERB
 give,VERB
 give,VERB
 give,VERB
-give,VERB
-give,VERB
-give,VERB
-give,VERB

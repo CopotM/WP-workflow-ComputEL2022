@@ -10,9 +10,10 @@ feel,VERB
 feel,VERB
 feel,VERB
 feel,VERB
+feeling,NOUN
+feeling,NOUN
 feel,VERB
-feeling,NOUN
-feeling,NOUN
+feel,VERB
 feel,VERB
 feel,VERB
 feel,VERB

@@ -6,17 +6,11 @@ dodavati,VERB
 dodavati,VERB
 dodavati,VERB
 dodavati,VERB
-dodavati,VERB
-dodavati,VERB
-dodavati,VERB
 dodati,VERB
 dodati,VERB
 dodati,VERB
 dodati,VERB
 dodati,VERB
-dodavati,ADV
-dodavati,ADV
-dodavati,ADV
 dodavati,ADV
 dodavati,ADV
 dodavati,ADV
@@ -39,9 +33,6 @@ dodati,ADJ
 dodati,ADJ
 dodati,ADJ
 dodati,ADJ
-dodati,VERB
-dodati,VERB
-dodati,VERB
 dodati,VERB
 dodati,VERB
 dodati,VERB
@@ -58,6 +49,8 @@ dodati,VERB
 dodavanje,NOUN
 dodavanje,NOUN
 dodavati,VERB
+dodati,ADV
+dodati,ADV
 dodati,ADV
 dodati,ADV
 dodati,ADV

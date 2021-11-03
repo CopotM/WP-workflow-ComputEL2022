@@ -3,6 +3,8 @@ dodati,VERB
 dodati,VERB
 dodati,VERB
 dodati,VERB
+nada,NOUN
+nadati,VERB
 nadati,VERB
 nadati,VERB
 nadati,VERB
@@ -13,7 +15,6 @@ nadati,VERB
 nadati,VERB
 nadati,VERB
 nadati,VERB
-nada,NOUN
 nadati,VERB
 nadati,VERB
 nadati,VERB
@@ -27,8 +28,7 @@ nadati,VERB
 nadati,VERB
 nadati,VERB
 nadati,VERB
-nadati,VERB
-nadati,VERB
+nadanje,NOUN
 nadanja,NOUN
 nadati,VERB
 nadati,VERB

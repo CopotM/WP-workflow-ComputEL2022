@@ -2,6 +2,8 @@ pisati,VERB
 pisati,VERB
 pisati,VERB
 pisati,VERB
+pisati,VERB
+pisati,ADJ
 pisan,ADJ
 pisati,ADJ
 pisanje,NOUN
@@ -12,6 +14,10 @@ pisanje,NOUN
 pisanje,NOUN
 pisanje,NOUN
 pisanje,NOUN
+pisanje,NOUN
+pisanje,NOUN
+pisanje,NOUN
+pisanje,NOUN
 pisan,ADJ
 pisati,VERB
 pisati,VERB
@@ -19,7 +25,9 @@ pisati,VERB
 pisati,VERB
 pisati,VERB
 pisati,VERB
+pisati,VERB
 upisati,VERB
 upisati,VERB
+zapis,NOUN
 zapis,NOUN
 zapisati,VERB

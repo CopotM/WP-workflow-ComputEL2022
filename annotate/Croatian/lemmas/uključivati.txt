@@ -1,15 +1,19 @@
-Događanja su,uključivala,True,"poslovni forum , dvodnevno zasjedanje guvernera središnjih banaka zemalja članica , te panel rasprave premijera zemalja regije ."
-"Ipak , neki su se političari već žalili na prekršaje , od kojih su neki čak",uključivali,True,otmice i namještene automobilske nesreće .
-Razgovori su,uključivali,True,"i turski cilj da se bavi balkanskim pitanjima i bolje surađuje s regijom , kazao je Davutoglu ."
-Obilazak pokrajine od strane veleposlanika UN-a,uključivalo,True,"je posjete podijeljenom gradu Mitrovici , srpskom selu Svinjare i srpskom dijelu grada Orahovca ."
-"Prema njegovim riječima ,",uključivanje,True,Srbije i Crne Gore u proces euroatlantskih integracija ovisi o ispunjenju njezinih međunarodnih obveza .
-"No , unatoč tomu navodi se u zaključnom dijelu opći trend u EU i izvan nje je sve veće prihvaćanje alternativnih metoda i njihovo",uključivanje,True,u sustav zdravstvene zaštite .
-"Sučeljene s apatijom , posebice među mladima , neke skupine naporno rade na organiziranju i",uključivanju,True,mladih .
-"Passy je istaknuo kako bi ta konferencija -- koja će biti usredotočena na ilegalnu prodaju oružja i droga , trgovinu ljudima i nuklearnim i radioaktivnim materijalom -- trebala biti održana u širem opsegu koji bi",uključivao,True,i UN .
-Turska je bila posljednje odredište njegova obilaska regije koje je,uključivao,True,"četiri zemlje među kojima su još bili Velika Britanija , Njemačka i Italija ."
-To im je bio vrlo izazovan posao jer je,uključivao,True,"odgovornost prema tradiciji dobro oblikovanih vizualnih komunikacija Plive u prošlosti , ali je tražio i visoku razinu projektiranja tzv. informacijskog dizajna , koji mora biti jasan i nedvosmislen ."
-"Posjet je predviđen projektom Otvorene institucije CDT-a , odobrenog i financiranog od strane Europske komisije , a",uključivao,True,"je upoznavanje službenika Skupštine Crne Gore s djelovanjem i aktivnostima stručnih službi Hrvatskog sabora te Hrvatske informacijsko-dokumentacijske referalne agencije , u cilju prijenosa znanja i iskustva ."
-"Sljedeće promatračko izvješće , koje treba biti objavljeno 17. svibnja ,",uključivat,True,će zaključke nedavnih stručnih procjena problematičnih područja .
-Suradnja će,uključivati,True,"razmjenu informacija , planiranje napada na kriminalne skupine i koordiniranje zajedničkog rada agencija tih zemalja ."
-"Prema riječima zamjenice ministra kulture Ine Kileve , izložba će",uključivati,True,"oko 100 zlatnih i srebrnih antičkih predmeta iz riznica Rogozen , Borovo , Letnica i Panagyurishte , kao i predmete otkrivene posljednjih godina ."
-Tečajevi će,uključivati,True,"predavanja , prezentacije i rasprave o brojnim temama , kao što su osvetnička i restorativna pravda , mehanizmi za iznošenje istine , kolektivno sjećanje , pomirenje , međunarodno kazneno pravo i tribunal UN-a , te suđenja za ratne zločine u domaćim sudovima ."
+,Događanja su,uključivala,True,"poslovni forum , dvodnevno zasjedanje guvernera središnjih banaka zemalja članica , te panel rasprave premijera zemalja regije ."
+,Najveći rani uspjesi postignuti kao rezultat Bonskih ovlasti,uključivali,True,"su uspostavu jedinstvenih registarskih oznaka za vozila , novu državnu zastavu , nove putovnice , i što je najvažnije , zajedničku valutu ."
+,"Ipak , neki su se političari već žalili na prekršaje , od kojih su neki čak",uključivali,True,otmice i namještene automobilske nesreće .
+,Razgovori su,uključivali,True,"i turski cilj da se bavi balkanskim pitanjima i bolje surađuje s regijom , kazao je Davutoglu ."
+,Obilazak pokrajine od strane veleposlanika UN-a,uključivalo,True,"je posjete podijeljenom gradu Mitrovici , srpskom selu Svinjare i srpskom dijelu grada Orahovca ."
+,"Prema njegovim riječima ,",uključivanje,True,Srbije i Crne Gore u proces euroatlantskih integracija ovisi o ispunjenju njezinih međunarodnih obveza .
+,"No , unatoč tomu navodi se u zaključnom dijelu opći trend u EU i izvan nje je sve veće prihvaćanje alternativnih metoda i njihovo",uključivanje,True,u sustav zdravstvene zaštite .
+,"Sučeljene s apatijom , posebice među mladima , neke skupine naporno rade na organiziranju i",uključivanju,True,mladih .
+,"Tjedan mode u Istanbulu , jednoj od europskih "" prijestolnica kulture "" za 2010. ,",uključivao,True,je premijeru kolekcija jesen - zima i najnovije haute couture inovacije dvadesetak turskih dizajnera .
+,"Passy je istaknuo kako bi ta konferencija -- koja će biti usredotočena na ilegalnu prodaju oružja i droga , trgovinu ljudima i nuklearnim i radioaktivnim materijalom -- trebala biti održana u širem opsegu koji bi",uključivao,True,i UN .
+,Turska je bila posljednje odredište njegova obilaska regije koje je,uključivao,True,"četiri zemlje među kojima su još bili Velika Britanija , Njemačka i Italija ."
+,To im je bio vrlo izazovan posao jer je,uključivao,True,"odgovornost prema tradiciji dobro oblikovanih vizualnih komunikacija Plive u prošlosti , ali je tražio i visoku razinu projektiranja tzv. informacijskog dizajna , koji mora biti jasan i nedvosmislen ."
+,"Posjet je predviđen projektom Otvorene institucije CDT-a , odobrenog i financiranog od strane Europske komisije , a",uključivao,True,"je upoznavanje službenika Skupštine Crne Gore s djelovanjem i aktivnostima stručnih službi Hrvatskog sabora te Hrvatske informacijsko-dokumentacijske referalne agencije , u cilju prijenosa znanja i iskustva ."
+,"Sljedeće promatračko izvješće , koje treba biti objavljeno 17. svibnja ,",uključivat,True,će zaključke nedavnih stručnih procjena problematičnih područja .
+,Događanje će,uključivati,True,"prikazivanje 55 igranih , crtanih , dokumentarnih i eksperimentalnih radova , a fokus će biti na kinematografiji Islanda , što predstavlja novost na festivalu ."
+,Poseban tretman u bliskoj budućnosti treba [,uključivati,True,"] turistički sektor , s pomorskim poslovima zbog multiplicirajućih učinaka na duge staze "" , kaže predsjednik Fonda za ulaganja i razvitak Dragan Lajović ."
+,Suradnja će,uključivati,True,"razmjenu informacija , planiranje napada na kriminalne skupine i koordiniranje zajedničkog rada agencija tih zemalja ."
+,"Prema riječima zamjenice ministra kulture Ine Kileve , izložba će",uključivati,True,"oko 100 zlatnih i srebrnih antičkih predmeta iz riznica Rogozen , Borovo , Letnica i Panagyurishte , kao i predmete otkrivene posljednjih godina ."
+,Tečajevi će,uključivati,True,"predavanja , prezentacije i rasprave o brojnim temama , kao što su osvetnička i restorativna pravda , mehanizmi za iznošenje istine , kolektivno sjećanje , pomirenje , međunarodno kazneno pravo i tribunal UN-a , te suđenja za ratne zločine u domaćim sudovima ."

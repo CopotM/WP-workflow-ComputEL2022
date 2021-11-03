@@ -19,4 +19,8 @@ sastati,VERB
 sastati,VERB
 sastati,VERB
 sastati,VERB
+sastati,VERB
+sastati,VERB
+sastati,VERB
+sastav,NOUN
 sastav,NOUN

@@ -1,7 +1,8 @@
 watch,NOUN
-watch,VERB
+watch,NOUN
 watch,NOUN
 watch,VERB
+watch,NOUN
 watch,VERB
 watch,VERB
 watch,VERB

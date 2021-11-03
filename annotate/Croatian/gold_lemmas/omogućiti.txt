@@ -5,6 +5,9 @@ omogućiti,ADJ
 omogućiti,ADJ
 omogućiti,ADJ
 omogućiti,ADJ
+omogućiti,ADJ
+omogućiti,VERB
+omogućiti,VERB
 omogućiti,VERB
 omogućiti,VERB
 omogućiti,VERB

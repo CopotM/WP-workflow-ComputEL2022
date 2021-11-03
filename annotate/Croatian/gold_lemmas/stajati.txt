@@ -6,3 +6,4 @@ stajati,VERB
 stajati,VERB
 stajati,VERB
 stajati,VERB
+stajati,VERB

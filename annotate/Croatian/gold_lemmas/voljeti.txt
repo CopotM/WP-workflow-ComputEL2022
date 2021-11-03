@@ -5,6 +5,7 @@ volja,NOUN
 volja,NOUN
 volja,NOUN
 volja,NOUN
+volja,NOUN
 voljeti,VERB
 voljeti,VERB
 voljeti,VERB

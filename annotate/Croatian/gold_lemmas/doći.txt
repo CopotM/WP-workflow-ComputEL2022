@@ -6,12 +6,6 @@ doći,VERB
 doći,VERB
 doći,VERB
 doći,VERB
-doći,VERB
-doći,VERB
-doći,VERB
-naći,VERB
-naći,VERB
-naći,VERB
 naći,VERB
 naći,VERB
 naći,VERB

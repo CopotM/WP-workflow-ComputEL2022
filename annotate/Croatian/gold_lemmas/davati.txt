@@ -16,4 +16,6 @@ davati,VERB
 davati,VERB
 davatelj,NOUN
 davati,VERB
+davati,VERB
+davati,VERB
 dodavati,VERB

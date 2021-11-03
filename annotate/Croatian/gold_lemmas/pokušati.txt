@@ -6,6 +6,9 @@ pokušaj,NOUN
 pokušaj,NOUN
 pokušaj,NOUN
 pokušaj,NOUN
+pokušaj,NOUN
+pokušaj,NOUN
+pokušaj,NOUN
 pokušati,VERB
 pokušati,VERB
 pokušati,VERB
@@ -28,6 +31,15 @@ pokušati,VERB
 pokušati,VERB
 pokušati,VERB
 pokušati,VERB
+pokušati,VERB
+pokušati,VERB
+pokušati,VERB
+pokušati,VERB
+pokušati,VERB
+pokušati,VERB
+pokušati,VERB
+pokušavati,VERB
+pokušavati,VERB
 pokušavati,VERB
 pokušavati,VERB
 pokušavati,VERB

@@ -22,10 +22,5 @@ dolaziti,VERB
 dolaziti,VERB
 dolaziti,VERB
 dolaziti,VERB
-dolaziti,VERB
-dolaziti,VERB
-dolaziti,VERB
-dolaziti,VERB
-dolaziti,VERB
 izlaziti,VERB
 nalaziti,VERB
