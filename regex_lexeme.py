@@ -45,7 +45,7 @@ with open("".join([args.repository,"/data/",args.language.capitalize(),".txt"]))
         for line in fh.readlines():
             m = re.search(rgex, line)
             if m:
-                #if m.group(1) not in lexeme_forms:
+                if m.group(1) not in lexeme_forms:
                     s = line.split(m.group(1))
                     s.insert(1, m.group(1))
                     data.append(s)
