@@ -1,0 +1,12 @@
+povjerovati,VERB
+povjerovati,VERB
+vjerovati,VERB
+vjerovati,VERB
+vjerovati,VERB
+vjerovanje,NOUN
+vjerovanje,NOUN
+vjerovanje,NOUN
+vjerovati,VERB
+vjerovati,VERB
+vjerovati,VERB
+vjerovati,VERB

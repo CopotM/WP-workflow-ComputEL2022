@@ -1,0 +1,16 @@
+study,NOUN
+study,NOUN
+study,NOUN
+study,NOUN
+study,NOUN
+study,NOUN
+study,NOUN
+study,NOUN
+study,VERB
+study,VERB
+study,VERB
+study,VERB
+study,VERB
+study,VERB
+study,VERB
+study,VERB

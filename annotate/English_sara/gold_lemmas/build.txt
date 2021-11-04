@@ -1,0 +1,16 @@
+build,VERB
+build,VERB
+build,VERB
+build,VERB
+build,VERB
+build,VERB
+build,VERB
+build,VERB
+building,NOUN
+building,NOUN
+build,VERB
+build,VERB
+build,VERB
+building,NOUN
+building,NOUN
+build,VERB

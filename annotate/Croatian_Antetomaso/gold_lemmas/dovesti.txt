@@ -1,0 +1,16 @@
+dovesti,VERB
+dovesti,VERB
+dovesti,VERB
+dovesti,VERB
+dovesti,VERB
+dovesti,VERB
+dovesti,VERB
+dovesti,VERB
+izvesti,VERB
+izvesti,VERB
+izvesti,VERB
+navesti,VERB
+navesti,VERB
+navesti,VERB
+odvesti,VERB
+odvesti,VERB
