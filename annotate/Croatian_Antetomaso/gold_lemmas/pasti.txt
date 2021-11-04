@@ -1,0 +1,7 @@
+dopasti,VERB
+pasta,NOUN
+pasti,VERB
+pasti,VERB
+pasti,VERB
+pasti,VERB
+pripasti,VERB
