@@ -1,0 +1,10 @@
+isticati,VERB
+isticati,VERB
+isticati,VERB
+isticati,ADJ
+isticanje,NOUN
+isticanje,NOUN
+isticanje,NOUN
+isticanje,NOUN
+isticati,VERB
+isticati,VERB

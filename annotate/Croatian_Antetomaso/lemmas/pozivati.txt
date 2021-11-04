@@ -1,0 +1,31 @@
+,""" U tom kontekstu , APD posljednji put",poziva,True,"na normalnost i očuvanje integriteta izbornih suparnika , koji kao da su zaboravili da cilj ne opravdava uvijek sredstva "" , rečeno je u daljnjem tekstu ."
+,CARNet,poziva,True,"autore koji koriste ove alate za inovativno i suvremeno poučavanje u školi i fakultetu ili izvan njih , da se prijave na natjecanje i konkuriraju za jednu od vrijednih nagrada ."
+,Atena je kazala kako će iskoristiti svoje pravo veta da bi spriječila uručivanje,poziva,True,Makedoniji za članstvo osim ako se do summita ne pronađe prihvatljiva formula .
+,"Ovlasti Ureda revizora , obrazložene u Članku 160 , proširene su i izbačena je rečenica kojom se",poziva,True,na tajne istrage vojnih troškova .
+,Ministar vanjskih poslova Srbije i Crne Gore Vuk Drašković,poziva,True,Srbiju na suradnju s tribunalom UN-a za ratne zločine .
+,U deklaraciji koja je potpisana na koncu sastanka,poziva,True,se na uzajamno povjerenje i regionalnu suradnju .
+,EC,poziva,True,Bugarsku na jačanje borbe protiv organiziranog kriminala i korupcije
+,"Moskva podupire Srbiju u njezinu protivljenju prijedlogu o statusu Kosova kojeg je iznio bivši finski predsjednik Martti Ahtisaari , a kojim se",poziva,True,"na "" nadziranu neovisnost "" ."
+,"GfK konferencija o istraživanjima , u organizaciji GfK Ad hoc istraživanja , traje dva dana , a na nju se",pozivaju,True,odabrane grupe klijenata .
+,"U međuvremenu , Kvartet bliskoistočnih mirovnih posrednika , koji čine UN , Sjedinjene Američke Države , EU i Rusija , objavio je u subotu priopćenje u kojem",pozivaju,True,""" sve koji žele isporučiti pomoć građanima Gaze da to učine preko uspostavljenih kanala , kako bi se njihov teret mogao pregledati i prebaciti već uspostavljenim kopnenim putevima "" ."
+,"BiH , Srbija , Hrvatska i Crna Gora",pozivaju,True,"na jačanje veza , dok Albanija i Srbija teže izgradnji svojih odnosa ."
+,One koji,pozivaju,True,na promjene uznemiruje njezina negdašnja uloga muzeja u čast pokojnom staljinističkom diktatoru Enveru Hoxhi .
+,Parlament je na sjednici također usvojio deklaraciju kojom se osobe koje su bile prisiljene napustiti pokrajinu u razdoblju između 1990. i 2000. godine,pozivaju,True,na povratak u svoje domove .
+,Utjecajna Udruga turskih industrijalaca i poduzetnika ( TUSIAD ) -- kao i bankarski sektor --,pozivaju,True,na hitan aranžman sa MMF .
+,Odnedavna upravo te dvije zemlje,pozivaju,True,"sve da prate smjernice , međutim ukoliko to ne budu činile , nema zakonski obvezujuće kazne ."
+,""" Ne možete imati sigurnosnu prazninu "" , rekao je de Kerchove ,",pozivajući,True,na pružanje pomoći procesu tranzicije u takvim zemljama .
+,"Kazao je kako će tražiti od čelništva stranke da objavi priopćenje ,",pozivajući,True,etničke Albance na povlačenje iz vladinih institucija .
+,"Sljedeća tri mjeseca bit će ključna za hrvatsku kandidaturu da postane 28. članica EU 2010. godine , izjavio je visoki dužnosnik Europske komisije ( EC ) u utorak ( 8. travnja ) ,",pozivajući,True,Zagreb na ubrzanje reformskih napora .
+,"Oko 10.000 ljudi okupilo se u ponedjeljak na mirnom prosvjedu ispred parlamenta ,",pozivajući,True,na Gyurcsanyjevu ostavku .
+,Sudionici su objavili zajedničko priopćenje,pozivajući,True,na ponovnu izgradnju povjerenja između zajednica i izabranih vlasti .
+,""" [ Cjelokupna ] EU usmjerava se na alternativne energetske izvore , samo naša vlada gradi drugu nuklearnu elektranu "" , izjavio je Dimitrov prošlog tjedna",pozivajući,True,na hitnu obustavu projekta Belene .
+,Aktivisti Greenpeacea uspeli su se 2. prosinca na 150 metara visok dimnjak elektrane u Poljskoj,pozivajući,True,je da odbaci ugljen kao glavni izvor energije te da prihvati europski plan borbe protiv globalnog zatopljenja .
+,"Međutim , ne postoje mjere ili ograničenja koji bi vladu prisilili da se pridržava tih zakona , niti koji bi prekršitelje",pozivali,True,na odgovornost .
+,"Političari bosanski Srbi prijetili su kako će ustrajavati na odcjepljenju RS-a , dok su neki bošnjački čelnici",pozivali,True,na ukidanje entiteta .
+,"Populaciju , rastrošnu višestruko iznad osobnih mogućnosti mnogi su godinama opominjali i",pozivali,True,"na štednju , no odjeka nije bilo ."
+,S poštovanjem vas,pozivam,True,"da stvorite bolju budućnost za ovu zemlju i njene ljude investiranjem , otvaranjem novih radnih mjesta i poslovanjem u cilju boljitka svih nas "" , izjavio je Lemierre obraćajući se potencijalnim investitorima ."
+,"U iduća tri tjedna kandidati će obilaziti Hrvatsku , održavati skupove i",pozivati,True,birače na sudjelovanje na izborima .
+,Izbjegavajući,pozive,True,"prosvjednika na podnošenje ostavke , mađarski premijer Ferenc Gyurcsany obvezao se u utorak na ostanak i završetak tegobnih reformi ."
+,"Kako će , po vašem mišljenju , EU i Kosovo odgovoriti na te",pozive,True,i kako bi se sve strane trebale odnositi prema budućem dijalogu ?
+,Budući da se izvođač oglušio na,pozive,True,"da otkloni nedostatke , Grad je pokrenuo postupak nabave radova i materijala za sanaciju nastalih nedostataka na Korzu ."
+,Kasnije se saznalo kako su,pozivi,True,za sastanak odaslani i stranačkim i državnim predstavnicima BiH iz svih etničkih zajednica i entiteta .
