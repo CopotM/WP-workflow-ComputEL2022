@@ -1,0 +1,13 @@
+,Environment Canada spokesperson Julie Hahn said they,apply,True,"to letters of complaint , criticism or injury , research or scientific notes and findings that don`t do n`t have any conclusion , and Treasury Board letters , agendas and minutes that don`t do n`t deal with subjects of national interest ."
+,"In addition , we present the implementation of these operators and as proof of concept we",apply,True,these operators to two real-world GIS applications and we generate the mutants .
+,In order to,apply,True,"these operators to a SUT , we rely on Java reflection and aspect-oriented programming ."
+,We have defined new operators specific to the GIS domain and a way to,apply,True,them to a SUT .
+,The central idea is to first,apply,True,"rules to the smallest applicable unit , then apply to the smallest unit containing that one , and so on . [ 5 ]"
+,"On the other hand , extant newspaper clippings from only a few days after the duel give a description of his opponent ( identified by the initials "" L. D. "" ) that appear to more accurately",apply,True,"to one of Galois' Galois ' Republican friends , most probably Ernest Duchatelet , who was imprisoned with Galois on the same charges . [ 21 ]"
+,"In the second case , the M5S party asks to the regional government to assure the local administrations of the region regularly",apply,True,the sentence of the Supreme Court .
+,"Canadians are the exception , getting 90 days on arrival and can",apply,True,for a 90 day extension .
+,We welcome discussion about our efforts and the possibilities of,applying,True,this in other contexts .
+,We describe the process for,applying,True,"the operators and generating mutants , and present a case study where these mutation operators are applied to two real-world applications ."
+,"No , because I really can't ca n't call and tell them I'm I 'm yeah , so-and-so's so-and-so 's",applying,True,here for a position .
+,"According to Wilkins , Warhol was able to reproduce the Polaroid photograph and create an enlargement of it , which he then could use to commit the image to the silk screen medium by",applying,True,paint or manipulating them further .
+,When,applying,True,"to the Cuban Consulate by post , there is a new charge introduced in 2011 which is a £ 25 for a non-personal transaction ."
