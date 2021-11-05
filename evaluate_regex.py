@@ -95,6 +95,7 @@ def paradigmExpansion(fi, lemmaFi, goldParadigm, verbose):
         print("Attested forms of lemma:", goldParadigm)
 
     known = set()
+    base = set()
 
     with open(lemmaFi) as fh:
         reader = csv.reader(fh)
@@ -107,10 +108,14 @@ def paradigmExpansion(fi, lemmaFi, goldParadigm, verbose):
             else:
                 human = pred
 
+            if pred:
+                base.add(center.lower().strip())
+
             if human:
                 known.add(center.lower().strip())
 
     if verbose:
+        print("Baseline paradigm:", base)
         print("Human-selected paradigm:", known)
 
     expanded = set(list(known))
@@ -135,7 +140,9 @@ def paradigmExpansion(fi, lemmaFi, goldParadigm, verbose):
         print()
 
     return (len(expanded.difference(known)), 
-            len(expanded.intersection(goldParadigm).difference(known)), expanded)
+            len(expanded.intersection(goldParadigm).difference(known)), 
+            base,
+            expanded)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -161,6 +168,7 @@ if __name__ == "__main__":
     lang, annotator = dbase.split("_")
     outParadigms = args.output_paradigms
     outGold = open(outParadigms + "/%s.gold" % lang, "w")
+    outBase = open(outParadigms + "/%s.base" % lang, "w")
     outPred = open(outParadigms + "/%s_%s.pred" % (lang, annotator), "w")
 
     nExp = 0
@@ -183,8 +191,9 @@ if __name__ == "__main__":
             lemmaFile = annotDirectory + "/lemmas/" + lemma + ".txt"
             print("Scoring paradigm for lemma:", lemmaFile)
             goldParadigm = getGoldParadigm(lemma, corpus)
-            exp, corrExp, paradigm = paradigmExpansion(directory + "/" + fi, lemmaFile, goldParadigm,
-                                             args.verbose)
+            exp, corrExp, baseParadigm, paradigm = paradigmExpansion(directory + "/" + fi, 
+                                                                     lemmaFile, goldParadigm,
+                                                                     args.verbose)
             nExp += exp
             nCorrExp += corrExp
 
@@ -192,10 +201,13 @@ if __name__ == "__main__":
                 outGold.write(item + "\n")
             outGold.write("\n")
 
+            for item in baseParadigm:
+                outBase.write(item + "\n")
+            outBase.write("\n")
+
             for item in paradigm:
                 outPred.write(item + "\n")
             outPred.write("\n")
-
 
     outGold.close()
     outPred.close()
