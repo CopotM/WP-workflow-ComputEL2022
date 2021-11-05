@@ -3,16 +3,22 @@ bavi
 baviti
 bave
 baveći
+zabavi
 bavio
 bavite
 bavila
 bavili
 
-donijela
-donijet
+nanijeti
+iznijeti
 donijeli
+pridonijeti
+odnijeti
 donijeti
+donijet
+donijela
 
+naći
 doći
 
 kliknuti
@@ -21,23 +27,19 @@ osjećaju
 osjećam
 osjećanja
 osjećala
-osjećaja
 osjeća
 osjećaje
 osjećao
 osjećate
 osjećati
 osjećali
-osjećajući
 
 otići
 
 pokazivati
-pokazivači
 
 poziva
 pozive
-pozivima
 pozivali
 pozivam
 pozivati
@@ -98,12 +100,12 @@ davanje
 
 djelovanja
 djelovanje
-djelovala
+djelovati
 djelovanjem
 djelovanju
 djelovao
 djelovat
-djelovati
+djelovala
 
 dobivanje
 dobivaju
@@ -128,9 +130,9 @@ dodavanje
 pridodati
 dodaju
 
-dogode
-dogodile
 dogodi
+dogodile
+dogode
 odgoditi
 dogodila
 dogodio
@@ -152,62 +154,62 @@ donose
 donositi
 odnositi
 iznositi
-donosi
 donosila
 nanositi
+pridonositi
 donosio
 donoseći
-pridonositi
+donosi
 donosiš
 
-navesti
-izvesti
 odvesti
+navesti
 dovesti
+izvesti
 
 gledamo
+gledana
 gledanje
 glede
 gledam
 gledanja
+ugleda
 pogledao
 gledano
-gleda
 gledali
 gledati
 gledatelja
 pogledati
 ugledati
 gledao
-gledana
-ugleda
+gleda
 gledaju
 
 govore
 govor
-ugovori
+govoriti
 govorno
+ugovori
 govora
 govori
 govorili
-govoreći
 govorila
 govorit
 govorio
 govorim
 govoriš
-govoriti
+govoreći
 govoru
 
 htjele
-htjela
 htjeti
+htjela
 htjeli
 
 igre
 igramo
-igraju
 igrali
+igraju
 igram
 igrati
 poigrao
@@ -217,8 +219,8 @@ igrate
 igran
 igranog
 igri
-igranja
 igranjem
+igranja
 igra
 igranom
 igrani
@@ -276,17 +278,17 @@ ići
 
 koristila
 koristilo
-koristeći
 koristi
+koristeći
 koriste
 koristiti
 koristile
 koristim
 koristite
 koristio
+koristimo
 koristili
 korist
-koristimo
 
 mislim
 mislit
@@ -297,23 +299,23 @@ mislite
 misliš
 mislilo
 mislio
-mislili
+zamisli
 misliti
 misle
-zamisli
+mislili
 mislimo
 misleći
 
 nade
 dodati
 nadi
-nadamo
 nadali
+nadamo
 nadanja
-nadam
 nadati
 nadaju
 nadao
+nadam
 nada
 
 dolaziti
@@ -373,19 +375,19 @@ nudila
 objava
 objavio
 objavilo
+objavu
 objavile
 objavila
 objavi
 objaviti
 objavili
-objavu
 objave
 
 odlučeno
-odlučno
 odlučio
-odlučivanja
+odlučno
 odluče
+odlučivanja
 odlučiš
 odlučivati
 odlučilo
@@ -397,7 +399,6 @@ odlučen
 odlučiti
 odlučni
 
-odnosno
 odnosima
 odnos
 odnositi
@@ -405,16 +406,18 @@ odnosili
 odnosio
 odnosi
 odnose
-odnosa
 odnosu
+odnosa
+odnosno
 odnosila
 
 održanim
-održavanje
 održalo
+održavanje
 održanje
 održavanja
 održan
+održanog
 održavši
 održana
 održati
@@ -424,18 +427,17 @@ održanju
 održi
 održali
 održano
-održava
 održanom
 održane
 održavati
 održao
 održe
 održat
-održanog
+održava
 
 omogućen
-omogućit
 omogućena
+omogućit
 omogućio
 omogućiti
 omogućilo
@@ -445,6 +447,7 @@ omogućila
 organizirani
 organizirao
 organiziranje
+organizirane
 organiziranog
 organiziranim
 organiziranja
@@ -453,9 +456,8 @@ organiziralo
 organizirali
 organizirati
 organiziraju
-organizirala
 organiziramo
-organizirane
+organizirala
 organizira
 organiziranju
 organizirana
@@ -463,6 +465,7 @@ organizirana
 osigurano
 osiguranu
 osiguranja
+osigurane
 osigurava
 osigurala
 osiguranje
@@ -470,21 +473,20 @@ osiguranju
 osigurao
 osigurat
 osigura
+osigurali
 osigurate
 osiguravanja
-osiguran
-osigurale
 osigurati
 osigurana
-osigurane
-osigurali
+osiguran
+osigurale
 
 ostaje
 
 ostale
 ostat
-ostanu
 ostala
+ostanu
 ostati
 ostaju
 ostane
@@ -495,16 +497,16 @@ ostaje
 
 ostvario
 ostvare
+ostvari
 ostvarilo
 ostvariti
 ostvarile
 ostvarivanje
 ostvaren
-ostvarenje
 ostvarivati
 ostvarili
 ostvarila
-ostvari
+ostvarenje
 ostvarivanja
 
 osvojile
@@ -520,17 +522,17 @@ otvoren
 otvorile
 otvoreno
 otvorili
-otvore
+otvoriti
 otvorenje
 otvorite
 otvorila
 otvorena
 otvori
-otvoriti
+otvore
 otvorio
 
-ovisno
 ovise
+ovisno
 ovisi
 ovisimo
 ovisila
@@ -556,9 +558,9 @@ pripasti
 
 zapisa
 pisanja
-pisati
 pisana
 pisale
+pisati
 pisali
 upisati
 pisani
@@ -607,16 +609,16 @@ pokrenuti
 pokrenuta
 
 pokušao
-pokuša
-pokušaju
 pokušali
 pokušajte
+pokušaju
 pokušati
+pokušate
 pokušala
 pokušat
 pokušavati
 pokušava
-pokušate
+pokuša
 
 pomoći
 pomoć
@@ -692,8 +694,8 @@ pozvali
 
 započeti
 počelo
-počet
 počela
+počet
 počele
 počeli
 počne
@@ -709,16 +711,16 @@ pratilo
 prate
 pratile
 
+predstavljao
 predstavljanja
-predstavljat
 predstavlja
+predstavljat
 predstavljati
-predstavljaju
 predstavljanju
 predstavljanje
 predstavljala
 predstavljalo
-predstavljao
+predstavljaju
 
 preuzele
 preuzeo
@@ -776,13 +778,13 @@ razgovarali
 
 riješi
 riješeno
-riješena
 riješili
 riješe
+riješio
 riješiti
 riješila
 riješen
-riješio
+riješena
 
 sastao
 sastati
@@ -808,15 +810,15 @@ stajali
 stajao
 
 sudjelovalo
-sudjelovanja
+sudjelovali
 sudjelovanje
 sudjelovanju
 sudjelovao
-sudjelovali
 sudjelovala
+sudjelovati
 sudjelovale
 sudjelovanjem
-sudjelovati
+sudjelovanja
 
 surađivati
 surađivala
@@ -826,7 +828,6 @@ tražimo
 tražeći
 tražiti
 traženje
-tražili
 potražiti
 tražim
 tražite
@@ -837,6 +838,7 @@ tražitelja
 zatraži
 zatražiti
 tražio
+tražili
 
 tvrd
 tvrdili
@@ -850,8 +852,8 @@ potvrditi
 tvrditi
 
 uključivala
-uključivao
 uključivanju
+uključivao
 uključivat
 uključivali
 uključivati
@@ -866,8 +868,8 @@ uspjelo
 uspjeti
 
 učinila
-učinilo
 učini
+učinilo
 učinivši
 učine
 učiniti
@@ -876,22 +878,23 @@ učinio
 učinile
 
 vidjela
+vidjeti
 vidjele
 vidjet
-vidjeti
-vidjeli
 vidjelo
+vidjeli
 uvidjeti
 
 vjerovanje
 vjerovati
 povjerovao
-povjerovati
 vjerovali
+povjerovati
 vjerovao
 vjerovanja
 
 voda
+vodni
 vode
 voditelja
 uvodi
@@ -900,14 +903,13 @@ dovoditi
 vodile
 privoditi
 vodu
-voditi
 vodila
 vodi
 vodio
 zavodi
 uvoditi
 vodili
-vodni
+voditi
 
 voljeli
 voljela
@@ -921,10 +923,10 @@ vratio
 vratima
 vratili
 vrati
+vratile
 vrat
 vratila
 vrata
-vratile
 vratiti
 
 započeti
@@ -984,13 +986,13 @@ značit
 činilo
 činimo
 počinio
-čin
 činili
 učini
+činila
 učiniti
 činio
 činiti
-činila
+čin
 čini
 
 željeti
