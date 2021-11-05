@@ -120,19 +120,20 @@ def paradigmExpansion(fi, lemmaFi, goldParadigm, verbose):
 
     expanded = set(list(known))
 
-    with open(fi) as fh:
-        reader = csv.reader(fh)
-        for row in reader:
-            mark, left, center, pred, right = row[:5]
-            pred = eval(pred)
-            if mark.strip():
-                assert(mark.strip().lower() == "x")
-                human = not pred
-            else:
-                human = pred
+    if fi is not None:
+        with open(fi) as fh:
+            reader = csv.reader(fh)
+            for row in reader:
+                mark, left, center, pred, right = row[:5]
+                pred = eval(pred)
+                if mark.strip():
+                    assert(mark.strip().lower() == "x")
+                    human = not pred
+                else:
+                    human = pred
 
-            if human:
-                expanded.add(center.lower().strip())
+                if human:
+                    expanded.add(center.lower().strip())
 
     if verbose:
         print("Additional forms:", expanded.difference(known))
@@ -164,17 +165,20 @@ if __name__ == "__main__":
     directory = args.regex
     annotDirectory = args.annot
 
-    dbase = os.path.basename(annotDirectory)
+    dbase = os.path.basename(os.path.abspath(annotDirectory))
     lang, annotator = dbase.split("_")
     outParadigms = args.output_paradigms
-    outGold = open(outParadigms + "/%s.gold" % lang, "w")
-    outBase = open(outParadigms + "/%s.base" % lang, "w")
+    outGold = open(outParadigms + "/%s_%s.gold" % (lang, annotator), "w")
+    outBase = open(outParadigms + "/%s_%s.base" % (lang, annotator), "w")
     outPred = open(outParadigms + "/%s_%s.pred" % (lang, annotator), "w")
 
     nExp = 0
     nCorrExp = 0
     scores = []
     print("Scoring directory", directory)
+    done = set()
+    knownParadigmMembers = set()
+    goldParadigmMembers = set()
     for fi in os.listdir(directory):
         if fi.endswith(".csv"):
             print("Scoring file:", fi)
@@ -189,6 +193,7 @@ if __name__ == "__main__":
 
             lemma = fi[:fi.index("_")]
             lemmaFile = annotDirectory + "/lemmas/" + lemma + ".txt"
+            done.add(lemma)
             print("Scoring paradigm for lemma:", lemmaFile)
             goldParadigm = getGoldParadigm(lemma, corpus)
             exp, corrExp, baseParadigm, paradigm = paradigmExpansion(directory + "/" + fi, 
@@ -197,10 +202,12 @@ if __name__ == "__main__":
             nExp += exp
             nCorrExp += corrExp
 
+            #outGold.write("---par block 1 %s --- " % lemma)
             for item in goldParadigm:
                 outGold.write(item + "\n")
             outGold.write("\n")
 
+            #outBase.write("---par block 1 %s --- " % lemma)
             for item in baseParadigm:
                 outBase.write(item + "\n")
             outBase.write("\n")
@@ -208,6 +215,44 @@ if __name__ == "__main__":
             for item in paradigm:
                 outPred.write(item + "\n")
             outPred.write("\n")
+
+            knownParadigmMembers.update(paradigm)
+            knownParadigmMembers.update(baseParadigm)
+            goldParadigmMembers.update(goldParadigm)
+
+    for fi in os.listdir(annotDirectory + "/lemmas/"):
+        if not fi.endswith(".txt") or fi.replace(".txt", "") in done:
+            continue
+
+        print("Writing paradigm for:", fi)
+
+        lemma = fi[:fi.index(".")]
+        goldParadigm = getGoldParadigm(lemma, corpus)
+        exp, corrExp, baseParadigm, paradigm = paradigmExpansion(None, annotDirectory + "/lemmas/" + fi, 
+                                                                 goldParadigm,
+                                                                 args.verbose)
+        #outGold.write("---par %s --- " % lemma)
+        for item in goldParadigm:
+            outGold.write(item + "\n")
+        outGold.write("\n")
+
+        #outBase.write("---par block 1 %s --- " % lemma)
+        for item in baseParadigm:
+            outBase.write(item + "\n")
+        outBase.write("\n")
+
+        for item in paradigm:
+            outPred.write(item + "\n")
+        outPred.write("\n")
+
+        knownParadigmMembers.update(paradigm)
+        knownParadigmMembers.update(baseParadigm)
+        goldParadigmMembers.update(goldParadigm)
+
+    for item in knownParadigmMembers.difference(goldParadigmMembers):
+        outGold.write(item + "\n")
+        outGold.write("\n")
+
 
     outGold.close()
     outPred.close()
