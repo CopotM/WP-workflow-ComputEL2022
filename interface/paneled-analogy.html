@@ -1,0 +1,1565 @@
+<DOCTYPE html>
+<html>
+  <!--
+    WARNING! Make sure that you match all Quasar related
+    tags to the same version! (Below it's "@2.5.0")
+  -->
+
+  <head>
+	<meta charset="utf-8"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/quasar@2.5.0/dist/quasar.prod.css" rel="stylesheet" type="text/css">
+
+	<style>
+	.mainpanel {
+		display : flex;
+		flex-direction : row;
+		gap : 30px;
+		margin : 30px;
+	}
+	.leftpanel {
+		display : flex;
+		flex-direction : column;
+		flex : 3;
+	}
+	.rightpanel {
+		display : flex;
+		flex-direction : column;
+		flex : 3;
+	}
+	</style>
+  </head>
+
+  <body>
+    <!-- example of injection point where you write your app template
+    -->
+  <div id="app">
+  	<q-bar>
+      <div class="cursor-pointer non-selectable">
+        File
+        <q-menu>
+          <q-list dense style="min-width: 100px">
+            <q-item clickable v-close-popup v-on:click="loadLanguage()">
+              <q-item-section>Load language...</q-item-section>
+            </q-item>
+			<q-item clickable v-close-popup v-on:click="loadState()">
+              <q-item-section>Load state...</q-item-section>
+            </q-item>
+            <q-item clickable v-close-popup v-on:click="saveState()">
+              <q-item-section>Save state...</q-item-section>
+            </q-item>
+
+          </q-list>
+        </q-menu>
+      </div>
+      <q-dialog v-model="showFileChooser" persistent>
+        <q-card style="min-width: 350px">
+          <q-card-section>
+            <div class="h6">Choose file:</div>
+          </q-card-section>
+          <q-card-section class="q-pt-none">
+            <q-file label="Load..." v-model=fileToLoad></q-file>
+          </q-card-section>
+          <q-card-actions align="right" class="text-primary">
+         <q-btn flat label="Cancel" v-close-popup></q-btn>
+          <q-btn flat label="Upload" v-on:click="handleLoad()" v-close-popup>
+          </q-btn>
+       </q-card-actions>
+        </q-card>
+      </q-dialog>
+    </q-bar>
+    <div class="mainpanel">
+    <div class="leftpanel">
+	  <analogy-browser
+		v-bind:lexinfo="lexicalInfo"
+		v-bind:corpus="corpus"
+		v-bind:words="words"
+		v-bind:analogies="analogies"></analogy-browser>
+	</div>
+	<div class="rightpanel">
+	  <strong>Lexicon browser</strong>
+	  <lexicon-browser
+		v-bind:lexinfo="lexicalInfo"
+		v-bind:corpus="corpus"
+		v-bind:words="words"
+		v-bind:analogies="analogies"></lexicon-browser>
+	</div>
+  </div>
+  </div>
+
+    <!-- Add the following at the end of your body tag -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/quasar@2.5.0/dist/quasar.umd.prod.js">
+</script>
+
+    <script>
+	  //https://stackoverflow.com/questions/22125865/wait-until-flag-true
+	  function until(conditionFunction) {
+		  
+		  const poll = resolve => {
+			  if(conditionFunction()) resolve();
+			  else setTimeout(_ => poll(resolve), 400);
+		  }
+
+		  return new Promise(poll);
+	  }
+
+	  function arrayEQ(a1, a2) {
+		  if (a1.length != a2.length)
+		  {
+			  return false;
+		  }
+
+		  for(var ii = 0; ii < a1.length; ii++)
+		  {
+			  if(a1[ii] != a2[ii])
+			  {
+				  return false;
+			  }
+		  }
+		  return true;
+	  }
+
+      /*
+        Example kicking off the UI. Obviously, adapt this to your specific needs.
+        Assumes you have a <div id="q-app"></div> in your <body> above
+       */
+      const app = Vue.createApp({
+		  mounted: function() {
+			  this.init();
+		  },
+		  data: function () { return {
+			  corpus : {},
+			  //word -> { lexItems : [ { name, concordance, id } ] }
+			  lexicalInfo : {},
+			  // [ {id, name, [members]} ]
+			  analogies : [],
+			  showFileChooser : false,
+			  fileToLoad : "",
+			  loadType : undefined
+		  }; },
+		  methods:
+		  {
+			  // https://stackoverflow.com/questions/59243445/read-and-display-json-data-from-external-file-in-vue-js
+			  loadJSON : function (filename, callback)
+			  {
+				  var xobj = new XMLHttpRequest();
+				  xobj.overrideMimeType("application/json");
+				  xobj.open('GET', filename, true)
+				  xobj.onreadystatechange = function () {
+					  if (xobj.readyState == 4 && xobj.status == "200") {
+						  // Required use of an anonymous callback as .open will NOT return a value but
+						  //simply returns undefined in asynchronous mode
+						  callback(xobj.responseText);
+					  }
+				  };
+				  xobj.send(null);
+			  },
+			  init()
+			  {
+				  this.fileToLoad = { name : "en-gum-verb.json" }
+				  this.loadType = "language";
+				  this.handleLoad();
+
+				  this.fileToLoad = { name : "en-uzh.json" }
+				  this.loadType = "state";
+				  this.handleLoad();
+			  },
+			  saveState : function ()
+			  {
+			  	  console.log("trying to save state")
+			  	  state = { lexicalInfo : this.lexicalInfo, analogies : this.analogies };
+			  	  dataStr = JSON.stringify(state);
+    			  dataUri = 'data:application/json;charset=utf-8,'+ encodeURIComponent(dataStr);
+    			  exportFileDefaultName = 'data.json';
+
+    			  linkElement = document.createElement('a');
+    			  linkElement.setAttribute('href', dataUri);
+    			  linkElement.setAttribute('download', exportFileDefaultName);
+    			  linkElement.click();
+			  },
+			  loadState : function ()
+			  {
+			  	  console.log("trying to load state")
+				  this.showFileChooser = true;
+				  this.loadType = "state";
+			  },
+			  loadLanguage : function ()
+			  {
+			  	  console.log("trying to load state")
+				  this.showFileChooser = true;
+				  this.loadType = "language";
+			  },
+			  handleLoad : function ()
+			  {
+				  console.log("actually loading");
+				  console.log(this.fileToLoad);
+				  let that = this
+
+				  if (this.loadType == "state")
+				  {				  
+					  that.loadJSON(this.fileToLoad.name,
+									async function (response) {
+										await until (_ => Object.values(that.corpus).length > 0);
+										console.log("execute state loader callback");
+										console.log("corpus status:");
+										console.log(that.corpus);
+
+										// Parse JSON string into object
+										var data = JSON.parse(response);
+										that.lexicalInfo = data.lexicalInfo;
+										that.analogies = data.analogies;
+									});
+				  }
+				  else if (this.loadType == "language")
+				  {
+					  let that = this
+					  that.loadJSON(this.fileToLoad.name, function (response) {
+						  console.log("execute language loader callback");
+						  
+						  // Parse JSON string into object
+						  var data = JSON.parse(response);
+						  that.corpus = data;
+						  that.lexicalInfo = {};
+						  that.analogies = {};
+					  });
+				  }
+				  else
+				  {
+					  console.log("unknown type of file to load: "+this.loadType);
+				  }
+			  },
+		  },
+		  computed: {
+			  words: function ()
+			  {
+				  return Object.keys(this.corpus).map(
+					  function(element, index) {
+						  return { id : index, text : element }; } )
+			  }
+		  }
+        });
+
+      app.component("clickable-item", {
+          props: ["text"],
+          template: `<q-item clickable v-ripple
+            v-on:click=clicked>
+           {{ text }}
+          </q-item>`,
+          methods: {
+              clicked : function ()
+              {
+                  this.$emit('select', this);
+              }
+          }
+      });
+
+	  app.component("searchable-menu", {
+        props: ["items", "value"],
+        data: function() {
+            return {
+            "searchFor" : ""
+            };
+         },
+        template: `<div>
+                    <input v-model="searchFor" placeholder="Search..."
+                     v-on:keyup.enter="select"/>
+                    <div style="max-height:150px;overflow:scroll">
+                      <q-expansion-item label="Show all words...">
+                      <q-list
+                       :dense>
+                       <clickable-item
+                         v-for="word in visibleItems"
+                         v-bind:text="word.text"
+                         v-bind:key="word.id"
+                         v-on:select="select"
+                        />
+                      </q-list>
+                      </q-expansion-item>
+                    </div>
+                  </div>`,
+          methods:
+		  {
+			  select : function (clickable)
+			  {
+				  if (clickable instanceof KeyboardEvent)
+				  {
+					  console.log("handle enter key");
+					  for(var ii = 0; ii < this.items.length; ii++)
+					  {
+						  if (this.items[ii].text == this.searchFor)
+						  {
+							  console.log("dispatched");
+							  this.$emit('setvalue', this.searchFor);
+						  }
+					  }
+				  }
+				  else
+				  {
+					  console.log("clicked " + clickable.text);
+					  this.$emit('setvalue', clickable.text);
+				  }
+			  }
+          },
+        computed: {
+			visibleItems : function ()
+			{
+				getChecker = function (obj)
+				{
+					return function (item) {
+						return item.text.startsWith(obj.searchFor);
+                    }
+				}
+				return this.items.filter(getChecker(this)).sort(
+					function(xx, yy){ return xx.text > yy.text; } );
+			}
+		}
+      });
+
+	  app.component("lexical-entry-picker", {
+		  props: ["word", "corpus", "lexinfo", "lexsplit"],
+		  template: `<div v-if="word != '' && word in corpus">
+                     <div>
+                      <input
+                       size="15"
+                       v-if="lexsplit != undefined"
+                       v-model="lexsplitObj.name"></input>
+                      <q-btn color="primary" label="Choose sense">
+                       <q-menu>
+                        <q-list>
+                         <q-item clickable v-close-popup
+                           v-for="lex in lexicalEntries"
+                           v-bind:lex="lex"
+                           v-on:click="chose(lex)">
+                          <q-item-section>
+                            {{lex.name}}
+                          </q-item-section>
+                         </q-item>
+                        </q-list>
+                       </q-menu>
+                      </q-btn>
+                     </div>
+                     </div>`,
+		  data : function ()
+		  {
+			  return { };
+		  },
+		  methods : {
+			  chose : function (event)
+			  {
+				  // console.log("you clicked " + event.name + " id " + event.id);
+				  if (event.id == undefined)
+				  {
+					  // console.log("my word is " + this.word);
+					  if (this.word == "" || !(this.word in this.corpus))
+					  {
+						  //should be made inaccessible from interface
+						  console.log("cannot split null word");
+					  }
+					  else
+					  {
+						  //user created new lexical split
+						  console.log("trying to split " + this.word);
+						  this.$emit("update", this.newLexicalSplit());
+					  }
+				  }
+				  else
+				  {
+					  //existing split
+					  this.$emit("update", event.id);
+				  }
+			  },
+			  newLexicalSplit : function ()
+			  {
+				  if (!(this.word in this.lexinfo))
+				  {
+					  this.lexinfo[this.word] = {};
+				  }
+				  nextID = Math.max(...Object.keys(this.lexinfo[this.word])) + 1;
+				  console.log("considering keys");
+				  console.log(Object.keys(this.lexinfo[this.word]));
+				  console.log("got next id is " + nextID);
+				  name = this.word + "_" + nextID;
+				  exes = this.corpus[this.word].examples;
+				  nExe = exes.length;
+				  lexsplit = { word : this.word, name : name,
+							   id : nextID,
+   							   selections : Array(nExe).fill(true)
+							 };
+
+				  // console.log("created new split: " + lexsplit);
+
+				  this.lexinfo[this.word][nextID] = lexsplit;
+				  return nextID;
+			  },
+		  },
+		  computed : {
+			  lexsplitObj : function ()
+			  {
+				  return this.lexinfo[this.word][this.lexsplit];
+			  },
+			  lexicalEntries : function ()
+			  {
+				  //console.log("getting lex entries for menu");
+				  var res = Object.values(this.lexinfo[this.word]);
+				  if (res == undefined)
+				  {
+					  res = [];
+				  }
+				  return res.concat([{name : "New lexical split",
+									  id : undefined}]);
+			  }
+		  },
+		  watch : {
+			  word : function (newWord, oldWord)
+			  {
+				  if (newWord != oldWord)
+				  {
+					  this.$emit("update", undefined);
+				  }
+			  }
+		  }
+	  });
+
+	  app.component("lexical-entry-table", {
+		  props: ["word", "corpus", "lexinfo", "lexsplit"],
+		  template: `<div v-if="word != '' && word in corpus">
+                      <q-table
+                        v-bind:rows="rows"
+                        v-bind:columns="columns"
+                        v-bind:row-key="row => row.index"
+                        v-on:row-click="selectRow"
+                        v-model:pagination="pagination"
+                        dense
+                        :rows-per-page-options=5
+                        virtual-scroll>
+                      <concordance
+                       v-bind:corpus=corpus
+                       v-bind:lexsplit=lexsplit>
+                      </concordance>
+                     </div>`,
+		  methods : {
+			  selectRow : function (event, row)
+			  {
+				  if(row.index in this.lexicalEntries)
+				  {
+					  this.$emit("update", [this.word, row.index]);
+					  return;
+				  }
+
+				  //an error
+				  console.log("can't find lexical entry!");
+			  },
+		  },
+		  computed : {
+			  lexicalEntries : function ()
+			  {
+				  console.log("getting lex entries for table");
+				  var res = this.lexinfo[this.word];
+				  if (res == undefined)
+				  {
+					  res = {};
+				  }
+				  return res;
+			  },
+			  rows : function ()
+			  {
+				  formatRow = function (row, index)
+				  {
+					  nExes = 0 + row.selections.reduce((xx, yy) => (xx + yy));
+					  return {
+						  index : row.id,
+						  name : row.name,
+						  nExes : nExes
+					  };
+				  }
+				  return Object.values(this.lexicalEntries).map(formatRow);
+			  },
+			  columns : function ()
+			  {
+				  const columns = [
+					  { name : "index", label : "#", field : "index"},
+					  { name : "name", label : "Name", field : "name"},
+					  { name : "nExes", label : "(#positive)", field :
+						"nExes"},
+				  ];
+				  return columns;
+			  }
+		  },
+		  watch : {
+			  word : function (newWord, oldWord)
+			  {
+				  if (newWord != oldWord)
+				  {
+					  this.$emit("update", undefined);
+				  }
+			  }
+		  }
+	  });
+
+	  app.component("concordance", {
+		  props: ["corpus", "lexinfo", "lexsplitIndex"],
+		  template: `<div v-if="lexsplit != undefined">
+                       <q-table
+                         v-bind:rows="rows"
+                         v-bind:columns="columns"
+                         v-bind:row-key="row => row.index"
+                         v-model:pagination="pagination"
+                         v-model:selected="selections"
+                         v-on:update:selected="changed"
+                         style="height:200px"
+                         dense
+                         selection="multiple"
+                         :rows-per-page-options="[0]"
+                         virtual-scroll
+                         hide-header
+                         hide-bottom>
+                       </q-table>
+                     </div>`,
+		  computed : {
+			  word : function ()
+			  {
+				  return this.lexsplit.word;
+			  },
+			  lexsplit : function ()
+			  {
+				  return this.lexinfo[this.lexsplitIndex[0]][this.lexsplitIndex[1]];
+			  },
+			  examples : function ()
+			  {
+				  return this.corpus[this.lexsplit.word].examples;
+			  },
+			  rows : function ()
+			  {
+				  // console.log("getting rows for concordance")
+				  // console.log(this.lexsplit)
+				  // console.log(this.lexsplit.examples)
+				  formatRow = function (example, index, word)
+				  {
+					  wordIndex = example.map(xx => xx.toLowerCase()).indexOf(word);
+					  // console.log("finding example " + word + " in " + example.map(xx => xx.toLowerCase()))
+					  // console.log("-> " + wordIndex)
+					  len = example.length;
+					  return { index : index,
+							   lhs : example.slice(0, wordIndex).join(" "),
+							   word : word,
+							   rhs : example.slice(
+								   wordIndex + 1, len).join(" ")
+							 };
+				  }
+
+				  rows = [];
+				  for(var ii = 0; ii < this.examples.length; ii++)
+				  {
+					  rows.push(formatRow(this.examples[ii], ii, this.word));
+				  }
+				  // console.log("selected status: "+this.lexsplit.selections);
+				  return rows;
+			  },
+			  columns : function ()
+			  {
+				  // console.log("getting columns");
+				  const columns = [
+					  { name : "index", label : "#", field : "index"},
+					  { name : "lhs", label : "lhs", field : "lhs",
+						align: "right",
+						style : "max-width:100px;overflow:hidden;direction:rtl",
+					    headerStyle: "max-width:100px"},
+					  { name : "word", label : "word", field : "word" },
+					  { name : "rhs", label : "rhs", field : "rhs",
+						align : "left",
+						style : "max-width:100px;overflow:hidden",
+					    headerStyle: "max-width:100px"},
+
+				  ];
+				  return columns;
+			  },
+			  selections : function ()
+			  {
+				  var result = [];
+				  for(var ii = 0; ii < this.examples.length; ii++)
+				  {
+					  if (this.lexsplit.selections[ii])
+					  {
+						  result.push(this.rows[ii]);
+					  }
+				  }
+				  return result;
+			  }
+		  },
+		  methods : {
+			  changed : function (event)
+			  {
+				  var indicators = Array(event.length).fill(false);
+				  for (var ii = 0; ii < event.length; ii++)
+				  {
+					  evI = event[ii].index;
+					  indicators[evI] = true;
+				  }
+				  this.lexsplit.selections = indicators;
+				  this.$emit("update", indicators);
+			  }
+		  }
+	  });
+
+    // <div style="margin:30px;max-width:250px">
+    //    <q-item><q-item-section avatar>
+    //    <q-badge color="primary">Max dist.</q-badge></q-item-section>
+    //    <q-item-section>
+    //    <q-slider v-model=skips :min="1" :max="maxskips"
+    //    label label-always>
+    //    </q-item-section>
+    // </div>
+
+	  app.component("paradigm-viewer", {
+		  props: ["word", "corpus", "lexinfo", "lexsplit", "analogies"],
+		  template: `<div style="margin:10px" v-if="lexsplit != undefined">
+                        <q-table
+                         v-bind:rows="rows"
+                         v-bind:columns="columns"
+                         v-bind:row-key="row => row.index"
+                         :pagination="pagination"
+                         dense
+                         :rows-per-page-options="[0]"
+                         virtual-scroll>
+                       </q-table>
+                    </div>`,
+		  data : function ()
+		  {
+			  return {
+				  pagination : {
+					  sortBy : "distance",
+					  descending : false,
+					  rowsPerPage : 10,
+				  },
+				  skips : undefined,
+				  maxskips : undefined,
+			  }
+		  },
+		  methods : {
+			  relatives : function ()
+			  {
+				  // console.log("getting relatives " + this.skips +
+				  // 			  " steps from " + this.lexsplitObj.name);
+				  seen = {};
+				  seen[[this.lexsplitObj.word, this.lexsplitObj.id]] = [];
+				  this.getRelatives([this.lexsplitObj.word, this.lexsplitObj.id], 0, seen, []);
+				  // console.log("termination")
+				  // console.log(seen);
+				  //don't return starting point
+				  delete seen[[this.lexsplitObj.word, this.lexsplitObj.id]];
+				  return seen;
+			  },
+			  getRelatives : function (split, skips, seen, path)
+			  {
+				  // console.log(":: getting relatives " + skips +
+				  // 			  " " + split);
+				  if (skips == this.skips)
+				  {
+					  return;
+				  }
+
+				  // console.log("abw:");
+				  // console.log(this.analogiesByWord);
+
+				  let fromHere = this.analogiesByWord[split];
+				  if (fromHere == undefined)
+				  {
+					  return;
+				  }
+				  let analogies = Object.values(fromHere);
+				  // console.log("considering " + analogies.length +" items here")
+				  // console.log(analogies);
+				  for(var ii = 0; ii < analogies.length; ii++)
+				  {
+					  analogyI = analogies[ii];
+					  // console.log("at depth " + skips + " visit " + analogyI.left + " " + analogyI.right)
+
+					  let other = ((arrayEQ(analogyI.left, split)) ?
+								   analogyI.right : analogyI.left);
+					  let pathTo = path.concat([{ analogy : analogyI.name, destination : other }])
+					  // console.log("computed path at depth " + skips + " to " + other);
+					  // console.log(pathTo);
+					  if (!(other in seen) || seen[other].length > pathTo.length)
+					  {
+						  // console.log("accepted");
+						  seen[other] = pathTo;
+						  this.getRelatives(other, skips + 1, seen, pathTo);
+					  }
+				  }
+			  },
+		  },
+		  computed : {
+			  lexsplitObj : function ()
+			  {
+				  return this.lexinfo[this.lexsplit[0]][this.lexsplit[1]];
+			  },
+			  analogiesByWord : function ()
+			  {
+				  var res = {};
+				  let analogyLst = Object.values(this.analogies);
+				  for (var ii = 0; ii < analogyLst.length; ii++)
+				  {
+					  aI = analogyLst[ii];
+					  if (!aI.approved)
+					  {
+						  continue;
+					  }
+
+					  for (var jj = 0; jj < aI.members.length; jj++)
+					  {
+						  if(!aI.selections[jj])
+						  {
+							  continue;
+						  }
+						  
+						  mem = aI.members[jj];
+						  let left = mem.left;
+						  let right = mem.right;
+
+						  if(arrayEQ(left, right))
+						  {
+							  continue; //do not allow loops
+						  }
+
+						  if (!(left in res))
+						  {
+							  res[left] = [];
+						  }
+						  if (!(right in res))
+						  {
+							  res[right] = [];
+						  }
+
+						  const desc = { name : aI.name,
+										 analogy : aI,
+										 left : left, right : right
+									   };
+
+						  res[left].push(desc);
+						  res[right].push(desc);
+					  }
+				  }
+				  // console.log("printing abw");
+				  // console.log(res);
+
+				  return res;
+			  },
+			  rows : function ()
+			  {
+				  let that = this;
+				  formatRow = function (relative, index)
+				  {
+					  nn = relative[1].length;
+					  relationStr = "";
+					  for (var ii = 0; ii < nn; ii++)
+					  {
+						  let ana = relative[1][ii].analogy;
+						  let dest = relative[1][ii].destination;
+						  let split = that.lexinfo[dest[0]][dest[1]];
+						  let relName = split.name;
+						  if (ii < nn - 1)
+						  {
+							  relationStr += ana + "->" + relName + ", ";
+						  }
+						  else
+						  {
+							  relationStr += ana;
+						  }
+					  }
+
+					  let dest = relative[1][nn - 1].destination;
+					  let split = that.lexinfo[dest[0]][dest[1]];
+					  let relName = split.name;
+					  
+					  return { index : index,
+							   relative : relName,
+							   distance : relative[1].length,
+							   relation : relationStr };
+				  }
+				  return Object.entries(this.relatives()).map(formatRow);
+			  },
+			  columns : function ()
+			  {
+				  const columns = [
+					  { name : "index", label : "#", field : "index"},
+					  { name : "relative", label : "Relative",
+						field : "relative"},
+					  { name : "distance", label : "Dist", field : "distance"},
+					  { name : "relation", label : "Relation",
+						field : "relation"},
+				  ];
+				  return columns;
+			  },
+		  }
+	  });
+
+	  app.component("lexicon-browser", {
+		  props: ["lexinfo", "words", "corpus", "analogies"],
+		  template: `<div>
+                      <searchable-menu
+                       v-bind:items="words"
+                       v-bind:value="display"
+                       v-on:setvalue="display = $event">
+                      </searchable-menu>
+                      <lexical-entry-table
+                       v-bind:word="display"
+                       v-bind:corpus="corpus"
+                       v-bind:lexinfo="lexinfo"
+                       v-bind:lexsplit="lexsplit"
+                       v-on:update="lexsplit=$event">
+                      </lexical-entry-table>
+                      <p v-if="lexsplit != undefined" style="margin:10px"><strong>
+                        Viewing lexical split:
+                        {{lexsplitObj.name}}</strong>
+                      </p>
+                      <paradigm-viewer
+                       v-bind:word="display"
+                       v-bind:corpus="corpus"
+                       v-bind:lexinfo="lexinfo"
+                       v-bind:lexsplit="lexsplit"
+                       v-bind:analogies="analogies">
+                     </div>`,
+		  data : function ()
+		  {
+			  return { display : "", lexsplit : undefined };
+		  },
+		  computed : {
+			  lexsplitObj : function ()
+			  {
+				  if (this.lexsplit == undefined)
+				  {
+					  return undefined;
+				  }
+				  return this.lexinfo[this.lexsplit[0]][this.lexsplit[1]];
+			  }
+		  }
+	  });
+
+	  app.component("analogy-browser", {
+		  props: ["lexinfo", "words", "corpus", "analogies"],
+		  template: `<div>
+                     <q-list bordered padding>
+                       <q-item-label header>Analogies</q-item-label>
+                       <q-expansion-item label="View existing analogies..." >
+                        <q-table
+                           v-bind:rows="rows"
+                           v-bind:columns="columns"
+                           v-bind:row-key="row => row.index"
+                           v-on:row-click="selectRow"
+                           v-model:pagination="pagination"
+                           style="height:200px"
+                           v-model:selected="selected"
+                           v-on:update:selected="changed"
+                           dense
+                           selection="multiple"
+                           :rows-per-page-options="[0]"
+                           virtual-scroll>
+                         </q-table>
+                        </q-expansion-item>
+                       <analogy-editor v-if="this.currentAnalogy != undefined"
+                         v-bind:lexinfo="lexinfo"
+                         v-bind:words="words"
+                         v-bind:corpus="corpus"
+                         v-bind:analogies="analogies"
+                         v-bind:lexicalExample="lexicalExample"
+                         v-bind:currentid="currentAnalogy"
+                         v-on:update="updateCurrent($event)">
+                        </analogy-editor>                        
+                       <q-expansion-item label="Create new analogy...">
+                        <analogy-member-adder
+                         v-bind:analogy="null"
+                         v-bind:lexinfo="lexinfo"
+                         v-bind:corpus="corpus"
+                         v-bind:words="words"
+                         v-bind:analogies="analogies"
+                         v-bind:lexicalExample="lexicalExample">
+                        </analogy-member-adder>
+                        </q-expansion-item>
+                       <q-separator spaced></q-separator>
+                       <q-item-label header>Word Senses</q-item-label>
+                        <q-expansion-item label="View, edit and create word senses..." >
+                         <lexical-entry-browser
+                          v-bind:lexinfo="lexinfo"
+                          v-bind:words="words"
+                          v-bind:corpus="corpus"></lexical-entry-browser>
+                         </q-expansion-item>
+                     </q-list>
+                    </div>`,
+		  data : function ()
+		  {
+			  return { currentAnalogy : undefined };
+		  },
+		  methods : {
+			  lexicalExample : function(lexSplit)
+			  {
+				  let word = lexSplit.word;
+				  if(!(word in this.corpus))
+				  {
+					  return "error: no examples"
+				  }
+				  let exes = this.corpus[word].examples;
+				  for (var ii = 0; ii < exes.length; ii++)
+				  {
+					  let sel = lexSplit.selections[ii];
+					  if (sel)
+					  {
+						  let example = exes[ii];
+						  let len = example.length;
+						  let wordIndex = example.map(xx => xx.toLowerCase()).indexOf(word);
+						  let lhs = example.slice(0, wordIndex).join(" ");
+						  let rhs = example.slice(wordIndex + 1, len).join(" ");
+						  return lhs + " <strong>" + word + "</strong> " + rhs;
+					  }
+				  }
+				  return "(no examples)"
+			  },
+			  selectRow : function (event, row)
+			  {
+				  console.log("selected");
+				  console.log(row);
+				  console.log("setting curr analogy to " + row.index);
+				  this.currentAnalogy = row.index;
+			  },
+			  changed : function (event)
+			  {
+				  let analogyLst = Object.values(this.analogies);
+				  for(var ii = 0; ii < analogyLst.length; ii++)
+				  {
+					  analogyLst[ii].approved = false;
+				  }
+				  for (var ii = 0; ii < event.length; ii++)
+				  {
+					  evI = event[ii].index;
+					  rowAna = this.analogies[evI];
+					  rowAna.approved = true;
+				  }
+			  },
+			  updateCurrent : function (event)
+			  {
+				  console.log("caught update from analogy creator");
+				  console.log(event);
+				  this.currentAnalogy = event;
+			  }
+		  },
+		  computed : {
+			  selected : function ()
+			  {
+				  var result = [];
+				  for(var ii = 0; ii < this.rows.length; ii++)
+				  {
+					  index = this.rows[ii].index;
+					  if (index != undefined)
+					  {
+						  rowAna = this.analogies[index];
+						  if (rowAna.approved)
+						  {
+							  result.push(this.rows[ii]);
+						  }
+					  }
+				  }
+				  return result;
+			  },
+			  rows : function ()
+			  {
+				  formatRow = function (analogy, index)
+				  {
+					  nMembers = analogy.selections.filter(xx => xx).length
+					  return {
+						  index : analogy.id,
+						  name : analogy.name,
+						  provenance : analogy.provenance,
+						  members : nMembers,
+					  };
+				  }
+				  return Object.values(this.analogies).map(formatRow);
+			  },
+			  columns : function ()
+			  {
+				  const columns = [
+					  { name : "index", label : "#", field : "index"},
+					  { name : "name", label : "name", field : "name"},
+					  { provenance : "provenance", label : "source", field : "provenance" },
+					  { name : "members", label : "Size", field : "members"}
+				  ];
+			  }
+		  },
+	  });
+
+	  app.component("analogy-editor", {
+		  props: ["lexinfo", "words", "corpus", "analogies", "currentid", "lexicalExample"],
+		  template: `<div>
+                     <q-card bordered>
+                     <q-card-section>
+                      <p><strong>Current analogy:
+                       <input v-model="analogy.name"></input>
+                       ({{headExample}})</strong></p>
+                      <p v-html="oneExample"></p>
+                      <q-expansion-item label="View and edit members...">
+                        <q-card bordered>  
+                          <q-table
+                            v-bind:rows="rows"
+                            v-bind:columns="columns"
+                            v-bind:row-key="row => row.index"
+                            v-on:row-click="selectRow"
+                            selection="multiple"
+                            v-model:selected="selected"
+                            v-on:update:selected="changed"
+                            v-model:pagination="pagination"
+                            :rows-per-page-options="[0]"
+                            style="height:200px"
+                            virtual-scroll
+                            dense>
+                            <template v-slot:body-selection="scope">
+                              <q-checkbox dense v-model="scope.selected" />
+                            </template>
+                           </q-table>
+                         <q-separator/>
+                         <q-card-actions>
+                          <analogy-member-actions
+                           v-bind:analogy="analogy"
+                           v-bind:member="selectedMember"
+                           v-bind:lexinfo="lexinfo"
+                           v-bind:corpus="corpus"
+                           v-bind:lexicalExample="lexicalExample">
+                          </analogy-member-actions>
+                         </q-card-actions>
+                        </q-card>
+                       </q-expansion-item>
+                       <q-expansion-item label="Add a new member...">
+                        <analogy-member-adder
+                         v-bind:analogy="analogy"
+                         v-bind:lexinfo="lexinfo"
+                         v-bind:corpus="corpus"
+                         v-bind:words="words"
+                         v-bind:analogies="analogies"
+                         v-bind:lexicalExample="lexicalExample">
+                        </analogy-member-adder>
+                       </q-expansion-item>
+                     </q-card-section>
+                     </q-card>
+                     </div>`,
+		  data : function ()
+		  {
+			  return { selectedMember : undefined }
+		  },
+		  methods : {
+			  selectRow : function (event, row)
+			  {
+				  console.log("chose analogy member");
+				  console.log(row);
+				  this.selectedMember = row.index;
+			  },
+			  changed : function (event)
+			  {
+				  var indicators = Array(event.length).fill(false);
+				  for (var ii = 0; ii < event.length; ii++)
+				  {
+					  evI = event[ii].index;
+					  indicators[evI] = true;
+				  }
+				  this.analogy.selections = indicators;
+				  if (!this.analogy.selections[this.analogy.head])
+				  {
+					  for (var ii = 0; ii < this.analogy.selections.length; ii++)
+					  {
+						  if (this.analogy.selections[ii])
+						  {
+							  this.analogy.head = ii;
+							  break;
+						  }
+					  }
+				  }
+				  // this.$emit("update", indicators);
+			  },
+		  },
+		  computed : {
+			  analogy : function ()
+			  {
+				  console.log("checking current analogy " + this.currentid);
+				  if (this.currentid != undefined)
+				  {
+					  return this.analogies[this.currentid];
+				  }
+			  },
+			  headExample : function ()
+			  {
+				  if (this.analogy == undefined)
+				  {
+					  return "";
+				  }
+				  let headMem = this.analogy.members[this.analogy.head];
+				  console.log("head mem");
+				  console.log(headMem);
+				  let leftSplit = this.lexinfo[headMem.left[0]][headMem.left[1]];
+				  let rightSplit = this.lexinfo[headMem.right[0]][headMem.right[1]];
+				  return leftSplit.name + " ~ " + rightSplit.name;
+			  },
+			  oneExample : function ()
+			  {
+				  let headMem = this.analogy.members[this.analogy.head];
+				  let leftSplit = this.lexinfo[headMem.left[0]][headMem.left[1]];
+				  let rightSplit = this.lexinfo[headMem.right[0]][headMem.right[1]];
+				  leftExe = this.lexicalExample(leftSplit);
+				  rightExe = this.lexicalExample(rightSplit);
+				  //console.log("got an example " + leftExe + rightExe);
+				  return leftExe + " ~ " + rightExe;
+			  },
+			  rows : function ()
+			  {
+				  if (this.analogy == undefined)
+				  {
+					  return [];
+				  }
+
+				  let that = this;
+				  
+				  formatRow = function (member, index)
+				  {
+					  let leftSplit = that.lexinfo[member.left[0]][member.left[1]];
+					  let rightSplit = that.lexinfo[member.right[0]][member.right[1]];
+
+					  return {
+						  index : index,
+						  left : member.left[0],
+						  leftSplit : leftSplit.name,
+						  right : member.right[0],
+						  rightSplit : rightSplit.name,
+					  };
+				  }
+				  // console.log("mapping rows");
+				  // console.log(this.analogy.members);
+				  return this.analogy.members.map(formatRow);
+			  },
+			  columns : function ()
+			  {
+				  const columns = [
+					  { name : "index", label : "#", field : "index"},
+					  { name : "left-word", label : "Word A", field : "left"},
+					  { name : "left-split", label : "(Lex)",
+						field : "leftSplit"},
+					  { name : "right-word", label : "Word B",
+						field : "right"},
+					  { name : "right-split", label : "(Lex)",
+						field : "rightSplit"},
+				  ];
+			  },
+			  selected : function ()
+			  {
+				  if (this.analogy == undefined)
+				  {
+					  return [];
+				  }
+				  var result = [];
+				  for(var ii = 0; ii < this.analogy.selections.length; ii++)
+				  {
+					  if (this.analogy.selections[ii])
+					  {
+						  result.push(this.rows[ii]);
+					  }
+				  }
+				  return result;
+			  },
+		  },
+		  watch : {
+			  analogy : function (newAna, oldAna)
+			  {
+				  if (newAna != oldAna)
+				  {
+					  this.selectedMember = undefined;
+				  }
+			  },
+		  },
+	  });
+
+	  app.component("analogy-member-actions", {
+		  props : ["analogy", "member", "lexinfo", "corpus", "lexicalExample"],
+		  template : `<div v-if="member != undefined">
+                       <p v-html="memExample"></p>
+                         <div class="row" style="gap:30px;margin:30px">
+                            <lexical-entry-picker
+                             v-bind:word="this.memberObj.left[0]"
+                             v-bind:corpus="corpus"
+                             v-bind:lexinfo="lexinfo"
+                             v-bind:lexsplit="this.memberObj.left[1]"
+                             v-on:update="choseSplit(this.memberObj.left, $event)">
+                            </lexical-entry-picker>
+                            <lexical-entry-picker
+                             v-bind:word="this.memberObj.right[0]"
+                             v-bind:corpus="corpus"
+                             v-bind:lexinfo="lexinfo"
+                             v-bind:lexsplit="this.memberObj.right[1]"
+                             v-on:update="choseSplit(this.memberObj.right, $event)">
+                            </lexical-entry-picker>
+                            <q-btn color="primary" label="Make headword"
+                             v-on:click="makeHead"></q-btn>
+                         </div>
+                      </div>`,
+		  data : function ()
+		  {
+			  return { }
+		  },
+		  methods : {
+			  makeHead : function ()
+			  {
+				  this.analogy.head = this.member;
+			  },
+			  choseSplit : function(memberField, evt)
+			  {
+				  if(evt != undefined)
+				  {
+					  memberField[1] = evt;
+				  }
+			  }
+		  },
+		  computed : {
+			  memberObj : function ()
+			  {
+				  return this.analogy.members[this.member];
+			  },
+			  memExample : function ()
+			  {
+				  console.log("trying to get example");
+				  let leftSplit = this.lexinfo[this.memberObj.left[0]][this.memberObj.left[1]];
+				  let rightSplit = this.lexinfo[this.memberObj.right[0]][this.memberObj.right[1]];
+				  leftExe = this.lexicalExample(leftSplit);
+				  rightExe = this.lexicalExample(rightSplit);
+				  //console.log("got an example " + leftExe + rightExe);
+				  return leftExe + " ~ " + rightExe;
+			  },
+		  },
+	  });
+
+	  app.component("analogy-member-adder", {
+		  props : ["analogy", "lexinfo", "corpus", "words", "lexicalExample", "analogies"],
+		  template : `<div class="q-gutter-md">
+                      <q-card bordered>
+                       <q-card-section>
+                       <p v-html="memExample"></p>
+                       <div style="display:flex" class="row">
+                        <div class="align-start" style="flex:1">
+                          <searchable-menu
+                            v-bind:items="words"
+                            v-bind:value="word1"
+                            v-on:setvalue="word1 = $event">
+                           </searchable-menu>
+                          <strong>{{word1}}</strong>
+                          <lexical-entry-picker
+                           v-bind:word="word1"
+                           v-bind:corpus="corpus"
+                           v-bind:lexinfo="lexinfo"
+                           v-bind:lexsplit="lexsplit1"
+                           v-on:update="lexsplit1=$event">
+                          </lexical-entry-picker>
+                        </div>
+                        <div class="align-start" style="flex:1">
+                          <searchable-menu
+                            v-bind:items="words"
+                            v-bind:value="word2"
+                            v-on:setvalue="word2 = $event">
+                           </searchable-menu>
+                          <strong>{{word2}}</strong>
+                          <lexical-entry-picker
+                           v-bind:word="word2"
+                           v-bind:corpus="corpus"
+                           v-bind:lexinfo="lexinfo"
+                           v-bind:lexsplit="lexsplit2"
+                           v-on:update="lexsplit2=$event">
+                          </lexical-entry-picker>
+                        </div>
+                       </div>
+                      <input v-if="analogy == null" v-model="name">
+                      <q-btn v-bind:label="buttonLabel"
+                        text-color="black"
+                        v-bind:color="validcolor"
+                        v-on:click="approveAdd()">
+                      </q-btn>
+                      </q-card-section>
+                      </q-card>
+                      </div>`,
+		  data : function ()
+		  {
+			  return { word1 : undefined, lexsplit1 : undefined,
+					   word2 : undefined, lexsplit2 : undefined, name : undefined }
+		  },
+		  methods : {
+			  approveAdd : function ()
+			  {
+				  const newWord = {
+					  left : [ this.word1, this.lexsplit1 ],
+					  right : [ this.word2, this.lexsplit2 ],
+				  };
+
+				  if (this.analogy != null)
+				  {
+					  console.log("adding to analogy");
+					  this.analogy.members.push(newWord);
+					  this.analogy.selections.push(true);
+				  }
+				  else
+				  {
+					  nextID = Math.max(...Object.keys(this.analogies)) + 1;
+
+					  const analogy = {
+						  id : nextID,
+						  name : this.name,
+						  members : [ newWord ],
+						  selections : [ true ],
+						  provenance : "web",
+						  approved : true,
+						  head : 0
+					  };
+					  console.log("created analogy")
+					  console.log(analogy);
+					  this.analogies[nextID] = analogy;
+				  }
+			  },
+		  },
+		  computed : {
+			  memExample : function ()
+			  {
+				  var leftBit = "<strong>(select a word and sense...)</strong>";
+				  var rightBit = "<strong>(select a word and sense...)</strong>";
+				  if (this.word1 != undefined && this.lexsplit1 != undefined)
+				  {
+					  let split = this.lexinfo[this.word1][this.lexsplit1];
+					  leftBit = this.lexicalExample(split);
+				  }
+				  if (this.word2 != undefined && this.lexsplit2 != undefined)
+				  {
+					  let split = this.lexinfo[this.word2][this.lexsplit2];
+					  rightBit = this.lexicalExample(split);
+				  }
+				  return leftBit + " ~ " + rightBit;
+			  },
+			  valid : function ()
+			  {
+				  return (this.word1 != undefined && this.word2 != undefined &&
+						  this.lexsplit1 != undefined &&
+						  this.lexsplit2 != undefined);
+			  },
+			  validcolor : function ()
+			  {
+				  if(this.alreadyPresent)
+				  {
+					  return "grey";
+				  }
+				  else if (this.valid)
+				  {
+					  return "primary";
+				  }
+				  else
+				  {
+					  return "grey";
+				  }
+			  },
+			  alreadyPresent : function ()
+			  {
+				  if (!this.valid || this.analogy == null)
+				  {
+					  return false;
+				  }
+				  let that = this;
+				  function checkMember (member)
+				  {
+					  if (member.left[0] == that.word1 && member.left[1] == that.lexsplit1 &&
+						  member.right[0] == that.word2 && member.right[1] == that.lexsplit2)
+					  {
+						  return true;
+					  }
+				  }
+
+				  let res = this.analogy.members.some(checkMember);
+				  return res;
+			  },
+			  buttonLabel : function ()
+			  {
+				  if (!this.valid)
+				  {
+					  return "Select word senses...";
+				  }
+				  else if (this.alreadyPresent)
+				  {
+					  return "Already a member";
+				  }
+				  else if (this.analogy == null)
+				  {
+					  return "New analogy"
+				  }
+				  else
+				  {
+					  return "Add to analogy";
+				  }
+			  },
+			  suggestedName : function ()
+		  	  {
+				  if (!this.valid || this.analogy != null)
+				  {
+					  return "";
+				  }
+				  else
+				  {
+					  let leftSplit = this.lexinfo[this.word1][this.lexsplit1];
+					  let rightSplit = this.lexinfo[this.word2][this.lexsplit2];
+					  console.log("left and right split");
+					  console.log(leftSplit);
+					  console.log(rightSplit);
+					  return (leftSplit.name + "~" + rightSplit.name);
+				  }
+			  }	  
+		  },
+		  watch : {
+			  suggestedName : function(newName, oldName)
+			  {
+				  //automatically suggest a name based on user input
+				  this.name = newName;
+			  },
+		  }
+	  });
+	  
+	  app.component("lexical-entry-browser", {
+		  props : ["lexinfo", "corpus", "words"],
+		  template : `<div class="q-gutter-md">
+                      <q-card bordered>
+                       <q-card-section>
+                       View and edit lexical entries for word:
+                       <searchable-menu
+                         v-bind:items="words"
+                         v-bind:value="word"
+                         v-on:setvalue="word = $event"></searchable-menu>
+                         <div v-if="word != undefined && hasSplits(word)">
+                           <lexical-entry-table
+                            v-bind:word="word"
+                            v-bind:corpus="corpus"
+                            v-bind:lexinfo="lexinfo"
+                            v-bind:lexsplit="lexsplit"
+                            v-on:update="lexsplit=$event"></lexical-entry-table>
+                         </div>
+                         <div v-if="word != undefined && !hasSplits(word)">
+                          No lexical entries for {{word}}
+                         </div>
+                       </q-card-section>
+                       <div v-if="lexsplit != undefined">
+                         <q-card-section>
+                          <input
+                           v-model="this.lexsplitObj.name"></input>
+                          <p v-html="oneExample"></p>
+                          <q-expansion-item label="Edit concordance...">
+                            <concordance
+                             v-bind:corpus=corpus
+                             v-bind:lexinfo=lexinfo
+                             v-bind:lexsplitIndex=lexsplit></concordance>
+                          </q-expansion-item>
+                          </q-card-section>
+                        </div>
+                        <q-expansion-item v-if="word != undefined" label="Add a sense for this word...">
+                         <lexical-entry-creator
+                           v-bind:corpus=corpus
+                           v-bind:lexinfo=lexinfo
+                           v-bind:words=words
+                           v-bind:word=word
+                           v-on:update="updateSplit"></lexical-entry-creator>
+                          </lex-entry-creator>
+                        </q-expansion-item>
+                      </q-card>
+                      </div>`,
+		  data : function () { return { "word" : undefined, "lexsplit" : undefined } },
+		  methods : {
+			  updateSplit : function (event)
+			  {
+				  console.log("updating split on event");
+				  this.lexsplit = event;
+				  console.log(event);
+			  },
+			  hasSplits : function (word)
+			  {
+				  if (!(word in this.lexinfo))
+				  {
+					  return false;
+				  }
+				  let info = this.lexinfo[word];
+				  return Object.keys(info).length;
+			  },
+		  },
+		  computed : {
+			  lexsplitObj : function ()
+			  {
+				  return this.lexinfo[this.lexsplit[0]][this.lexsplit[1]];
+			  },
+			  oneExample : function ()
+			  {
+				  let word = this.lexsplitObj.word;
+				  let exes = this.corpus[word].examples;
+				  for (var ii = 0; ii < exes.length; ii++)
+				  {
+					  let sel = this.lexsplitObj.selections[ii];
+					  if (sel)
+					  {
+						  let example = exes[ii];
+						  let len = example.length;
+						  let wordIndex = example.map(xx => xx.toLowerCase()).indexOf(word);
+						  let lhs = example.slice(0, wordIndex).join(" ");
+						  let rhs = example.slice(wordIndex + 1, len).join(" ");
+						  return lhs + " <strong>" + word + "</strong> " + rhs;
+					  }
+				  }
+				  return "(no examples)"
+			  }
+		  },
+	  });
+
+	  app.component("lexical-entry-creator", {
+		  props : ["lexinfo", "corpus", "words", "word"],
+		  template : `<div class="q-gutter-md">
+                       <q-card bordered>
+                       <q-card-section>
+                        <input v-model="splitname" placeholder="Name..."
+                          v-on:update="updateSplit" v-on:keyup.enter="updateSplit"></input>
+                        <q-btn label="Create sense" color="primary" v-on:click="updateSplit">
+                       </q-card-section>
+                       </q-card>
+                      </div>`,
+		  data : function ()
+		  {
+			  return { splitname : undefined };
+		  },
+		  methods : {
+			  newLexicalSplit : function ()
+			  {
+				  //wish I could avoid this code copying but don't see how
+				  if (!(this.word in this.lexinfo))
+				  {
+					  this.lexinfo[this.word] = {};
+				  }
+				  nextID = Math.max(...Object.keys(this.lexinfo[this.word])) + 1;
+				  console.log("considering keys");
+				  console.log(Object.keys(this.lexinfo[this.word]));
+				  console.log("got next id is " + nextID);
+				  name = this.splitname;
+				  exes = this.corpus[this.word].examples;
+				  nExe = exes.length;
+				  lexsplit = { word : this.word, name : name,
+							   id : nextID,
+   							   selections : Array(nExe).fill(true)
+							 };
+
+				  // console.log("created new split: " + lexsplit);
+
+				  this.lexinfo[this.word][nextID] = lexsplit;
+				  return nextID;
+			  },
+			  updateSplit : function (event)
+			  {
+				  console.log("updating new lex entry");
+				  let newSplit = this.newLexicalSplit();
+				  this.lexsplit = newSplit;
+				  this.$emit("update", [this.word, this.lexsplit]);
+			  }
+		  },
+	  });
+
+      app.use(Quasar)
+      app.mount('#app')
+    </script>
+  </body>
+</html>
