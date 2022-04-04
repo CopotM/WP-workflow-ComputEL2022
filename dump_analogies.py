@@ -34,19 +34,17 @@ if __name__ == "__main__":
         for pos, form in pos2form.items():
             if form not in corpus:
                 continue
-            nExe = len(corpus[form])
+            nExe = len(corpus[form]["examples"])
             if form not in lexSplits:
-                lexSplits[form] = [ { "name" : "%s_1" % form,
-                                      "id" : 1,
-                                      "word" : form,
-                                      "examples" : "null",
-                                      "selections" : [True for xx in range(nExe)] } ]
+                lexSplits[form] = { 1 : { "name" : "%s_1" % form,
+                                          "id" : 1,
+                                          "word" : form,
+                                          "selections" : [True for xx in range(nExe)] } }
             if lemma not in lexSplits:
-                lexSplits[lemma] = [ { "name" : "%s_1" % lemma,
-                                       "id" : 1,
-                                       "word" : form,
-                                       "examples" : "null",
-                                       "selections" : [True for xx in range(nExe)] } ]
+                lexSplits[lemma] = { 1 : { "name" : "%s_1" % lemma,
+                                           "id" : 1,
+                                           "word" : lemma,
+                                           "selections" : [True for xx in range(nExe)] } }
 
             if pos not in analogies:
                 idn = len(analogies)
@@ -55,15 +53,16 @@ if __name__ == "__main__":
                 members = []
                 analogy = { "id" : idn, "name" : name,
                             "provenance" : provenance,
-                            "approved" : "false",
+                            "approved" : "true",
                             "selections" : [],
-                            "members" : members }
+                            "members" : members,
+                            "head" : 0 }
                 analogies[pos] = analogy
                 
             analogies[pos]["members"].append( { "left" : [lemma, 1],
-                                             "right" : [form, 1] } )
-            analogies[pos]["selections"].append("false");
+                                                "right" : [form, 1] } )
+            analogies[pos]["selections"].append("true");
 
-    analogies = list(analogies.values())
+    analogies = { ana["id"] : ana for ana in analogies.values() }
     final = { "lexicalInfo" : lexSplits, "analogies" : analogies }
     json.dump(final, open(args.output, "w"))

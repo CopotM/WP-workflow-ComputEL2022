@@ -87,4 +87,10 @@ if __name__ == "__main__":
                 words = [xx[0] for xx in line]
                 concordance[form].append(words)
 
-    json.dump(concordance, open(args.output, "w"))
+    #reformat concordance to dictionary of { word : { word : word, examples : list } }
+    res = {}
+    for key, val in concordance.items():
+        obj = { "word" : key, "examples" : val }
+        res[key] = obj
+                
+    json.dump(res, open(args.output, "w"))
